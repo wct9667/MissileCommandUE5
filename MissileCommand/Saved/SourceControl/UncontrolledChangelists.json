@@ -5,7 +5,26 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
-				"D:/Unreal Projects/MissileCommandUE5/MissileCommand/Content/MainLevel.umap"
+				"D:/Unreal Projects/MissileCommandUE5/MissileCommand/Content/MainLevel.umap",
+				"D:/Unreal Projects/MissileCommandUE5/MissileCommand/Content/Maps/MainLevel.umap",
+				"D:/Unreal Projects/MissileCommandUE5/MissileCommand/Content/__ExternalActors__/Maps/OpenWorld/0/CC/WDYA7H76HHF9UENRUYXBJA.uasset",
+				"D:/Unreal Projects/MissileCommandUE5/MissileCommand/Content/__ExternalActors__/Maps/OpenWorld/0/IT/MHSUN7EJKDAAL8CVT31B9U.uasset",
+				"D:/Unreal Projects/MissileCommandUE5/MissileCommand/Content/__ExternalActors__/Maps/OpenWorld/1/HR/LT682TB6P4HSTJRCMK734C.uasset",
+				"D:/Unreal Projects/MissileCommandUE5/MissileCommand/Content/__ExternalActors__/Maps/OpenWorld/1/SV/SS02XJ52CRRX3HSA4VFDSY.uasset",
+				"D:/Unreal Projects/MissileCommandUE5/MissileCommand/Content/__ExternalActors__/Maps/OpenWorld/2/SJ/GUB2EKUL20O8F1JU7EE2C6.uasset",
+				"D:/Unreal Projects/MissileCommandUE5/MissileCommand/Content/__ExternalActors__/Maps/OpenWorld/5/BO/TIYN0FUM3SH5CEOVF3MCIW.uasset",
+				"D:/Unreal Projects/MissileCommandUE5/MissileCommand/Content/__ExternalActors__/Maps/OpenWorld/8/YO/ESEY0E5HXEVVN5BDMQZLOE.uasset",
+				"D:/Unreal Projects/MissileCommandUE5/MissileCommand/Content/__ExternalActors__/Maps/OpenWorld/D/6F/D33XLI8PYECFOTGNZSA42R.uasset",
+				"D:/Unreal Projects/MissileCommandUE5/MissileCommand/Content/__ExternalActors__/Maps/OpenWorld/D/WF/ZAYT9Q4BG64HJSP3QN6FTA.uasset",
+				"D:/Unreal Projects/MissileCommandUE5/MissileCommand/Content/__ExternalActors__/Maps/OpenWorld/E/C4/F02RBAU6SZ9EGKCNGLSPBP.uasset",
+				"D:/Unreal Projects/MissileCommandUE5/MissileCommand/Content/__ExternalObjects__/Maps/OpenWorld/0/E4/CYKGRERH6W85GKNYN075R6.uasset",
+				"D:/Unreal Projects/MissileCommandUE5/MissileCommand/Content/__ExternalObjects__/Maps/OpenWorld/1/8K/W3DU8S9GY5NIEOUC41H1RJ.uasset",
+				"D:/Unreal Projects/MissileCommandUE5/MissileCommand/Content/__ExternalObjects__/Maps/OpenWorld/7/M0/VB0XCDTPU3KAJ7ORZ58IM8.uasset",
+				"D:/Unreal Projects/MissileCommandUE5/MissileCommand/Content/__ExternalObjects__/Maps/OpenWorld/7/X9/GFKHLOO9SQ070ZSQAJFRWF.uasset",
+				"D:/Unreal Projects/MissileCommandUE5/MissileCommand/Content/__ExternalObjects__/Maps/OpenWorld/B/0N/QV5BWNRP5R2ESX2U9ZPE7D.uasset",
+				"D:/Unreal Projects/MissileCommandUE5/MissileCommand/Content/__ExternalObjects__/Maps/OpenWorld/E/5K/QFS06FTX0D1R8IW38Z9YLX.uasset",
+				"D:/Unreal Projects/MissileCommandUE5/MissileCommand/Content/Maps/OpenWorld.umap",
+				"D:/Unreal Projects/MissileCommandUE5/MissileCommand/Content/GameModes/BP_GameMode.uasset"
 			]
 		}
 	]

@@ -24,7 +24,22 @@
 				"D:/Unreal Projects/MissileCommandUE5/MissileCommand/Content/__ExternalObjects__/Maps/OpenWorld/B/0N/QV5BWNRP5R2ESX2U9ZPE7D.uasset",
 				"D:/Unreal Projects/MissileCommandUE5/MissileCommand/Content/__ExternalObjects__/Maps/OpenWorld/E/5K/QFS06FTX0D1R8IW38Z9YLX.uasset",
 				"D:/Unreal Projects/MissileCommandUE5/MissileCommand/Content/Maps/OpenWorld.umap",
-				"D:/Unreal Projects/MissileCommandUE5/MissileCommand/Content/GameModes/BP_GameMode.uasset"
+				"D:/Unreal Projects/MissileCommandUE5/MissileCommand/Content/GameModes/BP_GameMode.uasset",
+				"D:/Unreal Projects/MissileCommandUE5/MissileCommand/Content/PlayerInput/BP_Pawn_Player.uasset",
+				"D:/Unreal Projects/MissileCommandUE5/MissileCommand/Content/PlayerInput/BP_PlayerController.uasset",
+				"D:/Unreal Projects/MissileCommandUE5/MissileCommand/Content/PlayerInput/NewBlueprint.uasset",
+				"D:/Unreal Projects/MissileCommandUE5/MissileCommand/Content/PlayerInput/BP_GameInstance.uasset",
+				"D:/Unreal Projects/MissileCommandUE5/MissileCommand/Content/GameModes/BP_GameInstance.uasset",
+				"D:/Unreal Projects/MissileCommandUE5/MissileCommand/Content/Input/IA_Move.uasset",
+				"D:/Unreal Projects/MissileCommandUE5/MissileCommand/Content/Input/IMC.uasset",
+				"D:/Unreal Projects/MissileCommandUE5/MissileCommand/Content/PlayerInput/IA_AIM.uasset",
+				"D:/Unreal Projects/MissileCommandUE5/MissileCommand/Content/PlayerInput/IA_FireSilo1.uasset",
+				"D:/Unreal Projects/MissileCommandUE5/MissileCommand/Content/PlayerInput/IA_FireSilo2.uasset",
+				"D:/Unreal Projects/MissileCommandUE5/MissileCommand/Content/PlayerInput/IMC.uasset",
+				"D:/Unreal Projects/MissileCommandUE5/MissileCommand/Content/PlayerInput/BP_Paddle.uasset",
+				"D:/Unreal Projects/MissileCommandUE5/MissileCommand/Content/PlayerInput/BP_FirstPersonCharacter.uasset",
+				"D:/Unreal Projects/MissileCommandUE5/MissileCommand/Content/PlayerInput/BP/BP_PlayerController.uasset",
+				"D:/Unreal Projects/MissileCommandUE5/MissileCommand/Content/PlayerInput/BP/BP_Pawn_Player.uasset"
 			]
 		}
 	]

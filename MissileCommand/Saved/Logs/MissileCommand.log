@@ -3463,3 +3463,1367 @@ LogConfig: CVar [[D3D12.Bindless.ResourceDescriptorHeapSize:32768]] deferred - d
 [2025.03.17-19.08.52:620][721]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=21
 [2025.03.17-19.08.52:629][721]LogUObjectHash: Compacting FUObjectHashTables data took   1.77ms
 [2025.03.17-19.08.52:798][722]LogPlayLevel: Display: Destroying online subsystem :Context_26
+[2025.03.17-19.09.28:214][197]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2025.03.17-19.09.28:329][197]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.03.17-19.09.28:343][197]LogPlayLevel: Display: Creating online subsystem for client :Context_27
+[2025.03.17-19.09.28:346][197]LogOnline: OSS: Created online subsystem instance for: :Context_27
+[2025.03.17-19.09.28:365][198]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_MainLevel
+[2025.03.17-19.09.28:367][198]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002193s)
+[2025.03.17-19.09.28:367][198]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/MainLevel.MainLevel to /Game/Maps/UEDPIE_0_MainLevel.MainLevel (0.002253s)
+[2025.03.17-19.09.28:393][198]LogUObjectHash: Compacting FUObjectHashTables data took   1.57ms
+[2025.03.17-19.09.28:395][198]LogChaosDD: Creating Chaos Debug Draw Scene for world MainLevel
+[2025.03.17-19.09.28:396][198]LogPlayLevel: PIE: World Init took: (0.001679s)
+[2025.03.17-19.09.28:397][198]LogAudio: Display: Creating Audio Device:                 Id: 22, Scope: Unique, Realtime: True
+[2025.03.17-19.09.28:397][198]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.03.17-19.09.28:397][198]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.03.17-19.09.28:397][198]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.03.17-19.09.28:397][198]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.03.17-19.09.28:397][198]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2025.03.17-19.09.28:397][198]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.03.17-19.09.28:397][198]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2025.03.17-19.09.28:397][198]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.03.17-19.09.28:397][198]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.03.17-19.09.28:397][198]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.03.17-19.09.28:397][198]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.03.17-19.09.28:400][198]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.03.17-19.09.28:438][198]LogAudioMixer: Display: Using Audio Hardware Device Headphones (Soundcore Life Q30)
+[2025.03.17-19.09.28:439][198]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.03.17-19.09.28:439][198]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.03.17-19.09.28:439][198]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.03.17-19.09.28:440][198]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=22
+[2025.03.17-19.09.28:440][198]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=22
+[2025.03.17-19.09.28:443][198]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=22
+[2025.03.17-19.09.28:443][198]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=22
+[2025.03.17-19.09.28:443][198]LogInit: FAudioDevice initialized with ID 22.
+[2025.03.17-19.09.28:443][198]LogAudio: Display: Audio Device (ID: 22) registered with world 'MainLevel'.
+[2025.03.17-19.09.28:443][198]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 22
+[2025.03.17-19.09.28:445][198]LogLoad: Game class is 'BP_GameMode_C'
+[2025.03.17-19.09.28:446][198]LogWorld: Bringing World /Game/Maps/UEDPIE_0_MainLevel.MainLevel up for play (max tick rate 60) at 2025.03.17-15.09.28
+[2025.03.17-19.09.28:446][198]LogWorld: Bringing up level for play took: 0.000812
+[2025.03.17-19.09.28:450][198]PIE: Server logged in
+[2025.03.17-19.09.28:452][198]PIE: Play in editor total start time 0.123 seconds.
+[2025.03.17-19.09.45:576][204]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.03.17-19.09.45:576][204]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_MainLevel
+[2025.03.17-19.09.45:576][204]LogWorld: UWorld::CleanupWorld for MainLevel, bSessionEnded=true, bCleanupResources=true
+[2025.03.17-19.09.45:577][204]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.03.17-19.09.45:582][204]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.03.17-19.09.45:587][204]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.03.17-19.09.45:611][204]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.03.17-19.09.45:611][204]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 22
+[2025.03.17-19.09.45:611][204]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=22
+[2025.03.17-19.09.45:614][204]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=22
+[2025.03.17-19.09.45:623][204]LogUObjectHash: Compacting FUObjectHashTables data took   1.86ms
+[2025.03.17-19.09.45:702][205]LogPlayLevel: Display: Destroying online subsystem :Context_27
+[2025.03.17-19.11.25:453][950]LogSlate: Window 'Pick Parent Class' being destroyed
+[2025.03.17-19.11.25:472][950]LogContentBrowser: Deferred new asset file creation: NewBlueprint
+[2025.03.17-19.11.25:480][950]LogContentBrowser: Creating deferred item: NewBlueprint
+[2025.03.17-19.11.32:796][951]LogContentBrowser: Renaming the item being created (Deferred Item: NewBlueprint).
+[2025.03.17-19.11.33:090][952]LogContentBrowser: Attempting asset rename: NewBlueprint -> NewBlueprint
+[2025.03.17-19.11.34:049][952]LogContentBrowser: End creating deferred item NewBlueprint
+[2025.03.17-19.12.37:501][348]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 2502.108398
+[2025.03.17-19.12.37:600][354]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.03.17-19.12.37:600][354]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 2502.191406, Update Interval: 316.227295
+[2025.03.17-19.12.55:124][981]LogUObjectHash: Compacting FUObjectHashTables data took   1.51ms
+[2025.03.17-19.12.56:130][981]LogSlate: Window 'Save Content' being destroyed
+[2025.03.17-19.12.56:158][981]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.03.17-19.12.56:281][981]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/GameModes/BP_GameMode] ([2] browsable assets)...
+[2025.03.17-19.12.56:281][981]OBJ SavePackage: Finished generating thumbnails for package [/Game/GameModes/BP_GameMode]
+[2025.03.17-19.12.56:281][981]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/GameModes/BP_GameMode" FILE="../../../../../Unreal Projects/MissileCommandUE5/MissileCommand/Content/GameModes/BP_GameMode.uasset" SILENT=true
+[2025.03.17-19.12.56:433][981]LogSavePackage: Moving output files for package: /Game/GameModes/BP_GameMode
+[2025.03.17-19.12.56:434][981]LogSavePackage: Moving '../../../../../Unreal Projects/MissileCommandUE5/MissileCommand/Saved/BP_GameMode0CF7878947CFD38AC17B26A8094B775B.tmp' to '../../../../../Unreal Projects/MissileCommandUE5/MissileCommand/Content/GameModes/BP_GameMode.uasset'
+[2025.03.17-19.12.56:446][981]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/PlayerInput/BP_Pawn_Player] ([2] browsable assets)...
+[2025.03.17-19.12.56:446][981]OBJ SavePackage: Finished generating thumbnails for package [/Game/PlayerInput/BP_Pawn_Player]
+[2025.03.17-19.12.56:446][981]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/PlayerInput/BP_Pawn_Player" FILE="../../../../../Unreal Projects/MissileCommandUE5/MissileCommand/Content/PlayerInput/BP_Pawn_Player.uasset" SILENT=true
+[2025.03.17-19.12.56:546][981]LogSavePackage: Moving output files for package: /Game/PlayerInput/BP_Pawn_Player
+[2025.03.17-19.12.56:546][981]LogSavePackage: Moving '../../../../../Unreal Projects/MissileCommandUE5/MissileCommand/Saved/BP_Pawn_PlayerF923D9F2440BC38203CCBDB83845F7BB.tmp' to '../../../../../Unreal Projects/MissileCommandUE5/MissileCommand/Content/PlayerInput/BP_Pawn_Player.uasset'
+[2025.03.17-19.12.56:570][981]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/PlayerInput/BP_PlayerController] ([2] browsable assets)...
+[2025.03.17-19.12.56:570][981]OBJ SavePackage: Finished generating thumbnails for package [/Game/PlayerInput/BP_PlayerController]
+[2025.03.17-19.12.56:570][981]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/PlayerInput/BP_PlayerController" FILE="../../../../../Unreal Projects/MissileCommandUE5/MissileCommand/Content/PlayerInput/BP_PlayerController.uasset" SILENT=true
+[2025.03.17-19.12.56:575][981]LogSavePackage: Moving output files for package: /Game/PlayerInput/BP_PlayerController
+[2025.03.17-19.12.56:575][981]LogSavePackage: Moving '../../../../../Unreal Projects/MissileCommandUE5/MissileCommand/Saved/BP_PlayerController1A5717EE4BB0C17CC1A695B5BBB346A0.tmp' to '../../../../../Unreal Projects/MissileCommandUE5/MissileCommand/Content/PlayerInput/BP_PlayerController.uasset'
+[2025.03.17-19.12.56:642][981]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/PlayerInput/NewBlueprint] ([2] browsable assets)...
+[2025.03.17-19.12.56:642][981]OBJ SavePackage: Finished generating thumbnails for package [/Game/PlayerInput/NewBlueprint]
+[2025.03.17-19.12.56:642][981]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/PlayerInput/NewBlueprint" FILE="../../../../../Unreal Projects/MissileCommandUE5/MissileCommand/Content/PlayerInput/NewBlueprint.uasset" SILENT=true
+[2025.03.17-19.12.56:663][981]LogSavePackage: Moving output files for package: /Game/PlayerInput/NewBlueprint
+[2025.03.17-19.12.56:663][981]LogSavePackage: Moving '../../../../../Unreal Projects/MissileCommandUE5/MissileCommand/Saved/NewBlueprintF601CCDC45BA62CEBF882094A49B0E78.tmp' to '../../../../../Unreal Projects/MissileCommandUE5/MissileCommand/Content/PlayerInput/NewBlueprint.uasset'
+[2025.03.17-19.12.56:681][981]LogFileHelpers: InternalPromptForCheckoutAndSave took 522.497 ms (total: 6.49 sec)
+[2025.03.17-19.12.56:772][981]LogContentValidation: Display: Starting to validate 4 assets
+[2025.03.17-19.12.56:772][981]LogContentValidation: Enabled validators:
+[2025.03.17-19.12.56:772][981]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.03.17-19.12.56:772][981]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.03.17-19.12.56:772][981]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.03.17-19.12.56:772][981]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.03.17-19.12.56:772][981]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.03.17-19.12.56:772][981]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.03.17-19.12.56:772][981]AssetCheck: /Game/GameModes/BP_GameMode Validating asset
+[2025.03.17-19.12.56:772][981]AssetCheck: /Game/PlayerInput/BP_Pawn_Player Validating asset
+[2025.03.17-19.12.56:772][981]AssetCheck: /Game/PlayerInput/BP_PlayerController Validating asset
+[2025.03.17-19.12.56:772][981]AssetCheck: /Game/PlayerInput/NewBlueprint Validating asset
+[2025.03.17-19.13.04:406][365]LogContentBrowser: Attempting asset rename: NewBlueprint -> BP_GameInstance
+[2025.03.17-19.13.11:078][365]LogMetaData: Removing '/Game/PlayerInput/BP_GameInstance.SKEL_BP_GameInstance_C' ref from Metadata '/Game/PlayerInput/NewBlueprint.PackageMetaData'
+[2025.03.17-19.13.11:078][365]LogMetaData: Removing '/Game/PlayerInput/BP_GameInstance.BP_GameInstance_C' ref from Metadata '/Game/PlayerInput/NewBlueprint.PackageMetaData'
+[2025.03.17-19.13.11:474][365]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.03.17-19.13.11:474][365]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/PlayerInput/BP_GameInstance] ([2] browsable assets)...
+[2025.03.17-19.13.11:474][365]OBJ SavePackage: Finished generating thumbnails for package [/Game/PlayerInput/BP_GameInstance]
+[2025.03.17-19.13.11:474][365]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/PlayerInput/BP_GameInstance" FILE="../../../../../Unreal Projects/MissileCommandUE5/MissileCommand/Content/PlayerInput/BP_GameInstance.uasset" SILENT=true
+[2025.03.17-19.13.11:478][365]LogSavePackage: Moving output files for package: /Game/PlayerInput/BP_GameInstance
+[2025.03.17-19.13.11:478][365]LogSavePackage: Moving '../../../../../Unreal Projects/MissileCommandUE5/MissileCommand/Saved/BP_GameInstanceE2B95307426998E252E1C18A0FA9FB81.tmp' to '../../../../../Unreal Projects/MissileCommandUE5/MissileCommand/Content/PlayerInput/BP_GameInstance.uasset'
+[2025.03.17-19.13.11:485][365]LogFileHelpers: InternalPromptForCheckoutAndSave took 11.240 ms (total: 6.50 sec)
+[2025.03.17-19.13.11:714][365]LogUObjectHash: Compacting FUObjectHashTables data took   1.57ms
+[2025.03.17-19.13.11:808][365]LogUObjectHash: Compacting FUObjectHashTables data took   1.94ms
+[2025.03.17-19.13.11:827][365]LogUObjectHash: Compacting FUObjectHashTables data took   0.72ms
+[2025.03.17-19.13.11:923][365]LogContentValidation: Display: Starting to validate 1 assets
+[2025.03.17-19.13.11:923][365]LogContentValidation: Enabled validators:
+[2025.03.17-19.13.11:923][365]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.03.17-19.13.11:923][365]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.03.17-19.13.11:923][365]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.03.17-19.13.11:923][365]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.03.17-19.13.11:923][365]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.03.17-19.13.11:923][365]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.03.17-19.13.11:923][365]AssetCheck: /Game/PlayerInput/BP_GameInstance Validating asset
+[2025.03.17-19.13.16:254][582]LogMetaData: Removing '/Game/GameModes/BP_GameInstance.BP_GameInstance_C' ref from Metadata '/Game/PlayerInput/BP_GameInstance.PackageMetaData'
+[2025.03.17-19.13.16:254][582]LogMetaData: Removing '/Game/GameModes/BP_GameInstance.SKEL_BP_GameInstance_C' ref from Metadata '/Game/PlayerInput/BP_GameInstance.PackageMetaData'
+[2025.03.17-19.13.16:255][582]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.03.17-19.13.16:255][582]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/GameModes/BP_GameInstance] ([2] browsable assets)...
+[2025.03.17-19.13.16:255][582]OBJ SavePackage: Finished generating thumbnails for package [/Game/GameModes/BP_GameInstance]
+[2025.03.17-19.13.16:255][582]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/GameModes/BP_GameInstance" FILE="../../../../../Unreal Projects/MissileCommandUE5/MissileCommand/Content/GameModes/BP_GameInstance.uasset" SILENT=true
+[2025.03.17-19.13.16:258][582]LogSavePackage: Moving output files for package: /Game/GameModes/BP_GameInstance
+[2025.03.17-19.13.16:258][582]LogSavePackage: Moving '../../../../../Unreal Projects/MissileCommandUE5/MissileCommand/Saved/BP_GameInstance2776988B4C958BB439B9C0B013447870.tmp' to '../../../../../Unreal Projects/MissileCommandUE5/MissileCommand/Content/GameModes/BP_GameInstance.uasset'
+[2025.03.17-19.13.16:265][582]LogFileHelpers: InternalPromptForCheckoutAndSave took 10.784 ms (total: 6.51 sec)
+[2025.03.17-19.13.16:338][582]LogUObjectHash: Compacting FUObjectHashTables data took   1.71ms
+[2025.03.17-19.13.16:362][582]LogUObjectHash: Compacting FUObjectHashTables data took   1.88ms
+[2025.03.17-19.13.16:383][582]LogUObjectHash: Compacting FUObjectHashTables data took   0.86ms
+[2025.03.17-19.13.16:523][582]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2025.03.17-19.13.16:523][582]LogContentValidation: Display: Starting to validate 1 assets
+[2025.03.17-19.13.16:523][582]LogContentValidation: Enabled validators:
+[2025.03.17-19.13.16:523][582]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.03.17-19.13.16:523][582]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.03.17-19.13.16:523][582]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.03.17-19.13.16:523][582]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.03.17-19.13.16:523][582]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.03.17-19.13.16:523][582]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.03.17-19.13.16:523][582]AssetCheck: /Game/GameModes/BP_GameInstance Validating asset
+[2025.03.17-19.13.23:763][995]LogStreaming: Display: FlushAsyncLoading(729): 1 QueuedPackages, 0 AsyncPackages
+[2025.03.17-19.13.31:376][383]LogUObjectHash: Compacting FUObjectHashTables data took   1.26ms
+[2025.03.17-19.13.32:557][383]LogSlate: Window 'Delete Assets' being destroyed
+[2025.03.17-19.13.32:696][383]LogUObjectGlobals: Force Deleting 2 Package(s):
+	Asset Name: /Game/Input/IMC.IMC
+	Asset Type: InputMappingContext
+	Asset Name: /Game/Input/IA_Move.IA_Move
+	Asset Type: InputAction
+[2025.03.17-19.13.33:518][383]LogUObjectHash: Compacting FUObjectHashTables data took   1.02ms
+[2025.03.17-19.13.33:542][383]LogUObjectHash: Compacting FUObjectHashTables data took   2.06ms
+[2025.03.17-19.13.33:566][383]LogUObjectHash: Compacting FUObjectHashTables data took   0.74ms
+[2025.03.17-19.13.36:565][551]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/GameModes/BP_GameInstance.BP_GameInstance
+[2025.03.17-19.13.36:565][551]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_6
+[2025.03.17-19.13.51:560][326]LogUObjectHash: Compacting FUObjectHashTables data took   1.48ms
+[2025.03.17-19.15.05:931][562]LogWorld: UWorld::CleanupWorld for World_6, bSessionEnded=true, bCleanupResources=true
+[2025.03.17-19.15.05:967][562]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.03.17-19.15.06:374][562]LogUObjectHash: Compacting FUObjectHashTables data took   1.58ms
+[2025.03.17-19.15.11:003][835]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/GameModes/BP_GameInstance.BP_GameInstance
+[2025.03.17-19.15.11:004][835]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_7
+[2025.03.17-19.15.18:728][254]LogWorld: UWorld::CleanupWorld for World_7, bSessionEnded=true, bCleanupResources=true
+[2025.03.17-19.15.18:728][254]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.03.17-19.15.18:759][254]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/GameModes/BP_GameInstance.BP_GameInstance
+[2025.03.17-19.15.18:759][254]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_8
+[2025.03.17-19.15.19:285][254]LogUObjectHash: Compacting FUObjectHashTables data took   1.69ms
+[2025.03.17-19.16.10:298][209]LogUObjectHash: Compacting FUObjectHashTables data took   1.51ms
+[2025.03.17-19.16.11:687][209]LogSlate: Window 'Delete Assets' being destroyed
+[2025.03.17-19.16.11:849][209]LogWorld: UWorld::CleanupWorld for World_8, bSessionEnded=true, bCleanupResources=true
+[2025.03.17-19.16.11:849][209]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.03.17-19.16.11:883][209]LogUObjectGlobals: Force Deleting 1 Package(s):
+	Asset Name: /Game/GameModes/BP_GameInstance.BP_GameInstance
+	Asset Type: Blueprint
+[2025.03.17-19.16.12:583][209]LogUObjectHash: Compacting FUObjectHashTables data took   1.79ms
+[2025.03.17-19.16.12:622][209]LogUObjectHash: Compacting FUObjectHashTables data took   1.58ms
+[2025.03.17-19.16.12:660][209]LogUObjectHash: Compacting FUObjectHashTables data took   0.73ms
+[2025.03.17-19.16.12:745][209]LogUObjectHash: Compacting FUObjectHashTables data took   1.48ms
+[2025.03.17-19.16.20:342][649]LogAssetEditorSubsystem: Opening Asset editor for InputMappingContext /Game/PlayerInput/IMC.IMC
+[2025.03.17-19.16.27:834][ 46]LogAssetEditorSubsystem: Opening Asset editor for InputAction /Game/PlayerInput/IA_Move.IA_Move
+[2025.03.17-19.16.49:385][274]LogContentBrowser: Attempting asset rename: IA_Move -> IA_AIM
+[2025.03.17-19.16.49:648][274]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.03.17-19.16.49:648][274]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/PlayerInput/IA_AIM] ([1] browsable assets)...
+[2025.03.17-19.16.49:648][274]OBJ SavePackage: Finished generating thumbnails for package [/Game/PlayerInput/IA_AIM]
+[2025.03.17-19.16.49:648][274]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/PlayerInput/IA_AIM" FILE="../../../../../Unreal Projects/MissileCommandUE5/MissileCommand/Content/PlayerInput/IA_AIM.uasset" SILENT=true
+[2025.03.17-19.16.49:651][274]LogSavePackage: Moving output files for package: /Game/PlayerInput/IA_AIM
+[2025.03.17-19.16.49:651][274]LogSavePackage: Moving '../../../../../Unreal Projects/MissileCommandUE5/MissileCommand/Saved/IA_AIMDDAB7A77459BE049759073BA2F97DFB4.tmp' to '../../../../../Unreal Projects/MissileCommandUE5/MissileCommand/Content/PlayerInput/IA_AIM.uasset'
+[2025.03.17-19.16.49:653][274]LogFileHelpers: InternalPromptForCheckoutAndSave took 4.763 ms (total: 6.51 sec)
+[2025.03.17-19.16.49:733][274]LogUObjectHash: Compacting FUObjectHashTables data took   1.52ms
+[2025.03.17-19.16.49:758][274]LogUObjectHash: Compacting FUObjectHashTables data took   1.50ms
+[2025.03.17-19.16.49:779][274]LogUObjectHash: Compacting FUObjectHashTables data took   0.69ms
+[2025.03.17-19.16.49:859][274]LogContentValidation: Display: Starting to validate 1 assets
+[2025.03.17-19.16.49:859][274]LogContentValidation: Enabled validators:
+[2025.03.17-19.16.49:860][274]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.03.17-19.16.49:860][274]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.03.17-19.16.49:860][274]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.03.17-19.16.49:860][274]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.03.17-19.16.49:860][274]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.03.17-19.16.49:860][274]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.03.17-19.16.49:860][274]AssetCheck: /Game/PlayerInput/IA_AIM Validating asset
+[2025.03.17-19.16.54:680][529]LogContentBrowser: Deferred new asset file creation: IA_AIM1
+[2025.03.17-19.16.54:686][529]LogContentBrowser: Creating deferred item: IA_AIM1
+[2025.03.17-19.16.54:703][530]LogContentBrowser: Renaming the item being created (Deferred Item: IA_AIM1).
+[2025.03.17-19.16.56:297][626]LogContentBrowser: Attempting asset rename: IA_AIM1 -> IA_AIM1
+[2025.03.17-19.16.56:297][626]LogContentBrowser: End creating deferred item IA_AIM1
+[2025.03.17-19.17.15:734][567]LogContentBrowser: Attempting asset rename: IA_AIM1 -> IA_FireSilo1
+[2025.03.17-19.17.15:845][567]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.03.17-19.17.15:845][567]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/PlayerInput/IA_FireSilo1] ([1] browsable assets)...
+[2025.03.17-19.17.15:845][567]OBJ SavePackage: Finished generating thumbnails for package [/Game/PlayerInput/IA_FireSilo1]
+[2025.03.17-19.17.15:845][567]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/PlayerInput/IA_FireSilo1" FILE="../../../../../Unreal Projects/MissileCommandUE5/MissileCommand/Content/PlayerInput/IA_FireSilo1.uasset" SILENT=true
+[2025.03.17-19.17.15:863][567]LogSavePackage: Moving output files for package: /Game/PlayerInput/IA_FireSilo1
+[2025.03.17-19.17.15:863][567]LogSavePackage: Moving '../../../../../Unreal Projects/MissileCommandUE5/MissileCommand/Saved/IA_FireSilo14A084D964EB4520CA44998B2A09155B6.tmp' to '../../../../../Unreal Projects/MissileCommandUE5/MissileCommand/Content/PlayerInput/IA_FireSilo1.uasset'
+[2025.03.17-19.17.15:879][567]LogFileHelpers: InternalPromptForCheckoutAndSave took 33.764 ms (total: 6.55 sec)
+[2025.03.17-19.17.15:911][567]LogUObjectHash: Compacting FUObjectHashTables data took   1.46ms
+[2025.03.17-19.17.15:934][567]LogUObjectHash: Compacting FUObjectHashTables data took   0.79ms
+[2025.03.17-19.17.15:956][567]LogUObjectHash: Compacting FUObjectHashTables data took   0.72ms
+[2025.03.17-19.17.16:033][567]LogContentValidation: Display: Starting to validate 1 assets
+[2025.03.17-19.17.16:033][567]LogContentValidation: Enabled validators:
+[2025.03.17-19.17.16:033][567]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.03.17-19.17.16:033][567]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.03.17-19.17.16:033][567]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.03.17-19.17.16:033][567]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.03.17-19.17.16:033][567]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.03.17-19.17.16:034][567]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.03.17-19.17.16:034][567]AssetCheck: /Game/PlayerInput/IA_FireSilo1 Validating asset
+[2025.03.17-19.17.17:635][660]LogContentBrowser: Attempting asset rename: IA_FireSilo1 -> IA_FireSilo1
+[2025.03.17-19.17.18:651][721]LogContentBrowser: Deferred new asset file creation: IA_FireSilo2
+[2025.03.17-19.17.18:656][721]LogContentBrowser: Creating deferred item: IA_FireSilo2
+[2025.03.17-19.17.18:676][722]LogContentBrowser: Renaming the item being created (Deferred Item: IA_FireSilo2).
+[2025.03.17-19.17.19:819][791]LogContentBrowser: Attempting asset rename: IA_FireSilo2 -> IA_FireSilo2
+[2025.03.17-19.17.19:820][791]LogContentBrowser: End creating deferred item IA_FireSilo2
+[2025.03.17-19.17.32:304][523]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.03.17-19.17.32:410][523]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/PlayerInput/IA_AIM] ([1] browsable assets)...
+[2025.03.17-19.17.32:410][523]OBJ SavePackage: Finished generating thumbnails for package [/Game/PlayerInput/IA_AIM]
+[2025.03.17-19.17.32:410][523]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/PlayerInput/IA_AIM" FILE="../../../../../Unreal Projects/MissileCommandUE5/MissileCommand/Content/PlayerInput/IA_AIM.uasset" SILENT=true
+[2025.03.17-19.17.32:412][523]LogSavePackage: Moving output files for package: /Game/PlayerInput/IA_AIM
+[2025.03.17-19.17.32:414][523]LogSavePackage: Moving '../../../../../Unreal Projects/MissileCommandUE5/MissileCommand/Saved/IA_AIM18DA77BC41072EC9E0E2E389D7BE6F19.tmp' to '../../../../../Unreal Projects/MissileCommandUE5/MissileCommand/Content/PlayerInput/IA_AIM.uasset'
+[2025.03.17-19.17.32:432][523]LogFileHelpers: InternalPromptForCheckoutAndSave took 129.099 ms (total: 6.68 sec)
+[2025.03.17-19.17.32:501][523]LogContentValidation: Display: Starting to validate 1 assets
+[2025.03.17-19.17.32:501][523]LogContentValidation: Enabled validators:
+[2025.03.17-19.17.32:501][523]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.03.17-19.17.32:501][523]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.03.17-19.17.32:501][523]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.03.17-19.17.32:501][523]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.03.17-19.17.32:501][523]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.03.17-19.17.32:501][523]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.03.17-19.17.32:501][523]AssetCheck: /Game/PlayerInput/IA_AIM Validating asset
+[2025.03.17-19.17.42:128][ 84]LogAssetEditorSubsystem: Opening Asset editor for InputAction /Game/PlayerInput/IA_FireSilo1.IA_FireSilo1
+[2025.03.17-19.17.57:229][945]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.03.17-19.17.57:297][945]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/PlayerInput/IA_FireSilo1] ([1] browsable assets)...
+[2025.03.17-19.17.57:298][945]OBJ SavePackage: Finished generating thumbnails for package [/Game/PlayerInput/IA_FireSilo1]
+[2025.03.17-19.17.57:298][945]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/PlayerInput/IA_FireSilo1" FILE="../../../../../Unreal Projects/MissileCommandUE5/MissileCommand/Content/PlayerInput/IA_FireSilo1.uasset" SILENT=true
+[2025.03.17-19.17.57:400][945]LogSavePackage: Moving output files for package: /Game/PlayerInput/IA_FireSilo1
+[2025.03.17-19.17.57:402][945]LogSavePackage: Moving '../../../../../Unreal Projects/MissileCommandUE5/MissileCommand/Saved/IA_FireSilo1DB2939FB477FF9EF49E7F1A6CB9389DF.tmp' to '../../../../../Unreal Projects/MissileCommandUE5/MissileCommand/Content/PlayerInput/IA_FireSilo1.uasset'
+[2025.03.17-19.17.57:416][945]LogFileHelpers: InternalPromptForCheckoutAndSave took 186.228 ms (total: 6.86 sec)
+[2025.03.17-19.17.57:488][945]LogContentValidation: Display: Starting to validate 1 assets
+[2025.03.17-19.17.57:488][945]LogContentValidation: Enabled validators:
+[2025.03.17-19.17.57:488][945]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.03.17-19.17.57:488][945]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.03.17-19.17.57:488][945]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.03.17-19.17.57:488][945]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.03.17-19.17.57:488][945]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.03.17-19.17.57:488][945]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.03.17-19.17.57:488][945]AssetCheck: /Game/PlayerInput/IA_FireSilo1 Validating asset
+[2025.03.17-19.18.11:047][751]LogAssetEditorSubsystem: Opening Asset editor for InputAction /Game/PlayerInput/IA_FireSilo2.IA_FireSilo2
+[2025.03.17-19.18.14:416][926]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.03.17-19.18.14:475][926]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/PlayerInput/IA_FireSilo2] ([1] browsable assets)...
+[2025.03.17-19.18.14:475][926]OBJ SavePackage: Finished generating thumbnails for package [/Game/PlayerInput/IA_FireSilo2]
+[2025.03.17-19.18.14:475][926]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/PlayerInput/IA_FireSilo2" FILE="../../../../../Unreal Projects/MissileCommandUE5/MissileCommand/Content/PlayerInput/IA_FireSilo2.uasset" SILENT=true
+[2025.03.17-19.18.14:479][926]LogSavePackage: Moving output files for package: /Game/PlayerInput/IA_FireSilo2
+[2025.03.17-19.18.14:479][926]LogSavePackage: Moving '../../../../../Unreal Projects/MissileCommandUE5/MissileCommand/Saved/IA_FireSilo2B4C49D7646493A40078C3C9C2EBB40AC.tmp' to '../../../../../Unreal Projects/MissileCommandUE5/MissileCommand/Content/PlayerInput/IA_FireSilo2.uasset'
+[2025.03.17-19.18.14:493][926]LogFileHelpers: InternalPromptForCheckoutAndSave took 77.130 ms (total: 6.94 sec)
+[2025.03.17-19.18.14:558][926]LogContentValidation: Display: Starting to validate 1 assets
+[2025.03.17-19.18.14:558][926]LogContentValidation: Enabled validators:
+[2025.03.17-19.18.14:558][926]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.03.17-19.18.14:558][926]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.03.17-19.18.14:558][926]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.03.17-19.18.14:558][926]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.03.17-19.18.14:558][926]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.03.17-19.18.14:558][926]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.03.17-19.18.14:558][926]AssetCheck: /Game/PlayerInput/IA_FireSilo2 Validating asset
+[2025.03.17-19.18.33:957][ 60]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 2858.572021
+[2025.03.17-19.18.34:039][ 65]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.03.17-19.18.34:039][ 65]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 2858.636475, Update Interval: 322.187561
+[2025.03.17-19.19.00:398][636]LogEditCondition: Error: EnhancedActionKeyMapping - EditCondition attempted to use an invalid operand "SettingBehavior" (value error).
+[2025.03.17-19.21.58:235][798]LogUObjectHash: Compacting FUObjectHashTables data took   2.34ms
+[2025.03.17-19.21.58:239][798]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Maps/MainLevel' took 0.099
+[2025.03.17-19.21.58:245][798]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/PlayerInput/IMC] ([1] browsable assets)...
+[2025.03.17-19.21.58:245][798]OBJ SavePackage: Finished generating thumbnails for package [/Game/PlayerInput/IMC]
+[2025.03.17-19.21.58:245][798]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/PlayerInput/IMC" FILE="../../../../../Unreal Projects/MissileCommandUE5/MissileCommand/Saved/Autosaves/Game/PlayerInput/IMC_Auto1.uasset" SILENT=false AUTOSAVING=true
+[2025.03.17-19.21.58:248][798]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/PlayerInput/IMC_Auto1
+[2025.03.17-19.21.58:249][798]LogSavePackage: Moving '../../../../../Unreal Projects/MissileCommandUE5/MissileCommand/Saved/IMC_Auto1FAB37A6C4C6E98C13B22868120A6AF14.tmp' to '../../../../../Unreal Projects/MissileCommandUE5/MissileCommand/Saved/Autosaves/Game/PlayerInput/IMC_Auto1.uasset'
+[2025.03.17-19.21.58:260][798]LogFileHelpers: Auto-saving content packages took 0.019
+[2025.03.17-19.22.23:663][660]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.03.17-19.22.23:729][660]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/PlayerInput/IMC] ([1] browsable assets)...
+[2025.03.17-19.22.23:729][660]OBJ SavePackage: Finished generating thumbnails for package [/Game/PlayerInput/IMC]
+[2025.03.17-19.22.23:729][660]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/PlayerInput/IMC" FILE="../../../../../Unreal Projects/MissileCommandUE5/MissileCommand/Content/PlayerInput/IMC.uasset" SILENT=true
+[2025.03.17-19.22.23:815][660]LogSavePackage: Moving output files for package: /Game/PlayerInput/IMC
+[2025.03.17-19.22.23:815][660]LogSavePackage: Moving '../../../../../Unreal Projects/MissileCommandUE5/MissileCommand/Saved/IMCA6860B1D4ABEEB765D0EE1B2B5F3E169.tmp' to '../../../../../Unreal Projects/MissileCommandUE5/MissileCommand/Content/PlayerInput/IMC.uasset'
+[2025.03.17-19.22.23:834][660]LogFileHelpers: InternalPromptForCheckoutAndSave took 171.480 ms (total: 7.11 sec)
+[2025.03.17-19.22.23:904][660]LogContentValidation: Display: Starting to validate 1 assets
+[2025.03.17-19.22.23:904][660]LogContentValidation: Enabled validators:
+[2025.03.17-19.22.23:904][660]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.03.17-19.22.23:904][660]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.03.17-19.22.23:904][660]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.03.17-19.22.23:904][660]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.03.17-19.22.23:904][660]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.03.17-19.22.23:904][660]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.03.17-19.22.23:929][660]AssetCheck: /Game/PlayerInput/IMC Validating asset
+[2025.03.17-19.24.02:024][897]LogStreaming: Display: FlushAsyncLoading(731): 1 QueuedPackages, 0 AsyncPackages
+[2025.03.17-19.24.02:059][897]LogStreaming: Display: ImportPackages: SkipPackage: /Game/PlayerInput/BP_Paddle (0x9113E73F3BAC6D3F) /Game/PlayerInput/BP_Paddle (0x9113E73F3BAC6D3F) - Skipping non mounted imported package /Game/Input/IA_Move (0x51D2B5FA6F494328)
+[2025.03.17-19.24.02:059][897]LogStreaming: Display: ImportPackages: SkipPackage: /Game/PlayerInput/BP_Paddle (0x9113E73F3BAC6D3F) /Game/PlayerInput/BP_Paddle (0x9113E73F3BAC6D3F) - Skipping non mounted imported package /Game/Input/IMC (0x73E51D3F37EA0FD4)
+[2025.03.17-19.24.02:059][897]LogStreaming: Display: ImportPackages: SkipPackage: /Game/PlayerInput/BP_Paddle (0x9113E73F3BAC6D3F) /Game/PlayerInput/BP_Paddle (0x9113E73F3BAC6D3F) - Skipping non mounted imported package /Game/Materials/Mat_Player (0xBF99A7FEAD239237)
+[2025.03.17-19.24.02:059][897]LogStreaming: Display: ImportPackages: SkipPackage: /Game/PlayerInput/BP_Paddle (0x9113E73F3BAC6D3F) /Game/PlayerInput/BP_Paddle (0x9113E73F3BAC6D3F) - Skipping non mounted imported package /Game/BP/BP_UI_Score (0xEB1174273F443678)
+[2025.03.17-19.24.02:059][897]LogStreaming: Display: ImportPackages: SkipPackage: /Game/PlayerInput/BP_Paddle (0x9113E73F3BAC6D3F) /Game/PlayerInput/BP_Paddle (0x9113E73F3BAC6D3F) - Skipping non mounted imported package /Game/Materials/Mat_Bounce (0x8E17EA82892DE5C0)
+[2025.03.17-19.24.02:630][897]LogBlueprint: Error: [AssetLog] D:\Unreal Projects\MissileCommandUE5\MissileCommand\Content\PlayerInput\BP_Paddle.uasset: [Compiler] Spawn node  Create Widget  must have a class specified.
+[2025.03.17-19.24.02:642][897]LogBlueprint: Warning: [AssetLog] D:\Unreal Projects\MissileCommandUE5\MissileCommand\Content\PlayerInput\BP_Paddle.uasset: [Compiler] EnhancedInputAction None  does not have a valid Input Action asset!!
+[2025.03.17-19.24.02:642][897]LogBlueprint: Error: [AssetLog] D:\Unreal Projects\MissileCommandUE5\MissileCommand\Content\PlayerInput\BP_Paddle.uasset: [Compiler] In use pin  Score UI  no longer exists on node  Set . Please refresh node or break links to remove pin.
+[2025.03.17-19.24.02:642][897]LogBlueprint: Error: [AssetLog] D:\Unreal Projects\MissileCommandUE5\MissileCommand\Content\PlayerInput\BP_Paddle.uasset: [Compiler] In use pin  <Unnamed>  no longer exists on node  Set . Please refresh node or break links to remove pin.
+[2025.03.17-19.24.02:642][897]LogBlueprint: Error: [AssetLog] D:\Unreal Projects\MissileCommandUE5\MissileCommand\Content\PlayerInput\BP_Paddle.uasset: [Compiler] EnhancedInputActionEvent references invalid 'null' action for  EnhancedInputAction None
+[2025.03.17-19.24.02:734][897]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/PlayerInput/BP_Paddle.BP_Paddle
+[2025.03.17-19.24.02:734][897]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_9
+[2025.03.17-19.24.03:391][897]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_10
+[2025.03.17-19.24.04:003][897]LogPackageName: Warning: GetLocalFullPath called on FPackagePath ../../../../../Unreal Projects/MissileCommandUE5/MissileCommand/Content/Input/IA_Move which has an unspecified header extension, and the path does not exist on disk. Assuming EPackageExtension::Asset.
+[2025.03.17-19.24.04:025][897]LoadErrors: Warning: While trying to load package /Game/PlayerInput/BP_Paddle, a dependent package /Game/Input/IA_Move was not available. Additional explanatory information follows:
+FPackageName: Skipped package /Game/Input/IA_Move has a valid, mounted, mount point but does not exist either on disk or in iostore. The uncooked file would be expected on disk at 'D:/Unreal Projects/MissileCommandUE5/MissileCommand/Content/Input/IA_Move.uasset'. Perhaps it has been deleted or was not synced?
+
+[2025.03.17-19.24.04:025][897]LogPackageName: Warning: GetLocalFullPath called on FPackagePath ../../../../../Unreal Projects/MissileCommandUE5/MissileCommand/Content/Input/IMC which has an unspecified header extension, and the path does not exist on disk. Assuming EPackageExtension::Asset.
+[2025.03.17-19.24.04:025][897]LoadErrors: Warning: While trying to load package /Game/PlayerInput/BP_Paddle, a dependent package /Game/Input/IMC was not available. Additional explanatory information follows:
+FPackageName: Skipped package /Game/Input/IMC has a valid, mounted, mount point but does not exist either on disk or in iostore. The uncooked file would be expected on disk at 'D:/Unreal Projects/MissileCommandUE5/MissileCommand/Content/Input/IMC.uasset'. Perhaps it has been deleted or was not synced?
+
+[2025.03.17-19.24.04:026][897]LogPackageName: Warning: GetLocalFullPath called on FPackagePath ../../../../../Unreal Projects/MissileCommandUE5/MissileCommand/Content/Materials/Mat_Player which has an unspecified header extension, and the path does not exist on disk. Assuming EPackageExtension::Asset.
+[2025.03.17-19.24.04:026][897]LoadErrors: Warning: While trying to load package /Game/PlayerInput/BP_Paddle, a dependent package /Game/Materials/Mat_Player was not available. Additional explanatory information follows:
+FPackageName: Skipped package /Game/Materials/Mat_Player has a valid, mounted, mount point but does not exist either on disk or in iostore. The uncooked file would be expected on disk at 'D:/Unreal Projects/MissileCommandUE5/MissileCommand/Content/Materials/Mat_Player.uasset'. Perhaps it has been deleted or was not synced?
+
+[2025.03.17-19.24.04:026][897]LogPackageName: Warning: GetLocalFullPath called on FPackagePath ../../../../../Unreal Projects/MissileCommandUE5/MissileCommand/Content/BP/BP_UI_Score which has an unspecified header extension, and the path does not exist on disk. Assuming EPackageExtension::Asset.
+[2025.03.17-19.24.04:026][897]LoadErrors: Warning: While trying to load package /Game/PlayerInput/BP_Paddle, a dependent package /Game/BP/BP_UI_Score was not available. Additional explanatory information follows:
+FPackageName: Skipped package /Game/BP/BP_UI_Score has a valid, mounted, mount point but does not exist either on disk or in iostore. The uncooked file would be expected on disk at 'D:/Unreal Projects/MissileCommandUE5/MissileCommand/Content/BP/BP_UI_Score.uasset'. Perhaps it has been deleted or was not synced?
+
+[2025.03.17-19.24.04:026][897]LogPackageName: Warning: GetLocalFullPath called on FPackagePath ../../../../../Unreal Projects/MissileCommandUE5/MissileCommand/Content/Materials/Mat_Bounce which has an unspecified header extension, and the path does not exist on disk. Assuming EPackageExtension::Asset.
+[2025.03.17-19.24.04:026][897]LoadErrors: Warning: While trying to load package /Game/PlayerInput/BP_Paddle, a dependent package /Game/Materials/Mat_Bounce was not available. Additional explanatory information follows:
+FPackageName: Skipped package /Game/Materials/Mat_Bounce has a valid, mounted, mount point but does not exist either on disk or in iostore. The uncooked file would be expected on disk at 'D:/Unreal Projects/MissileCommandUE5/MissileCommand/Content/Materials/Mat_Bounce.uasset'. Perhaps it has been deleted or was not synced?
+
+[2025.03.17-19.24.41:541][961]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 3226.162842
+[2025.03.17-19.24.41:640][967]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.03.17-19.24.41:641][967]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 3226.245850, Update Interval: 302.651459
+[2025.03.17-19.24.45:984][224]LogWorld: UWorld::CleanupWorld for World_9, bSessionEnded=true, bCleanupResources=true
+[2025.03.17-19.24.45:984][224]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.03.17-19.24.46:453][224]LogUObjectHash: Compacting FUObjectHashTables data took   2.10ms
+[2025.03.17-19.24.54:900][707]LogUObjectHash: Compacting FUObjectHashTables data took   1.51ms
+[2025.03.17-19.24.56:395][707]LogSlate: Window 'Delete Assets' being destroyed
+[2025.03.17-19.24.56:564][707]LogUObjectGlobals: Force Deleting 1 Package(s):
+	Asset Name: /Game/PlayerInput/BP_Paddle.BP_Paddle
+	Asset Type: Blueprint
+[2025.03.17-19.24.56:856][707]LogUObjectHash: Compacting FUObjectHashTables data took   1.65ms
+[2025.03.17-19.24.56:975][707]LogUObjectHash: Compacting FUObjectHashTables data took   6.09ms
+[2025.03.17-19.24.57:008][707]LogUObjectHash: Compacting FUObjectHashTables data took   1.56ms
+[2025.03.17-19.24.57:030][707]LogUObjectHash: Compacting FUObjectHashTables data took   0.73ms
+[2025.03.17-19.25.52:185][101]LogStreaming: Display: FlushAsyncLoading(733): 1 QueuedPackages, 0 AsyncPackages
+[2025.03.17-19.25.52:187][101]LogStreaming: Display: ImportPackages: SkipPackage: /Game/PlayerInput/BP_FirstPersonCharacter (0x438C5E90E0DFD468) /Game/PlayerInput/BP_FirstPersonCharacter (0x438C5E90E0DFD468) - Skipping non mounted imported package /Game/Blueprints/Obstacles/BP_Asteroid (0xA82FE361D687A495)
+[2025.03.17-19.25.52:187][101]LogStreaming: Display: ImportPackages: SkipPackage: /Game/PlayerInput/BP_FirstPersonCharacter (0x438C5E90E0DFD468) /Game/PlayerInput/BP_FirstPersonCharacter (0x438C5E90E0DFD468) - Skipping non mounted imported package /Game/Blueprints/Obstacles/BP_SpaceObject (0x3A82068988FA199E)
+[2025.03.17-19.25.52:187][101]LogStreaming: Display: ImportPackages: SkipPackage: /Game/PlayerInput/BP_FirstPersonCharacter (0x438C5E90E0DFD468) /Game/PlayerInput/BP_FirstPersonCharacter (0x438C5E90E0DFD468) - Skipping non mounted imported package /Game/Blueprints/Obstacles/BP_SpaceObjectGrabbable (0xE00B463818C60D7F)
+[2025.03.17-19.25.52:187][101]LogStreaming: Display: ImportPackages: SkipPackage: /Game/PlayerInput/BP_FirstPersonCharacter (0x438C5E90E0DFD468) /Game/PlayerInput/BP_FirstPersonCharacter (0x438C5E90E0DFD468) - Skipping non mounted imported package /Game/FirstPerson/Input/Actions/IA_Look (0xD71934A53C0D23C6)
+[2025.03.17-19.25.52:187][101]LogStreaming: Display: ImportPackages: SkipPackage: /Game/PlayerInput/BP_FirstPersonCharacter (0x438C5E90E0DFD468) /Game/PlayerInput/BP_FirstPersonCharacter (0x438C5E90E0DFD468) - Skipping non mounted imported package /Game/FirstPerson/Input/IMC_Default (0xD185BD4A91FEDB2F)
+[2025.03.17-19.25.52:187][101]LogStreaming: Display: ImportPackages: SkipPackage: /Game/PlayerInput/BP_FirstPersonCharacter (0x438C5E90E0DFD468) /Game/PlayerInput/BP_FirstPersonCharacter (0x438C5E90E0DFD468) - Skipping non mounted imported package /Game/StarterContent/Materials/M_CobbleStone_Pebble (0xC48728F60031B28E)
+[2025.03.17-19.25.52:187][101]LogStreaming: Display: ImportPackages: SkipPackage: /Game/PlayerInput/BP_FirstPersonCharacter (0x438C5E90E0DFD468) /Game/PlayerInput/BP_FirstPersonCharacter (0x438C5E90E0DFD468) - Skipping non mounted imported package /Game/Blueprints/UI/BP_UI_Score (0x2826ED239552C88F)
+[2025.03.17-19.25.52:635][101]LogBlueprint: Error: [AssetLog] D:\Unreal Projects\MissileCommandUE5\MissileCommand\Content\PlayerInput\BP_FirstPersonCharacter.uasset: [Compiler] Invalid pin connection from  Array  and  Out Actors : Array of Object References is not compatible with Array of Actor Object References. (You may have changed the type after the connections were made)
+[2025.03.17-19.25.52:635][101]LogBlueprint: Error: [AssetLog] D:\Unreal Projects\MissileCommandUE5\MissileCommand\Content\PlayerInput\BP_FirstPersonCharacter.uasset: [Compiler] Invalid pin connection from  Array Element  and  Target : Object Reference is not compatible with Actor Object Reference. (You may have changed the type after the connections were made)
+[2025.03.17-19.25.52:635][101]LogBlueprint: Error: [AssetLog] D:\Unreal Projects\MissileCommandUE5\MissileCommand\Content\PlayerInput\BP_FirstPersonCharacter.uasset: [Compiler] Invalid pin connection from  Array Element  and  Asteroidclose : Object Reference is not compatible with Actor Object Reference. (You may have changed the type after the connections were made)
+[2025.03.17-19.25.52:636][101]LogBlueprint: Error: [AssetLog] D:\Unreal Projects\MissileCommandUE5\MissileCommand\Content\PlayerInput\BP_FirstPersonCharacter.uasset: [Compiler] Invalid pin connection from  Array Element  and  Target : Object Reference is not compatible with Actor Object Reference. (You may have changed the type after the connections were made)
+[2025.03.17-19.25.52:659][101]LogBlueprint: Error: [AssetLog] D:\Unreal Projects\MissileCommandUE5\MissileCommand\Content\PlayerInput\BP_FirstPersonCharacter.uasset: [Compiler] COMPILER ERROR: failed building connection with 'This cast has an invalid target type (was the class deleted without a redirect?).' at  Line Trace By Channel
+[2025.03.17-19.25.52:662][101]LogBlueprint: Error: [AssetLog] D:\Unreal Projects\MissileCommandUE5\MissileCommand\Content\PlayerInput\BP_FirstPersonCharacter.uasset: [Compiler] No structure in SubCategoryObject in pin  Action Value
+[2025.03.17-19.25.52:663][101]LogBlueprint: Warning: [AssetLog] D:\Unreal Projects\MissileCommandUE5\MissileCommand\Content\PlayerInput\BP_FirstPersonCharacter.uasset: [Compiler] EnhancedInputAction None  does not have a valid Input Action asset!!
+[2025.03.17-19.25.52:664][101]LogBlueprint: Error: [AssetLog] D:\Unreal Projects\MissileCommandUE5\MissileCommand\Content\PlayerInput\BP_FirstPersonCharacter.uasset: [Compiler] Output pin type 'Float (double-precision)' is not compatible with input type of 'Float (double-precision)' on ' float * float '
+[2025.03.17-19.25.52:664][101]LogBlueprint: Error: [AssetLog] D:\Unreal Projects\MissileCommandUE5\MissileCommand\Content\PlayerInput\BP_FirstPersonCharacter.uasset: [Compiler] COMPILER ERROR: failed building connection with 'Array of Object References is not compatible with Array of Actor Object References.' at  Get (a copy) generated from expanding For Each Loop
+[2025.03.17-19.25.52:664][101]LogBlueprint: Error: [AssetLog] D:\Unreal Projects\MissileCommandUE5\MissileCommand\Content\PlayerInput\BP_FirstPersonCharacter.uasset: [Compiler] COMPILER ERROR: failed building connection with 'Object Reference is not compatible with Actor Object Reference.' at  Get (a copy) generated from expanding For Each Loop
+[2025.03.17-19.25.52:665][101]LogBlueprint: Warning: [AssetLog] D:\Unreal Projects\MissileCommandUE5\MissileCommand\Content\PlayerInput\BP_FirstPersonCharacter.uasset: [Compiler] Could not find a variable named "playerSpeed" in '/Game/PlayerInput/BP_FirstPersonCharacter.BP_FirstPersonCharacter'.
+Make sure '/Game/PlayerInput/BP_FirstPersonCharacter.BP_FirstPersonCharacter' has been compiled for  Set playerSpeed
+[2025.03.17-19.25.52:665][101]LogBlueprint: Error: [AssetLog] D:\Unreal Projects\MissileCommandUE5\MissileCommand\Content\PlayerInput\BP_FirstPersonCharacter.uasset: [Compiler] In use pin  BP UI Score  no longer exists on node  Get . Please refresh node or break links to remove pin.
+[2025.03.17-19.25.52:665][101]LogBlueprint: Error: [AssetLog] D:\Unreal Projects\MissileCommandUE5\MissileCommand\Content\PlayerInput\BP_FirstPersonCharacter.uasset: [Compiler] In use pin  Dummy Ref  no longer exists on node  Get . Please refresh node or break links to remove pin.
+[2025.03.17-19.25.52:665][101]LogBlueprint: Error: [AssetLog] D:\Unreal Projects\MissileCommandUE5\MissileCommand\Content\PlayerInput\BP_FirstPersonCharacter.uasset: [Compiler] In use pin  Current Asteroid Ref  no longer exists on node  Set . Please refresh node or break links to remove pin.
+[2025.03.17-19.25.52:665][101]LogBlueprint: Error: [AssetLog] D:\Unreal Projects\MissileCommandUE5\MissileCommand\Content\PlayerInput\BP_FirstPersonCharacter.uasset: [Compiler] In use pin  Current Asteroid Ref  no longer exists on node  Get . Please refresh node or break links to remove pin.
+[2025.03.17-19.25.52:665][101]LogBlueprint: Error: [AssetLog] D:\Unreal Projects\MissileCommandUE5\MissileCommand\Content\PlayerInput\BP_FirstPersonCharacter.uasset: [Compiler] In use pin  Current Asteroid Ref  no longer exists on node  Set . Please refresh node or break links to remove pin.
+[2025.03.17-19.25.52:665][101]LogBlueprint: Error: [AssetLog] D:\Unreal Projects\MissileCommandUE5\MissileCommand\Content\PlayerInput\BP_FirstPersonCharacter.uasset: [Compiler] In use pin  <Unnamed>  no longer exists on node  Pull Asteroid . Please refresh node or break links to remove pin.
+[2025.03.17-19.25.52:665][101]LogBlueprint: Error: [AssetLog] D:\Unreal Projects\MissileCommandUE5\MissileCommand\Content\PlayerInput\BP_FirstPersonCharacter.uasset: [Compiler] In use pin  <Unnamed>  no longer exists on node  Pull Asteroid . Please refresh node or break links to remove pin.
+[2025.03.17-19.25.52:665][101]LogBlueprint: Error: [AssetLog] D:\Unreal Projects\MissileCommandUE5\MissileCommand\Content\PlayerInput\BP_FirstPersonCharacter.uasset: [Compiler] In use pin  Target  no longer exists on node  Pull Asteroid . Please refresh node or break links to remove pin.
+[2025.03.17-19.25.52:666][101]LogBlueprint: Error: [AssetLog] D:\Unreal Projects\MissileCommandUE5\MissileCommand\Content\PlayerInput\BP_FirstPersonCharacter.uasset: [Compiler] Could not find a function named "PullAsteroid" in 'BP_FirstPersonCharacter'.
+Make sure 'BP_FirstPersonCharacter' has been compiled for  Pull Asteroid
+[2025.03.17-19.25.52:666][101]LogBlueprint: Error: [AssetLog] D:\Unreal Projects\MissileCommandUE5\MissileCommand\Content\PlayerInput\BP_FirstPersonCharacter.uasset: [Compiler] In use pin  <Unnamed>  no longer exists on node  Fire . Please refresh node or break links to remove pin.
+[2025.03.17-19.25.52:666][101]LogBlueprint: Error: [AssetLog] D:\Unreal Projects\MissileCommandUE5\MissileCommand\Content\PlayerInput\BP_FirstPersonCharacter.uasset: [Compiler] In use pin  <Unnamed>  no longer exists on node  Fire . Please refresh node or break links to remove pin.
+[2025.03.17-19.25.52:666][101]LogBlueprint: Error: [AssetLog] D:\Unreal Projects\MissileCommandUE5\MissileCommand\Content\PlayerInput\BP_FirstPersonCharacter.uasset: [Compiler] In use pin  Target  no longer exists on node  Fire . Please refresh node or break links to remove pin.
+[2025.03.17-19.25.52:666][101]LogBlueprint: Error: [AssetLog] D:\Unreal Projects\MissileCommandUE5\MissileCommand\Content\PlayerInput\BP_FirstPersonCharacter.uasset: [Compiler] Could not find a function named "Fire" in 'BP_FirstPersonCharacter'.
+Make sure 'BP_FirstPersonCharacter' has been compiled for  Fire
+[2025.03.17-19.25.52:666][101]LogBlueprint: Error: [AssetLog] D:\Unreal Projects\MissileCommandUE5\MissileCommand\Content\PlayerInput\BP_FirstPersonCharacter.uasset: [Compiler] In use pin  As BP Asteroid  no longer exists on node  Bad cast node . Please refresh node or break links to remove pin.
+[2025.03.17-19.25.52:668][101]LogBlueprint: Warning: [AssetLog] D:\Unreal Projects\MissileCommandUE5\MissileCommand\Content\PlayerInput\BP_FirstPersonCharacter.uasset: [Compiler] Could not find a variable named "canpull" in '/Game/PlayerInput/BP_FirstPersonCharacter.BP_FirstPersonCharacter'.
+Make sure '/Game/PlayerInput/BP_FirstPersonCharacter.BP_FirstPersonCharacter' has been compiled for  Set canpull
+[2025.03.17-19.25.52:668][101]LogBlueprint: Error: [AssetLog] D:\Unreal Projects\MissileCommandUE5\MissileCommand\Content\PlayerInput\BP_FirstPersonCharacter.uasset: [Compiler] Can't connect pins  Out Actors  and  Target Array generated from expanding For Each Loop : Array of Actor Object References is not compatible with Array of Object References.
+[2025.03.17-19.25.52:668][101]LogBlueprint: Error: [AssetLog] D:\Unreal Projects\MissileCommandUE5\MissileCommand\Content\PlayerInput\BP_FirstPersonCharacter.uasset: [Compiler] Invalid pin connection from ' Out Actors ' to ' Target Array generated from expanding For Each Loop '. You may have changed the type after the connections were made.
+[2025.03.17-19.25.52:668][101]LogBlueprint: Warning: [AssetLog] D:\Unreal Projects\MissileCommandUE5\MissileCommand\Content\PlayerInput\BP_FirstPersonCharacter.uasset: [Compiler] Input Axis Event references unknown Axis 'Up/Down' for  InputAxis Up/Down
+[2025.03.17-19.25.52:668][101]LogBlueprint: Warning: [AssetLog] D:\Unreal Projects\MissileCommandUE5\MissileCommand\Content\PlayerInput\BP_FirstPersonCharacter.uasset: [Compiler] Input Axis Event references unknown Axis 'Left/Right' for  InputAxis Left/Right
+[2025.03.17-19.25.52:669][101]LogBlueprint: Error: [AssetLog] D:\Unreal Projects\MissileCommandUE5\MissileCommand\Content\PlayerInput\BP_FirstPersonCharacter.uasset: [Compiler] In use pin  Action Value X  no longer exists on node  EnhancedInputAction None . Please refresh node or break links to remove pin.
+[2025.03.17-19.25.52:669][101]LogBlueprint: Error: [AssetLog] D:\Unreal Projects\MissileCommandUE5\MissileCommand\Content\PlayerInput\BP_FirstPersonCharacter.uasset: [Compiler] In use pin  Action Value Y  no longer exists on node  EnhancedInputAction None . Please refresh node or break links to remove pin.
+[2025.03.17-19.25.52:669][101]LogBlueprint: Error: [AssetLog] D:\Unreal Projects\MissileCommandUE5\MissileCommand\Content\PlayerInput\BP_FirstPersonCharacter.uasset: [Compiler] EnhancedInputActionEvent references invalid 'null' action for  EnhancedInputAction None
+[2025.03.17-19.25.52:669][101]LogBlueprint: Error: [AssetLog] D:\Unreal Projects\MissileCommandUE5\MissileCommand\Content\PlayerInput\BP_FirstPersonCharacter.uasset: [Compiler] Can't connect pins  Other Actor  and  Object : This cast has an invalid target type (was the class deleted without a redirect?).
+[2025.03.17-19.25.52:669][101]LogBlueprint: Error: [AssetLog] D:\Unreal Projects\MissileCommandUE5\MissileCommand\Content\PlayerInput\BP_FirstPersonCharacter.uasset: [Compiler] In use pin  <Unnamed>  no longer exists on node  Change Fuel . Please refresh node or break links to remove pin.
+[2025.03.17-19.25.52:670][101]LogBlueprint: Error: [AssetLog] D:\Unreal Projects\MissileCommandUE5\MissileCommand\Content\PlayerInput\BP_FirstPersonCharacter.uasset: [Compiler] In use pin  <Unnamed>  no longer exists on node  Change Fuel . Please refresh node or break links to remove pin.
+[2025.03.17-19.25.52:670][101]LogBlueprint: Error: [AssetLog] D:\Unreal Projects\MissileCommandUE5\MissileCommand\Content\PlayerInput\BP_FirstPersonCharacter.uasset: [Compiler] In use pin  Target  no longer exists on node  Change Fuel . Please refresh node or break links to remove pin.
+[2025.03.17-19.25.52:670][101]LogBlueprint: Error: [AssetLog] D:\Unreal Projects\MissileCommandUE5\MissileCommand\Content\PlayerInput\BP_FirstPersonCharacter.uasset: [Compiler] In use pin  Fuel Delta  no longer exists on node  Change Fuel . Please refresh node or break links to remove pin.
+[2025.03.17-19.25.52:670][101]LogBlueprint: Error: [AssetLog] D:\Unreal Projects\MissileCommandUE5\MissileCommand\Content\PlayerInput\BP_FirstPersonCharacter.uasset: [Compiler] Could not find a function named "ChangeFuel" in 'BP_FirstPersonCharacter'.
+Make sure 'BP_FirstPersonCharacter' has been compiled for  Change Fuel
+[2025.03.17-19.25.52:670][101]LogBlueprint: Error: [AssetLog] D:\Unreal Projects\MissileCommandUE5\MissileCommand\Content\PlayerInput\BP_FirstPersonCharacter.uasset: [Compiler] In use pin  BP UI Score  no longer exists on node  Get . Please refresh node or break links to remove pin.
+[2025.03.17-19.25.52:670][101]LogBlueprint: Error: [AssetLog] D:\Unreal Projects\MissileCommandUE5\MissileCommand\Content\PlayerInput\BP_FirstPersonCharacter.uasset: [Compiler] In use pin  <Unnamed>  no longer exists on node  Get Fuel Decrease . Please refresh node or break links to remove pin.
+[2025.03.17-19.25.52:670][101]LogBlueprint: Error: [AssetLog] D:\Unreal Projects\MissileCommandUE5\MissileCommand\Content\PlayerInput\BP_FirstPersonCharacter.uasset: [Compiler] In use pin  <Unnamed>  no longer exists on node  Get Fuel Decrease . Please refresh node or break links to remove pin.
+[2025.03.17-19.25.52:670][101]LogBlueprint: Error: [AssetLog] D:\Unreal Projects\MissileCommandUE5\MissileCommand\Content\PlayerInput\BP_FirstPersonCharacter.uasset: [Compiler] In use pin  Target  no longer exists on node  Get Fuel Decrease . Please refresh node or break links to remove pin.
+[2025.03.17-19.25.52:670][101]LogBlueprint: Error: [AssetLog] D:\Unreal Projects\MissileCommandUE5\MissileCommand\Content\PlayerInput\BP_FirstPersonCharacter.uasset: [Compiler] In use pin  Fuel Delta  no longer exists on node  Get Fuel Decrease . Please refresh node or break links to remove pin.
+[2025.03.17-19.25.52:670][101]LogBlueprint: Error: [AssetLog] D:\Unreal Projects\MissileCommandUE5\MissileCommand\Content\PlayerInput\BP_FirstPersonCharacter.uasset: [Compiler] Could not find a function named "GetFuelDecrease" in 'BP_FirstPersonCharacter'.
+Make sure 'BP_FirstPersonCharacter' has been compiled for  Get Fuel Decrease
+[2025.03.17-19.25.52:671][101]LogBlueprint: Error: [AssetLog] D:\Unreal Projects\MissileCommandUE5\MissileCommand\Content\PlayerInput\BP_FirstPersonCharacter.uasset: [Compiler] In use pin  <Unnamed>  no longer exists on node  On Hit Player . Please refresh node or break links to remove pin.
+[2025.03.17-19.25.52:671][101]LogBlueprint: Error: [AssetLog] D:\Unreal Projects\MissileCommandUE5\MissileCommand\Content\PlayerInput\BP_FirstPersonCharacter.uasset: [Compiler] In use pin  <Unnamed>  no longer exists on node  On Hit Player . Please refresh node or break links to remove pin.
+[2025.03.17-19.25.52:671][101]LogBlueprint: Error: [AssetLog] D:\Unreal Projects\MissileCommandUE5\MissileCommand\Content\PlayerInput\BP_FirstPersonCharacter.uasset: [Compiler] In use pin  Target  no longer exists on node  On Hit Player . Please refresh node or break links to remove pin.
+[2025.03.17-19.25.52:671][101]LogBlueprint: Error: [AssetLog] D:\Unreal Projects\MissileCommandUE5\MissileCommand\Content\PlayerInput\BP_FirstPersonCharacter.uasset: [Compiler] Could not find a function named "OnHitPlayer" in 'BP_FirstPersonCharacter'.
+Make sure 'BP_FirstPersonCharacter' has been compiled for  On Hit Player
+[2025.03.17-19.25.52:671][101]LogBlueprint: Error: [AssetLog] D:\Unreal Projects\MissileCommandUE5\MissileCommand\Content\PlayerInput\BP_FirstPersonCharacter.uasset: [Compiler] Can't connect pins  Object  and  Other Actor : This cast has an invalid target type (was the class deleted without a redirect?).
+[2025.03.17-19.25.52:671][101]LogBlueprint: Error: [AssetLog] D:\Unreal Projects\MissileCommandUE5\MissileCommand\Content\PlayerInput\BP_FirstPersonCharacter.uasset: [Compiler] In use pin  As BP Space Object  no longer exists on node  Bad cast node . Please refresh node or break links to remove pin.
+[2025.03.17-19.25.52:671][101]LogBlueprint: Error: [AssetLog] D:\Unreal Projects\MissileCommandUE5\MissileCommand\Content\PlayerInput\BP_FirstPersonCharacter.uasset: [Compiler] Can't connect pins  Target Array generated from expanding For Each Loop  and  Out Actors : Array of Object References is not compatible with Array of Actor Object References.
+[2025.03.17-19.25.52:673][101]LogBlueprint: Error: [AssetLog] D:\Unreal Projects\MissileCommandUE5\MissileCommand\Content\PlayerInput\BP_FirstPersonCharacter.uasset: [Compiler] Could not find a function named "None" in 'BP_FirstPersonCharacter'.
+Make sure 'BP_FirstPersonCharacter' has been compiled for  EnhancedInputAction None
+[2025.03.17-19.25.52:674][101]LogBlueprint: Error: [AssetLog] D:\Unreal Projects\MissileCommandUE5\MissileCommand\Content\PlayerInput\BP_FirstPersonCharacter.uasset: [Compiler] In use pin  BP UI Score  no longer exists on node  Set . Please refresh node or break links to remove pin.
+[2025.03.17-19.25.52:674][101]LogBlueprint: Warning: [AssetLog] D:\Unreal Projects\MissileCommandUE5\MissileCommand\Content\PlayerInput\BP_FirstPersonCharacter.uasset: [Compiler] Node  EnhancedInputAction None . The node won't be pruned as isolated one. The node is not pure, but it has no exec pin(s). Verify IsNodePure implementation in K2Node Call Function.
+[2025.03.17-19.25.52:677][101]LogBlueprint: Error: [AssetLog] D:\Unreal Projects\MissileCommandUE5\MissileCommand\Content\PlayerInput\BP_FirstPersonCharacter.uasset: [Compiler] The current value of the ' Array generated from expanding Get (a copy) ' pin is invalid: Array inputs (like 'Target Array') must have an input wired into them (try connecting a MakeArray node).
+[2025.03.17-19.25.52:677][101]LogBlueprint: Error: [AssetLog] D:\Unreal Projects\MissileCommandUE5\MissileCommand\Content\PlayerInput\BP_FirstPersonCharacter.uasset: [Compiler] The property associated with  Canpull  could not be found in '/Game/PlayerInput/BP_FirstPersonCharacter.BP_FirstPersonCharacter_C'
+[2025.03.17-19.25.52:687][101]LogBlueprint: Error: [AssetLog] D:\Unreal Projects\MissileCommandUE5\MissileCommand\Content\PlayerInput\BP_FirstPersonCharacter.uasset: [Compiler] The property associated with  Player Speed  could not be found in '/Game/PlayerInput/BP_FirstPersonCharacter.BP_FirstPersonCharacter_C'
+[2025.03.17-19.25.52:720][101]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/PlayerInput/BP_FirstPersonCharacter.BP_FirstPersonCharacter
+[2025.03.17-19.25.52:720][101]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_11
+[2025.03.17-19.25.54:229][101]LogPackageName: Warning: GetLocalFullPath called on FPackagePath ../../../../../Unreal Projects/MissileCommandUE5/MissileCommand/Content/Blueprints/Obstacles/BP_Asteroid which has an unspecified header extension, and the path does not exist on disk. Assuming EPackageExtension::Asset.
+[2025.03.17-19.25.54:229][101]LoadErrors: Warning: While trying to load package /Game/PlayerInput/BP_FirstPersonCharacter, a dependent package /Game/Blueprints/Obstacles/BP_Asteroid was not available. Additional explanatory information follows:
+FPackageName: Skipped package /Game/Blueprints/Obstacles/BP_Asteroid has a valid, mounted, mount point but does not exist either on disk or in iostore. The uncooked file would be expected on disk at 'D:/Unreal Projects/MissileCommandUE5/MissileCommand/Content/Blueprints/Obstacles/BP_Asteroid.uasset'. Perhaps it has been deleted or was not synced?
+
+[2025.03.17-19.25.54:229][101]LogPackageName: Warning: GetLocalFullPath called on FPackagePath ../../../../../Unreal Projects/MissileCommandUE5/MissileCommand/Content/Blueprints/Obstacles/BP_SpaceObject which has an unspecified header extension, and the path does not exist on disk. Assuming EPackageExtension::Asset.
+[2025.03.17-19.25.54:229][101]LoadErrors: Warning: While trying to load package /Game/PlayerInput/BP_FirstPersonCharacter, a dependent package /Game/Blueprints/Obstacles/BP_SpaceObject was not available. Additional explanatory information follows:
+FPackageName: Skipped package /Game/Blueprints/Obstacles/BP_SpaceObject has a valid, mounted, mount point but does not exist either on disk or in iostore. The uncooked file would be expected on disk at 'D:/Unreal Projects/MissileCommandUE5/MissileCommand/Content/Blueprints/Obstacles/BP_SpaceObject.uasset'. Perhaps it has been deleted or was not synced?
+
+[2025.03.17-19.25.54:229][101]LogPackageName: Warning: GetLocalFullPath called on FPackagePath ../../../../../Unreal Projects/MissileCommandUE5/MissileCommand/Content/Blueprints/Obstacles/BP_SpaceObjectGrabbable which has an unspecified header extension, and the path does not exist on disk. Assuming EPackageExtension::Asset.
+[2025.03.17-19.25.54:229][101]LoadErrors: Warning: While trying to load package /Game/PlayerInput/BP_FirstPersonCharacter, a dependent package /Game/Blueprints/Obstacles/BP_SpaceObjectGrabbable was not available. Additional explanatory information follows:
+FPackageName: Skipped package /Game/Blueprints/Obstacles/BP_SpaceObjectGrabbable has a valid, mounted, mount point but does not exist either on disk or in iostore. The uncooked file would be expected on disk at 'D:/Unreal Projects/MissileCommandUE5/MissileCommand/Content/Blueprints/Obstacles/BP_SpaceObjectGrabbable.uasset'. Perhaps it has been deleted or was not synced?
+
+[2025.03.17-19.25.54:229][101]LogPackageName: Warning: GetLocalFullPath called on FPackagePath ../../../../../Unreal Projects/MissileCommandUE5/MissileCommand/Content/FirstPerson/Input/Actions/IA_Look which has an unspecified header extension, and the path does not exist on disk. Assuming EPackageExtension::Asset.
+[2025.03.17-19.25.54:229][101]LoadErrors: Warning: While trying to load package /Game/PlayerInput/BP_FirstPersonCharacter, a dependent package /Game/FirstPerson/Input/Actions/IA_Look was not available. Additional explanatory information follows:
+FPackageName: Skipped package /Game/FirstPerson/Input/Actions/IA_Look has a valid, mounted, mount point but does not exist either on disk or in iostore. The uncooked file would be expected on disk at 'D:/Unreal Projects/MissileCommandUE5/MissileCommand/Content/FirstPerson/Input/Actions/IA_Look.uasset'. Perhaps it has been deleted or was not synced?
+
+[2025.03.17-19.25.54:229][101]LogPackageName: Warning: GetLocalFullPath called on FPackagePath ../../../../../Unreal Projects/MissileCommandUE5/MissileCommand/Content/FirstPerson/Input/IMC_Default which has an unspecified header extension, and the path does not exist on disk. Assuming EPackageExtension::Asset.
+[2025.03.17-19.25.54:229][101]LoadErrors: Warning: While trying to load package /Game/PlayerInput/BP_FirstPersonCharacter, a dependent package /Game/FirstPerson/Input/IMC_Default was not available. Additional explanatory information follows:
+FPackageName: Skipped package /Game/FirstPerson/Input/IMC_Default has a valid, mounted, mount point but does not exist either on disk or in iostore. The uncooked file would be expected on disk at 'D:/Unreal Projects/MissileCommandUE5/MissileCommand/Content/FirstPerson/Input/IMC_Default.uasset'. Perhaps it has been deleted or was not synced?
+
+[2025.03.17-19.25.54:230][101]LogPackageName: Warning: GetLocalFullPath called on FPackagePath ../../../../../Unreal Projects/MissileCommandUE5/MissileCommand/Content/StarterContent/Materials/M_CobbleStone_Pebble which has an unspecified header extension, and the path does not exist on disk. Assuming EPackageExtension::Asset.
+[2025.03.17-19.25.54:230][101]LoadErrors: Warning: While trying to load package /Game/PlayerInput/BP_FirstPersonCharacter, a dependent package /Game/StarterContent/Materials/M_CobbleStone_Pebble was not available. Additional explanatory information follows:
+FPackageName: Skipped package /Game/StarterContent/Materials/M_CobbleStone_Pebble has a valid, mounted, mount point but does not exist either on disk or in iostore. The uncooked file would be expected on disk at 'D:/Unreal Projects/MissileCommandUE5/MissileCommand/Content/StarterContent/Materials/M_CobbleStone_Pebble.uasset'. Perhaps it has been deleted or was not synced?
+
+[2025.03.17-19.25.54:230][101]LogPackageName: Warning: GetLocalFullPath called on FPackagePath ../../../../../Unreal Projects/MissileCommandUE5/MissileCommand/Content/Blueprints/UI/BP_UI_Score which has an unspecified header extension, and the path does not exist on disk. Assuming EPackageExtension::Asset.
+[2025.03.17-19.25.54:230][102]LoadErrors: Warning: While trying to load package /Game/PlayerInput/BP_FirstPersonCharacter, a dependent package /Game/Blueprints/UI/BP_UI_Score was not available. Additional explanatory information follows:
+FPackageName: Skipped package /Game/Blueprints/UI/BP_UI_Score has a valid, mounted, mount point but does not exist either on disk or in iostore. The uncooked file would be expected on disk at 'D:/Unreal Projects/MissileCommandUE5/MissileCommand/Content/Blueprints/UI/BP_UI_Score.uasset'. Perhaps it has been deleted or was not synced?
+
+[2025.03.17-19.27.49:995][208]LogUObjectHash: Compacting FUObjectHashTables data took   1.50ms
+[2025.03.17-19.27.50:983][208]LogSlate: Window 'Delete Assets' being destroyed
+[2025.03.17-19.27.51:223][208]LogWorld: UWorld::CleanupWorld for World_11, bSessionEnded=true, bCleanupResources=true
+[2025.03.17-19.27.51:223][208]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.03.17-19.27.51:296][208]LogUObjectGlobals: Force Deleting 1 Package(s):
+	Asset Name: /Game/PlayerInput/BP_FirstPersonCharacter.BP_FirstPersonCharacter
+	Asset Type: Blueprint
+[2025.03.17-19.27.51:764][208]LogUObjectHash: Compacting FUObjectHashTables data took   1.52ms
+[2025.03.17-19.27.51:791][208]LogUObjectHash: Compacting FUObjectHashTables data took   1.43ms
+[2025.03.17-19.27.51:811][208]LogUObjectHash: Compacting FUObjectHashTables data took   0.70ms
+[2025.03.17-19.27.51:839][208]LogUObjectHash: Compacting FUObjectHashTables data took   0.69ms
+[2025.03.17-19.28.10:453][290]LogBlueprint: Error: [AssetLog] D:\Unreal Projects\MissileCommandUE5\MissileCommand\Content\PlayerInput\BP_Pawn_Player.uasset: [Compiler] No structure in SubCategoryObject in pin  Action Value
+[2025.03.17-19.28.10:455][290]LogBlueprint: Warning: [AssetLog] D:\Unreal Projects\MissileCommandUE5\MissileCommand\Content\PlayerInput\BP_Pawn_Player.uasset: [Compiler] EnhancedInputAction None  does not have a valid Input Action asset!!
+[2025.03.17-19.28.10:455][290]LogBlueprint: Warning: [AssetLog] D:\Unreal Projects\MissileCommandUE5\MissileCommand\Content\PlayerInput\BP_Pawn_Player.uasset: [Compiler] Input Axis Event references unknown Axis 'Left/Right' for  InputAxis Left/Right
+[2025.03.17-19.28.10:456][290]LogBlueprint: Error: [AssetLog] D:\Unreal Projects\MissileCommandUE5\MissileCommand\Content\PlayerInput\BP_Pawn_Player.uasset: [Compiler] In use pin  Action Value X  no longer exists on node  EnhancedInputAction None . Please refresh node or break links to remove pin.
+[2025.03.17-19.28.10:456][290]LogBlueprint: Error: [AssetLog] D:\Unreal Projects\MissileCommandUE5\MissileCommand\Content\PlayerInput\BP_Pawn_Player.uasset: [Compiler] In use pin  Action Value Y  no longer exists on node  EnhancedInputAction None . Please refresh node or break links to remove pin.
+[2025.03.17-19.28.10:456][290]LogBlueprint: Error: [AssetLog] D:\Unreal Projects\MissileCommandUE5\MissileCommand\Content\PlayerInput\BP_Pawn_Player.uasset: [Compiler] EnhancedInputActionEvent references invalid 'null' action for  EnhancedInputAction None
+[2025.03.17-19.28.10:456][290]LogBlueprint: Error: [AssetLog] D:\Unreal Projects\MissileCommandUE5\MissileCommand\Content\PlayerInput\BP_Pawn_Player.uasset: [Compiler] Could not find a function named "None" in 'BP_Pawn_Player'.
+Make sure 'BP_Pawn_Player' has been compiled for  EnhancedInputAction None
+[2025.03.17-19.28.10:456][290]LogBlueprint: Warning: [AssetLog] D:\Unreal Projects\MissileCommandUE5\MissileCommand\Content\PlayerInput\BP_Pawn_Player.uasset: [Compiler] Node  EnhancedInputAction None . The node won't be pruned as isolated one. The node is not pure, but it has no exec pin(s). Verify IsNodePure implementation in K2Node Call Function.
+[2025.03.17-19.28.10:499][290]LogUObjectHash: Compacting FUObjectHashTables data took   1.44ms
+[2025.03.17-19.28.31:798][515]LogDerivedDataCache: C:/Users/William Tallarico/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.003 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 0 files in 1 folders with total size 0 MiB.
+[2025.03.17-19.28.39:080][942]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.03.17-19.28.39:144][942]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/PlayerInput/BP_Pawn_Player] ([2] browsable assets)...
+[2025.03.17-19.28.39:144][942]OBJ SavePackage: Finished generating thumbnails for package [/Game/PlayerInput/BP_Pawn_Player]
+[2025.03.17-19.28.39:144][942]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/PlayerInput/BP_Pawn_Player" FILE="../../../../../Unreal Projects/MissileCommandUE5/MissileCommand/Content/PlayerInput/BP_Pawn_Player.uasset" SILENT=true
+[2025.03.17-19.28.39:158][942]LogSavePackage: Moving output files for package: /Game/PlayerInput/BP_Pawn_Player
+[2025.03.17-19.28.39:159][942]LogSavePackage: Moving '../../../../../Unreal Projects/MissileCommandUE5/MissileCommand/Saved/BP_Pawn_Player500C792E4F6BA8A4E6629EBEB6C32610.tmp' to '../../../../../Unreal Projects/MissileCommandUE5/MissileCommand/Content/PlayerInput/BP_Pawn_Player.uasset'
+[2025.03.17-19.28.39:174][942]LogFileHelpers: InternalPromptForCheckoutAndSave took 95.402 ms (total: 7.21 sec)
+[2025.03.17-19.28.39:243][942]LogContentValidation: Display: Starting to validate 1 assets
+[2025.03.17-19.28.39:243][942]LogContentValidation: Enabled validators:
+[2025.03.17-19.28.39:243][942]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.03.17-19.28.39:243][942]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.03.17-19.28.39:243][942]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.03.17-19.28.39:243][942]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.03.17-19.28.39:243][942]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.03.17-19.28.39:243][942]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.03.17-19.28.39:244][942]AssetCheck: /Game/PlayerInput/BP_Pawn_Player Validating asset
+[2025.03.17-19.30.08:957][788]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.03.17-19.30.09:016][788]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/PlayerInput/BP_Pawn_Player] ([2] browsable assets)...
+[2025.03.17-19.30.09:016][788]OBJ SavePackage: Finished generating thumbnails for package [/Game/PlayerInput/BP_Pawn_Player]
+[2025.03.17-19.30.09:016][788]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/PlayerInput/BP_Pawn_Player" FILE="../../../../../Unreal Projects/MissileCommandUE5/MissileCommand/Content/PlayerInput/BP_Pawn_Player.uasset" SILENT=true
+[2025.03.17-19.30.09:028][788]LogSavePackage: Moving output files for package: /Game/PlayerInput/BP_Pawn_Player
+[2025.03.17-19.30.09:030][788]LogSavePackage: Moving '../../../../../Unreal Projects/MissileCommandUE5/MissileCommand/Saved/BP_Pawn_PlayerE3E8B44048F276981830AD853B9F0610.tmp' to '../../../../../Unreal Projects/MissileCommandUE5/MissileCommand/Content/PlayerInput/BP_Pawn_Player.uasset'
+[2025.03.17-19.30.09:046][788]LogFileHelpers: InternalPromptForCheckoutAndSave took 88.843 ms (total: 7.30 sec)
+[2025.03.17-19.30.09:112][788]LogContentValidation: Display: Starting to validate 1 assets
+[2025.03.17-19.30.09:112][788]LogContentValidation: Enabled validators:
+[2025.03.17-19.30.09:112][788]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.03.17-19.30.09:112][788]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.03.17-19.30.09:112][788]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.03.17-19.30.09:112][788]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.03.17-19.30.09:112][788]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.03.17-19.30.09:112][788]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.03.17-19.30.09:112][788]AssetCheck: /Game/PlayerInput/BP_Pawn_Player Validating asset
+[2025.03.17-19.30.33:720][774]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 3578.338623
+[2025.03.17-19.30.34:720][777]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.03.17-19.30.34:720][777]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 3579.005371, Update Interval: 305.603210
+[2025.03.17-19.32.04:888][940]LogEditorTransaction: Undo Split Struct Pin
+[2025.03.17-19.32.05:278][952]LogEditorTransaction: Undo Split Struct Pin
+[2025.03.17-19.32.06:828][ 40]LogEditorTransaction: Undo Move Node
+[2025.03.17-19.32.07:291][ 64]LogEditorTransaction: Undo Move Node
+[2025.03.17-19.32.07:665][ 83]LogEditorTransaction: Undo Create Pin Link
+[2025.03.17-19.32.07:894][ 93]LogEditorTransaction: Undo Add Node
+[2025.03.17-19.32.08:320][115]LogEditorTransaction: Undo Delete current selection
+[2025.03.17-19.32.16:916][624]LogEditorTransaction: Redo Delete current selection
+[2025.03.17-19.32.17:081][626]LogEditorTransaction: Redo Add Node
+[2025.03.17-19.32.18:429][695]LogEditorTransaction: Redo Create Pin Link
+[2025.03.17-19.32.36:173][730]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.03.17-19.32.36:239][730]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/PlayerInput/BP_Pawn_Player] ([2] browsable assets)...
+[2025.03.17-19.32.36:239][730]OBJ SavePackage: Finished generating thumbnails for package [/Game/PlayerInput/BP_Pawn_Player]
+[2025.03.17-19.32.36:239][730]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/PlayerInput/BP_Pawn_Player" FILE="../../../../../Unreal Projects/MissileCommandUE5/MissileCommand/Content/PlayerInput/BP_Pawn_Player.uasset" SILENT=true
+[2025.03.17-19.32.36:256][730]LogSavePackage: Moving output files for package: /Game/PlayerInput/BP_Pawn_Player
+[2025.03.17-19.32.36:257][730]LogSavePackage: Moving '../../../../../Unreal Projects/MissileCommandUE5/MissileCommand/Saved/BP_Pawn_Player5663771E49CB04AF366CB1AB35299CCE.tmp' to '../../../../../Unreal Projects/MissileCommandUE5/MissileCommand/Content/PlayerInput/BP_Pawn_Player.uasset'
+[2025.03.17-19.32.36:273][730]LogFileHelpers: InternalPromptForCheckoutAndSave took 98.535 ms (total: 7.40 sec)
+[2025.03.17-19.32.36:344][730]LogContentValidation: Display: Starting to validate 1 assets
+[2025.03.17-19.32.36:344][730]LogContentValidation: Enabled validators:
+[2025.03.17-19.32.36:344][730]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.03.17-19.32.36:344][730]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.03.17-19.32.36:344][730]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.03.17-19.32.36:344][730]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.03.17-19.32.36:344][730]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.03.17-19.32.36:344][730]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.03.17-19.32.36:344][730]AssetCheck: /Game/PlayerInput/BP_Pawn_Player Validating asset
+[2025.03.17-19.32.38:011][812]LogUObjectHash: Compacting FUObjectHashTables data took   1.58ms
+[2025.03.17-19.32.47:656][382]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.03.17-19.32.47:721][382]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/PlayerInput/BP_Pawn_Player] ([2] browsable assets)...
+[2025.03.17-19.32.47:721][382]OBJ SavePackage: Finished generating thumbnails for package [/Game/PlayerInput/BP_Pawn_Player]
+[2025.03.17-19.32.47:721][382]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/PlayerInput/BP_Pawn_Player" FILE="../../../../../Unreal Projects/MissileCommandUE5/MissileCommand/Content/PlayerInput/BP_Pawn_Player.uasset" SILENT=true
+[2025.03.17-19.32.47:817][382]LogSavePackage: Moving output files for package: /Game/PlayerInput/BP_Pawn_Player
+[2025.03.17-19.32.47:819][382]LogSavePackage: Moving '../../../../../Unreal Projects/MissileCommandUE5/MissileCommand/Saved/BP_Pawn_Player6EF9A3F145BCE7C156A5D4A5B84856C1.tmp' to '../../../../../Unreal Projects/MissileCommandUE5/MissileCommand/Content/PlayerInput/BP_Pawn_Player.uasset'
+[2025.03.17-19.32.47:836][382]LogFileHelpers: InternalPromptForCheckoutAndSave took 180.678 ms (total: 7.58 sec)
+[2025.03.17-19.32.47:904][382]LogContentValidation: Display: Starting to validate 1 assets
+[2025.03.17-19.32.47:904][382]LogContentValidation: Enabled validators:
+[2025.03.17-19.32.47:904][382]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.03.17-19.32.47:904][382]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.03.17-19.32.47:904][382]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.03.17-19.32.47:904][382]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.03.17-19.32.47:904][382]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.03.17-19.32.47:904][382]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.03.17-19.32.47:905][382]AssetCheck: /Game/PlayerInput/BP_Pawn_Player Validating asset
+[2025.03.17-19.32.52:521][654]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2025.03.17-19.32.52:559][654]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.03.17-19.32.52:559][654]LogPlayLevel: Display: Creating online subsystem for client :Context_34
+[2025.03.17-19.32.52:563][654]LogOnline: OSS: Created online subsystem instance for: :Context_34
+[2025.03.17-19.32.52:579][655]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_MainLevel
+[2025.03.17-19.32.52:582][655]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002638s)
+[2025.03.17-19.32.52:582][655]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/MainLevel.MainLevel to /Game/Maps/UEDPIE_0_MainLevel.MainLevel (0.002699s)
+[2025.03.17-19.32.52:612][655]LogUObjectHash: Compacting FUObjectHashTables data took   1.66ms
+[2025.03.17-19.32.52:614][655]LogChaosDD: Creating Chaos Debug Draw Scene for world MainLevel
+[2025.03.17-19.32.52:616][655]LogPlayLevel: PIE: World Init took: (0.001837s)
+[2025.03.17-19.32.52:617][655]LogAudio: Display: Creating Audio Device:                 Id: 23, Scope: Unique, Realtime: True
+[2025.03.17-19.32.52:617][655]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.03.17-19.32.52:617][655]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.03.17-19.32.52:617][655]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.03.17-19.32.52:617][655]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.03.17-19.32.52:617][655]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2025.03.17-19.32.52:617][655]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.03.17-19.32.52:617][655]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2025.03.17-19.32.52:617][655]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.03.17-19.32.52:617][655]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.03.17-19.32.52:617][655]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.03.17-19.32.52:617][655]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.03.17-19.32.52:620][655]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.03.17-19.32.52:654][655]LogAudioMixer: Display: Using Audio Hardware Device Headphones (Soundcore Life Q30)
+[2025.03.17-19.32.52:655][655]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.03.17-19.32.52:655][655]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.03.17-19.32.52:655][655]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.03.17-19.32.52:655][655]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=23
+[2025.03.17-19.32.52:655][655]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=23
+[2025.03.17-19.32.52:659][655]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=23
+[2025.03.17-19.32.52:659][655]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=23
+[2025.03.17-19.32.52:659][655]LogInit: FAudioDevice initialized with ID 23.
+[2025.03.17-19.32.52:659][655]LogAudio: Display: Audio Device (ID: 23) registered with world 'MainLevel'.
+[2025.03.17-19.32.52:659][655]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 23
+[2025.03.17-19.32.52:662][655]LogLoad: Game class is 'BP_GameMode_C'
+[2025.03.17-19.32.52:663][655]LogWorld: Bringing World /Game/Maps/UEDPIE_0_MainLevel.MainLevel up for play (max tick rate 60) at 2025.03.17-15.32.52
+[2025.03.17-19.32.52:663][655]LogWorld: Bringing up level for play took: 0.000807
+[2025.03.17-19.32.52:837][655]PIE: Server logged in
+[2025.03.17-19.32.52:838][655]PIE: Play in editor total start time 0.279 seconds.
+[2025.03.17-19.33.56:645][447]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.03.17-19.33.56:645][447]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_MainLevel
+[2025.03.17-19.33.56:647][447]LogWorld: UWorld::CleanupWorld for MainLevel, bSessionEnded=true, bCleanupResources=true
+[2025.03.17-19.33.56:647][447]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.03.17-19.33.56:688][447]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.03.17-19.33.56:694][447]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.03.17-19.33.56:719][447]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.03.17-19.33.56:719][447]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 23
+[2025.03.17-19.33.56:720][447]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=23
+[2025.03.17-19.33.56:722][447]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=23
+[2025.03.17-19.33.56:731][447]LogUObjectHash: Compacting FUObjectHashTables data took   2.00ms
+[2025.03.17-19.33.57:147][448]LogPlayLevel: Display: Destroying online subsystem :Context_34
+[2025.03.17-19.34.15:850][472]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.03.17-19.34.15:915][472]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/PlayerInput/BP_Pawn_Player] ([2] browsable assets)...
+[2025.03.17-19.34.15:915][472]OBJ SavePackage: Finished generating thumbnails for package [/Game/PlayerInput/BP_Pawn_Player]
+[2025.03.17-19.34.15:915][472]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/PlayerInput/BP_Pawn_Player" FILE="../../../../../Unreal Projects/MissileCommandUE5/MissileCommand/Content/PlayerInput/BP_Pawn_Player.uasset" SILENT=true
+[2025.03.17-19.34.15:930][472]LogSavePackage: Moving output files for package: /Game/PlayerInput/BP_Pawn_Player
+[2025.03.17-19.34.15:931][472]LogSavePackage: Moving '../../../../../Unreal Projects/MissileCommandUE5/MissileCommand/Saved/BP_Pawn_Player8075097A4FC47847AFC52F874E6BE224.tmp' to '../../../../../Unreal Projects/MissileCommandUE5/MissileCommand/Content/PlayerInput/BP_Pawn_Player.uasset'
+[2025.03.17-19.34.15:948][472]LogFileHelpers: InternalPromptForCheckoutAndSave took 98.731 ms (total: 7.67 sec)
+[2025.03.17-19.34.16:021][472]LogContentValidation: Display: Starting to validate 1 assets
+[2025.03.17-19.34.16:021][472]LogContentValidation: Enabled validators:
+[2025.03.17-19.34.16:021][472]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.03.17-19.34.16:021][472]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.03.17-19.34.16:021][472]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.03.17-19.34.16:021][472]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.03.17-19.34.16:021][472]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.03.17-19.34.16:021][472]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.03.17-19.34.16:021][472]AssetCheck: /Game/PlayerInput/BP_Pawn_Player Validating asset
+[2025.03.17-19.36.03:888][853]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.03.17-19.36.03:950][853]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/PlayerInput/BP_Pawn_Player] ([2] browsable assets)...
+[2025.03.17-19.36.03:950][853]OBJ SavePackage: Finished generating thumbnails for package [/Game/PlayerInput/BP_Pawn_Player]
+[2025.03.17-19.36.03:950][853]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/PlayerInput/BP_Pawn_Player" FILE="../../../../../Unreal Projects/MissileCommandUE5/MissileCommand/Content/PlayerInput/BP_Pawn_Player.uasset" SILENT=true
+[2025.03.17-19.36.04:292][853]LogSavePackage: Moving output files for package: /Game/PlayerInput/BP_Pawn_Player
+[2025.03.17-19.36.04:293][853]LogSavePackage: Moving '../../../../../Unreal Projects/MissileCommandUE5/MissileCommand/Saved/BP_Pawn_Player9FD2D00346A47133AD60F5A43953C9B0.tmp' to '../../../../../Unreal Projects/MissileCommandUE5/MissileCommand/Content/PlayerInput/BP_Pawn_Player.uasset'
+[2025.03.17-19.36.04:310][853]LogFileHelpers: InternalPromptForCheckoutAndSave took 422.029 ms (total: 8.10 sec)
+[2025.03.17-19.36.04:382][853]LogContentValidation: Display: Starting to validate 1 assets
+[2025.03.17-19.36.04:382][853]LogContentValidation: Enabled validators:
+[2025.03.17-19.36.04:382][853]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.03.17-19.36.04:382][853]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.03.17-19.36.04:383][853]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.03.17-19.36.04:383][853]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.03.17-19.36.04:383][853]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.03.17-19.36.04:383][853]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.03.17-19.36.04:383][853]AssetCheck: /Game/PlayerInput/BP_Pawn_Player Validating asset
+[2025.03.17-19.36.16:167][963]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 3920.785156
+[2025.03.17-19.36.17:159][965]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.03.17-19.36.17:159][965]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 3921.447998, Update Interval: 312.841583
+[2025.03.17-19.38.14:064][373]LogUObjectHash: Compacting FUObjectHashTables data took   2.10ms
+[2025.03.17-19.38.15:866][471]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2025.03.17-19.38.15:890][471]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.03.17-19.38.15:890][471]LogPlayLevel: Display: Creating online subsystem for client :Context_35
+[2025.03.17-19.38.15:892][471]LogOnline: OSS: Created online subsystem instance for: :Context_35
+[2025.03.17-19.38.15:915][472]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_MainLevel
+[2025.03.17-19.38.15:918][472]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003377s)
+[2025.03.17-19.38.15:918][472]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/MainLevel.MainLevel to /Game/Maps/UEDPIE_0_MainLevel.MainLevel (0.003437s)
+[2025.03.17-19.38.15:943][472]LogUObjectHash: Compacting FUObjectHashTables data took   1.92ms
+[2025.03.17-19.38.15:945][472]LogChaosDD: Creating Chaos Debug Draw Scene for world MainLevel
+[2025.03.17-19.38.15:946][472]LogPlayLevel: PIE: World Init took: (0.001726s)
+[2025.03.17-19.38.15:947][472]LogAudio: Display: Creating Audio Device:                 Id: 24, Scope: Unique, Realtime: True
+[2025.03.17-19.38.15:947][472]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.03.17-19.38.15:947][472]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.03.17-19.38.15:947][472]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.03.17-19.38.15:947][472]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.03.17-19.38.15:947][472]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2025.03.17-19.38.15:947][472]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.03.17-19.38.15:947][472]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2025.03.17-19.38.15:947][472]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.03.17-19.38.15:947][472]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.03.17-19.38.15:947][472]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.03.17-19.38.15:947][472]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.03.17-19.38.15:950][472]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.03.17-19.38.15:985][472]LogAudioMixer: Display: Using Audio Hardware Device Headphones (Soundcore Life Q30)
+[2025.03.17-19.38.15:986][472]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.03.17-19.38.15:986][472]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.03.17-19.38.15:986][472]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.03.17-19.38.15:989][472]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=24
+[2025.03.17-19.38.15:989][472]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=24
+[2025.03.17-19.38.15:991][472]LogInit: FAudioDevice initialized with ID 24.
+[2025.03.17-19.38.15:991][472]LogAudio: Display: Audio Device (ID: 24) registered with world 'MainLevel'.
+[2025.03.17-19.38.15:991][472]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=24
+[2025.03.17-19.38.15:991][472]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 24
+[2025.03.17-19.38.15:991][472]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=24
+[2025.03.17-19.38.15:994][472]LogLoad: Game class is 'BP_GameMode_C'
+[2025.03.17-19.38.15:995][472]LogWorld: Bringing World /Game/Maps/UEDPIE_0_MainLevel.MainLevel up for play (max tick rate 60) at 2025.03.17-15.38.15
+[2025.03.17-19.38.15:996][472]LogWorld: Bringing up level for play took: 0.000804
+[2025.03.17-19.38.16:026][472]PIE: Server logged in
+[2025.03.17-19.38.16:027][472]PIE: Play in editor total start time 0.138 seconds.
+[2025.03.17-19.38.52:993][650]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.03.17-19.38.52:993][650]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_MainLevel
+[2025.03.17-19.38.52:993][650]LogWorld: UWorld::CleanupWorld for MainLevel, bSessionEnded=true, bCleanupResources=true
+[2025.03.17-19.38.52:993][650]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.03.17-19.38.53:008][650]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.03.17-19.38.53:013][650]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.03.17-19.38.53:038][650]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.03.17-19.38.53:038][650]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 24
+[2025.03.17-19.38.53:038][650]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=24
+[2025.03.17-19.38.53:041][650]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=24
+[2025.03.17-19.38.53:050][650]LogUObjectHash: Compacting FUObjectHashTables data took   2.64ms
+[2025.03.17-19.38.53:247][651]LogPlayLevel: Display: Destroying online subsystem :Context_35
+[2025.03.17-19.38.59:303][ 13]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2025.03.17-19.38.59:316][ 13]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.03.17-19.38.59:351][ 13]LogPlayLevel: Display: Creating online subsystem for client :Context_36
+[2025.03.17-19.38.59:353][ 13]LogOnline: OSS: Created online subsystem instance for: :Context_36
+[2025.03.17-19.38.59:369][ 14]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_MainLevel
+[2025.03.17-19.38.59:371][ 14]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001972s)
+[2025.03.17-19.38.59:371][ 14]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/MainLevel.MainLevel to /Game/Maps/UEDPIE_0_MainLevel.MainLevel (0.002023s)
+[2025.03.17-19.38.59:390][ 14]LogUObjectHash: Compacting FUObjectHashTables data took   1.51ms
+[2025.03.17-19.38.59:393][ 14]LogChaosDD: Creating Chaos Debug Draw Scene for world MainLevel
+[2025.03.17-19.38.59:394][ 14]LogPlayLevel: PIE: World Init took: (0.001644s)
+[2025.03.17-19.38.59:395][ 14]LogAudio: Display: Creating Audio Device:                 Id: 25, Scope: Unique, Realtime: True
+[2025.03.17-19.38.59:395][ 14]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.03.17-19.38.59:395][ 14]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.03.17-19.38.59:395][ 14]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.03.17-19.38.59:395][ 14]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.03.17-19.38.59:395][ 14]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2025.03.17-19.38.59:395][ 14]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.03.17-19.38.59:395][ 14]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2025.03.17-19.38.59:395][ 14]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.03.17-19.38.59:395][ 14]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.03.17-19.38.59:395][ 14]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.03.17-19.38.59:395][ 14]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.03.17-19.38.59:398][ 14]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.03.17-19.38.59:432][ 14]LogAudioMixer: Display: Using Audio Hardware Device Headphones (Soundcore Life Q30)
+[2025.03.17-19.38.59:433][ 14]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.03.17-19.38.59:433][ 14]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.03.17-19.38.59:433][ 14]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.03.17-19.38.59:433][ 14]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=25
+[2025.03.17-19.38.59:433][ 14]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=25
+[2025.03.17-19.38.59:436][ 14]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=25
+[2025.03.17-19.38.59:437][ 14]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=25
+[2025.03.17-19.38.59:437][ 14]LogInit: FAudioDevice initialized with ID 25.
+[2025.03.17-19.38.59:437][ 14]LogAudio: Display: Audio Device (ID: 25) registered with world 'MainLevel'.
+[2025.03.17-19.38.59:437][ 14]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 25
+[2025.03.17-19.38.59:439][ 14]LogLoad: Game class is 'BP_GameMode_C'
+[2025.03.17-19.38.59:440][ 14]LogWorld: Bringing World /Game/Maps/UEDPIE_0_MainLevel.MainLevel up for play (max tick rate 60) at 2025.03.17-15.38.59
+[2025.03.17-19.38.59:440][ 14]LogWorld: Bringing up level for play took: 0.000801
+[2025.03.17-19.38.59:443][ 14]PIE: Server logged in
+[2025.03.17-19.38.59:444][ 14]PIE: Play in editor total start time 0.128 seconds.
+[2025.03.17-19.39.35:953][184]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.03.17-19.39.35:953][184]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_MainLevel
+[2025.03.17-19.39.35:953][184]LogWorld: UWorld::CleanupWorld for MainLevel, bSessionEnded=true, bCleanupResources=true
+[2025.03.17-19.39.35:953][184]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.03.17-19.39.35:958][184]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.03.17-19.39.35:964][184]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.03.17-19.39.36:004][184]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.03.17-19.39.36:004][184]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 25
+[2025.03.17-19.39.36:004][184]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=25
+[2025.03.17-19.39.36:006][184]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=25
+[2025.03.17-19.39.36:016][184]LogUObjectHash: Compacting FUObjectHashTables data took   2.16ms
+[2025.03.17-19.39.36:053][185]LogPlayLevel: Display: Destroying online subsystem :Context_36
+[2025.03.17-19.40.01:257][666]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.03.17-19.40.01:316][666]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/PlayerInput/IMC] ([1] browsable assets)...
+[2025.03.17-19.40.01:316][666]OBJ SavePackage: Finished generating thumbnails for package [/Game/PlayerInput/IMC]
+[2025.03.17-19.40.01:316][666]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/PlayerInput/IMC" FILE="../../../../../Unreal Projects/MissileCommandUE5/MissileCommand/Content/PlayerInput/IMC.uasset" SILENT=true
+[2025.03.17-19.40.01:372][666]LogSavePackage: Moving output files for package: /Game/PlayerInput/IMC
+[2025.03.17-19.40.01:374][666]LogSavePackage: Moving '../../../../../Unreal Projects/MissileCommandUE5/MissileCommand/Saved/IMCCF2BC5BB424800FD5D73EA8B4F120609.tmp' to '../../../../../Unreal Projects/MissileCommandUE5/MissileCommand/Content/PlayerInput/IMC.uasset'
+[2025.03.17-19.40.01:390][666]LogFileHelpers: InternalPromptForCheckoutAndSave took 132.918 ms (total: 8.23 sec)
+[2025.03.17-19.40.01:457][666]LogContentValidation: Display: Starting to validate 1 assets
+[2025.03.17-19.40.01:457][666]LogContentValidation: Enabled validators:
+[2025.03.17-19.40.01:457][666]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.03.17-19.40.01:457][666]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.03.17-19.40.01:459][666]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.03.17-19.40.01:459][666]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.03.17-19.40.01:459][666]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.03.17-19.40.01:459][666]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.03.17-19.40.01:459][666]AssetCheck: /Game/PlayerInput/IMC Validating asset
+[2025.03.17-19.40.06:731][976]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2025.03.17-19.40.06:743][976]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.03.17-19.40.06:743][976]LogPlayLevel: Display: Creating online subsystem for client :Context_37
+[2025.03.17-19.40.06:747][976]LogOnline: OSS: Created online subsystem instance for: :Context_37
+[2025.03.17-19.40.06:763][977]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_MainLevel
+[2025.03.17-19.40.06:766][977]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002156s)
+[2025.03.17-19.40.06:766][977]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/MainLevel.MainLevel to /Game/Maps/UEDPIE_0_MainLevel.MainLevel (0.002221s)
+[2025.03.17-19.40.06:790][977]LogUObjectHash: Compacting FUObjectHashTables data took   1.63ms
+[2025.03.17-19.40.06:792][977]LogChaosDD: Creating Chaos Debug Draw Scene for world MainLevel
+[2025.03.17-19.40.06:793][977]LogPlayLevel: PIE: World Init took: (0.001577s)
+[2025.03.17-19.40.06:794][977]LogAudio: Display: Creating Audio Device:                 Id: 26, Scope: Unique, Realtime: True
+[2025.03.17-19.40.06:794][977]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.03.17-19.40.06:794][977]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.03.17-19.40.06:794][977]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.03.17-19.40.06:794][977]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.03.17-19.40.06:794][977]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2025.03.17-19.40.06:794][977]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.03.17-19.40.06:794][977]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2025.03.17-19.40.06:794][977]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.03.17-19.40.06:794][977]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.03.17-19.40.06:794][977]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.03.17-19.40.06:794][977]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.03.17-19.40.06:797][977]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.03.17-19.40.06:831][977]LogAudioMixer: Display: Using Audio Hardware Device Headphones (Soundcore Life Q30)
+[2025.03.17-19.40.06:832][977]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.03.17-19.40.06:832][977]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.03.17-19.40.06:832][977]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.03.17-19.40.06:832][977]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=26
+[2025.03.17-19.40.06:832][977]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=26
+[2025.03.17-19.40.06:835][977]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=26
+[2025.03.17-19.40.06:835][977]LogInit: FAudioDevice initialized with ID 26.
+[2025.03.17-19.40.06:835][977]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=26
+[2025.03.17-19.40.06:835][977]LogAudio: Display: Audio Device (ID: 26) registered with world 'MainLevel'.
+[2025.03.17-19.40.06:835][977]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 26
+[2025.03.17-19.40.06:837][977]LogLoad: Game class is 'BP_GameMode_C'
+[2025.03.17-19.40.06:839][977]LogWorld: Bringing World /Game/Maps/UEDPIE_0_MainLevel.MainLevel up for play (max tick rate 60) at 2025.03.17-15.40.06
+[2025.03.17-19.40.06:839][977]LogWorld: Bringing up level for play took: 0.000800
+[2025.03.17-19.40.06:842][977]PIE: Server logged in
+[2025.03.17-19.40.06:843][977]PIE: Play in editor total start time 0.1 seconds.
+[2025.03.17-19.40.17:136][587]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.03.17-19.40.17:136][587]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_MainLevel
+[2025.03.17-19.40.17:136][587]LogWorld: UWorld::CleanupWorld for MainLevel, bSessionEnded=true, bCleanupResources=true
+[2025.03.17-19.40.17:136][587]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.03.17-19.40.17:151][587]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.03.17-19.40.17:156][587]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.03.17-19.40.17:192][587]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.03.17-19.40.17:192][587]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 26
+[2025.03.17-19.40.17:192][587]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=26
+[2025.03.17-19.40.17:195][587]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=26
+[2025.03.17-19.40.17:202][587]LogUObjectHash: Compacting FUObjectHashTables data took   1.90ms
+[2025.03.17-19.40.17:248][588]LogPlayLevel: Display: Destroying online subsystem :Context_37
+[2025.03.17-19.40.33:608][152]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.03.17-19.40.33:669][152]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/PlayerInput/IMC] ([1] browsable assets)...
+[2025.03.17-19.40.33:669][152]OBJ SavePackage: Finished generating thumbnails for package [/Game/PlayerInput/IMC]
+[2025.03.17-19.40.33:669][152]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/PlayerInput/IMC" FILE="../../../../../Unreal Projects/MissileCommandUE5/MissileCommand/Content/PlayerInput/IMC.uasset" SILENT=true
+[2025.03.17-19.40.33:674][152]LogSavePackage: Moving output files for package: /Game/PlayerInput/IMC
+[2025.03.17-19.40.33:675][152]LogSavePackage: Moving '../../../../../Unreal Projects/MissileCommandUE5/MissileCommand/Saved/IMC9BD62D6B45859394F4CB6785E5312A64.tmp' to '../../../../../Unreal Projects/MissileCommandUE5/MissileCommand/Content/PlayerInput/IMC.uasset'
+[2025.03.17-19.40.33:694][152]LogFileHelpers: InternalPromptForCheckoutAndSave took 86.293 ms (total: 8.32 sec)
+[2025.03.17-19.40.33:754][152]LogContentValidation: Display: Starting to validate 1 assets
+[2025.03.17-19.40.33:754][152]LogContentValidation: Enabled validators:
+[2025.03.17-19.40.33:754][152]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.03.17-19.40.33:754][152]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.03.17-19.40.33:754][152]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.03.17-19.40.33:754][152]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.03.17-19.40.33:754][152]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.03.17-19.40.33:754][152]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.03.17-19.40.33:755][152]AssetCheck: /Game/PlayerInput/IMC Validating asset
+[2025.03.17-19.40.40:304][484]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.03.17-19.40.40:367][484]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/PlayerInput/BP_Pawn_Player] ([2] browsable assets)...
+[2025.03.17-19.40.40:367][484]OBJ SavePackage: Finished generating thumbnails for package [/Game/PlayerInput/BP_Pawn_Player]
+[2025.03.17-19.40.40:367][484]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/PlayerInput/BP_Pawn_Player" FILE="../../../../../Unreal Projects/MissileCommandUE5/MissileCommand/Content/PlayerInput/BP_Pawn_Player.uasset" SILENT=true
+[2025.03.17-19.40.40:379][484]LogSavePackage: Moving output files for package: /Game/PlayerInput/BP_Pawn_Player
+[2025.03.17-19.40.40:380][484]LogSavePackage: Moving '../../../../../Unreal Projects/MissileCommandUE5/MissileCommand/Saved/BP_Pawn_PlayerC61D45B341EDCEB08BA60391572FD501.tmp' to '../../../../../Unreal Projects/MissileCommandUE5/MissileCommand/Content/PlayerInput/BP_Pawn_Player.uasset'
+[2025.03.17-19.40.40:395][484]LogFileHelpers: InternalPromptForCheckoutAndSave took 90.719 ms (total: 8.41 sec)
+[2025.03.17-19.40.40:458][484]LogContentValidation: Display: Starting to validate 1 assets
+[2025.03.17-19.40.40:458][484]LogContentValidation: Enabled validators:
+[2025.03.17-19.40.40:458][484]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.03.17-19.40.40:458][484]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.03.17-19.40.40:458][484]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.03.17-19.40.40:458][484]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.03.17-19.40.40:458][484]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.03.17-19.40.40:458][484]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.03.17-19.40.40:458][484]AssetCheck: /Game/PlayerInput/BP_Pawn_Player Validating asset
+[2025.03.17-19.40.44:628][721]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2025.03.17-19.40.44:670][721]LogPlayLevel: [PlayLevel] Compiling BP_Pawn_Player before play...
+[2025.03.17-19.40.44:745][721]LogUObjectHash: Compacting FUObjectHashTables data took   1.50ms
+[2025.03.17-19.40.44:746][721]LogPlayLevel: PlayLevel: Blueprint regeneration took 107 ms (1 blueprints)
+[2025.03.17-19.40.44:783][721]LogPlayLevel: Display: Creating online subsystem for client :Context_38
+[2025.03.17-19.40.44:791][721]LogOnline: OSS: Created online subsystem instance for: :Context_38
+[2025.03.17-19.40.44:811][722]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_MainLevel
+[2025.03.17-19.40.44:814][722]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001972s)
+[2025.03.17-19.40.44:814][722]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/MainLevel.MainLevel to /Game/Maps/UEDPIE_0_MainLevel.MainLevel (0.002037s)
+[2025.03.17-19.40.44:837][722]LogUObjectHash: Compacting FUObjectHashTables data took   1.59ms
+[2025.03.17-19.40.44:839][722]LogChaosDD: Creating Chaos Debug Draw Scene for world MainLevel
+[2025.03.17-19.40.44:840][722]LogPlayLevel: PIE: World Init took: (0.001584s)
+[2025.03.17-19.40.44:841][722]LogAudio: Display: Creating Audio Device:                 Id: 27, Scope: Unique, Realtime: True
+[2025.03.17-19.40.44:841][722]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.03.17-19.40.44:841][722]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.03.17-19.40.44:841][722]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.03.17-19.40.44:841][722]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.03.17-19.40.44:841][722]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2025.03.17-19.40.44:841][722]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.03.17-19.40.44:841][722]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2025.03.17-19.40.44:841][722]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.03.17-19.40.44:841][722]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.03.17-19.40.44:841][722]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.03.17-19.40.44:841][722]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.03.17-19.40.44:843][722]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.03.17-19.40.44:876][722]LogAudioMixer: Display: Using Audio Hardware Device Headphones (Soundcore Life Q30)
+[2025.03.17-19.40.44:877][722]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.03.17-19.40.44:877][722]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.03.17-19.40.44:877][722]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.03.17-19.40.44:878][722]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=27
+[2025.03.17-19.40.44:878][722]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=27
+[2025.03.17-19.40.44:880][722]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=27
+[2025.03.17-19.40.44:880][722]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=27
+[2025.03.17-19.40.44:880][722]LogInit: FAudioDevice initialized with ID 27.
+[2025.03.17-19.40.44:880][722]LogAudio: Display: Audio Device (ID: 27) registered with world 'MainLevel'.
+[2025.03.17-19.40.44:880][722]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 27
+[2025.03.17-19.40.44:882][722]LogLoad: Game class is 'BP_GameMode_C'
+[2025.03.17-19.40.44:883][722]LogWorld: Bringing World /Game/Maps/UEDPIE_0_MainLevel.MainLevel up for play (max tick rate 60) at 2025.03.17-15.40.44
+[2025.03.17-19.40.44:883][722]LogWorld: Bringing up level for play took: 0.000661
+[2025.03.17-19.40.44:916][722]LogBlueprintUserMessages: [BP_Pawn_Player_C_0] Hello
+[2025.03.17-19.40.44:924][722]PIE: Server logged in
+[2025.03.17-19.40.44:925][722]PIE: Play in editor total start time 0.287 seconds.
+[2025.03.17-19.40.48:324][918]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.03.17-19.40.48:324][918]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_MainLevel
+[2025.03.17-19.40.48:325][918]LogWorld: UWorld::CleanupWorld for MainLevel, bSessionEnded=true, bCleanupResources=true
+[2025.03.17-19.40.48:325][918]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.03.17-19.40.48:329][918]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.03.17-19.40.48:335][918]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.03.17-19.40.48:360][918]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.03.17-19.40.48:360][918]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 27
+[2025.03.17-19.40.48:360][918]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=27
+[2025.03.17-19.40.48:363][918]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=27
+[2025.03.17-19.40.48:371][918]LogUObjectHash: Compacting FUObjectHashTables data took   2.38ms
+[2025.03.17-19.40.48:442][919]LogPlayLevel: Display: Destroying online subsystem :Context_38
+[2025.03.17-19.40.54:416][193]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2025.03.17-19.40.54:458][193]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.03.17-19.40.54:491][193]LogPlayLevel: Display: Creating online subsystem for client :Context_39
+[2025.03.17-19.40.54:493][193]LogOnline: OSS: Created online subsystem instance for: :Context_39
+[2025.03.17-19.40.54:515][194]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_MainLevel
+[2025.03.17-19.40.54:516][194]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001828s)
+[2025.03.17-19.40.54:518][194]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/MainLevel.MainLevel to /Game/Maps/UEDPIE_0_MainLevel.MainLevel (0.001874s)
+[2025.03.17-19.40.54:538][194]LogUObjectHash: Compacting FUObjectHashTables data took   1.51ms
+[2025.03.17-19.40.54:540][194]LogChaosDD: Creating Chaos Debug Draw Scene for world MainLevel
+[2025.03.17-19.40.54:542][194]LogPlayLevel: PIE: World Init took: (0.001732s)
+[2025.03.17-19.40.54:543][194]LogAudio: Display: Creating Audio Device:                 Id: 28, Scope: Unique, Realtime: True
+[2025.03.17-19.40.54:543][194]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.03.17-19.40.54:543][194]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.03.17-19.40.54:543][194]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.03.17-19.40.54:543][194]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.03.17-19.40.54:543][194]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2025.03.17-19.40.54:543][194]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.03.17-19.40.54:543][194]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2025.03.17-19.40.54:543][194]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.03.17-19.40.54:543][194]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.03.17-19.40.54:543][194]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.03.17-19.40.54:543][194]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.03.17-19.40.54:545][194]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.03.17-19.40.54:579][194]LogAudioMixer: Display: Using Audio Hardware Device Headphones (Soundcore Life Q30)
+[2025.03.17-19.40.54:580][194]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.03.17-19.40.54:580][194]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.03.17-19.40.54:580][194]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.03.17-19.40.54:580][194]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=28
+[2025.03.17-19.40.54:580][194]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=28
+[2025.03.17-19.40.54:583][194]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=28
+[2025.03.17-19.40.54:583][194]LogInit: FAudioDevice initialized with ID 28.
+[2025.03.17-19.40.54:583][194]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=28
+[2025.03.17-19.40.54:583][194]LogAudio: Display: Audio Device (ID: 28) registered with world 'MainLevel'.
+[2025.03.17-19.40.54:583][194]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 28
+[2025.03.17-19.40.54:586][194]LogLoad: Game class is 'BP_GameMode_C'
+[2025.03.17-19.40.54:586][194]LogWorld: Bringing World /Game/Maps/UEDPIE_0_MainLevel.MainLevel up for play (max tick rate 60) at 2025.03.17-15.40.54
+[2025.03.17-19.40.54:587][194]LogWorld: Bringing up level for play took: 0.000768
+[2025.03.17-19.40.54:590][194]LogBlueprintUserMessages: [BP_Pawn_Player_C_0] Hello
+[2025.03.17-19.40.54:591][194]PIE: Server logged in
+[2025.03.17-19.40.54:591][194]PIE: Play in editor total start time 0.134 seconds.
+[2025.03.17-19.40.57:863][384]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.03.17-19.40.57:863][384]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_MainLevel
+[2025.03.17-19.40.57:864][384]LogWorld: UWorld::CleanupWorld for MainLevel, bSessionEnded=true, bCleanupResources=true
+[2025.03.17-19.40.57:864][384]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.03.17-19.40.57:879][384]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.03.17-19.40.57:884][384]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.03.17-19.40.57:906][384]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.03.17-19.40.57:906][384]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 28
+[2025.03.17-19.40.57:906][384]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=28
+[2025.03.17-19.40.57:908][384]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=28
+[2025.03.17-19.40.57:915][384]LogUObjectHash: Compacting FUObjectHashTables data took   1.63ms
+[2025.03.17-19.40.57:983][385]LogPlayLevel: Display: Destroying online subsystem :Context_39
+[2025.03.17-19.41.21:677][585]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.03.17-19.41.21:736][585]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/PlayerInput/IMC] ([1] browsable assets)...
+[2025.03.17-19.41.21:736][585]OBJ SavePackage: Finished generating thumbnails for package [/Game/PlayerInput/IMC]
+[2025.03.17-19.41.21:736][585]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/PlayerInput/IMC" FILE="../../../../../Unreal Projects/MissileCommandUE5/MissileCommand/Content/PlayerInput/IMC.uasset" SILENT=true
+[2025.03.17-19.41.21:739][585]LogSavePackage: Moving output files for package: /Game/PlayerInput/IMC
+[2025.03.17-19.41.21:740][585]LogSavePackage: Moving '../../../../../Unreal Projects/MissileCommandUE5/MissileCommand/Saved/IMCF2B7219E4F1A235E213F62BA4475D89D.tmp' to '../../../../../Unreal Projects/MissileCommandUE5/MissileCommand/Content/PlayerInput/IMC.uasset'
+[2025.03.17-19.41.21:757][585]LogFileHelpers: InternalPromptForCheckoutAndSave took 80.415 ms (total: 8.49 sec)
+[2025.03.17-19.41.21:820][585]LogContentValidation: Display: Starting to validate 1 assets
+[2025.03.17-19.41.21:820][585]LogContentValidation: Enabled validators:
+[2025.03.17-19.41.21:820][585]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.03.17-19.41.21:820][585]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.03.17-19.41.21:820][585]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.03.17-19.41.21:820][585]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.03.17-19.41.21:820][585]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.03.17-19.41.21:820][585]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.03.17-19.41.21:820][585]AssetCheck: /Game/PlayerInput/IMC Validating asset
+[2025.03.17-19.41.28:383][953]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.03.17-19.41.28:448][953]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/PlayerInput/BP_Pawn_Player] ([2] browsable assets)...
+[2025.03.17-19.41.28:448][953]OBJ SavePackage: Finished generating thumbnails for package [/Game/PlayerInput/BP_Pawn_Player]
+[2025.03.17-19.41.28:448][953]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/PlayerInput/BP_Pawn_Player" FILE="../../../../../Unreal Projects/MissileCommandUE5/MissileCommand/Content/PlayerInput/BP_Pawn_Player.uasset" SILENT=true
+[2025.03.17-19.41.28:532][953]LogSavePackage: Moving output files for package: /Game/PlayerInput/BP_Pawn_Player
+[2025.03.17-19.41.28:533][953]LogSavePackage: Moving '../../../../../Unreal Projects/MissileCommandUE5/MissileCommand/Saved/BP_Pawn_PlayerDEE9BC054030403D057B269AF88BA168.tmp' to '../../../../../Unreal Projects/MissileCommandUE5/MissileCommand/Content/PlayerInput/BP_Pawn_Player.uasset'
+[2025.03.17-19.41.28:551][953]LogFileHelpers: InternalPromptForCheckoutAndSave took 167.261 ms (total: 8.65 sec)
+[2025.03.17-19.41.28:620][953]LogContentValidation: Display: Starting to validate 1 assets
+[2025.03.17-19.41.28:620][953]LogContentValidation: Enabled validators:
+[2025.03.17-19.41.28:620][953]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.03.17-19.41.28:620][953]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.03.17-19.41.28:620][953]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.03.17-19.41.28:620][953]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.03.17-19.41.28:620][953]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.03.17-19.41.28:620][953]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.03.17-19.41.28:620][953]AssetCheck: /Game/PlayerInput/BP_Pawn_Player Validating asset
+[2025.03.17-19.41.30:464][ 57]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2025.03.17-19.41.30:478][ 57]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.03.17-19.41.30:491][ 57]LogPlayLevel: Display: Creating online subsystem for client :Context_40
+[2025.03.17-19.41.30:495][ 57]LogOnline: OSS: Created online subsystem instance for: :Context_40
+[2025.03.17-19.41.30:522][ 58]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_MainLevel
+[2025.03.17-19.41.30:526][ 58]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003694s)
+[2025.03.17-19.41.30:526][ 58]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/MainLevel.MainLevel to /Game/Maps/UEDPIE_0_MainLevel.MainLevel (0.003764s)
+[2025.03.17-19.41.30:556][ 58]LogUObjectHash: Compacting FUObjectHashTables data took   2.18ms
+[2025.03.17-19.41.30:559][ 58]LogChaosDD: Creating Chaos Debug Draw Scene for world MainLevel
+[2025.03.17-19.41.30:561][ 58]LogPlayLevel: PIE: World Init took: (0.002149s)
+[2025.03.17-19.41.30:562][ 58]LogAudio: Display: Creating Audio Device:                 Id: 29, Scope: Unique, Realtime: True
+[2025.03.17-19.41.30:562][ 58]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.03.17-19.41.30:562][ 58]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.03.17-19.41.30:562][ 58]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.03.17-19.41.30:562][ 58]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.03.17-19.41.30:562][ 58]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2025.03.17-19.41.30:562][ 58]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.03.17-19.41.30:562][ 58]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2025.03.17-19.41.30:562][ 58]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.03.17-19.41.30:562][ 58]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.03.17-19.41.30:562][ 58]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.03.17-19.41.30:562][ 58]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.03.17-19.41.30:566][ 58]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.03.17-19.41.30:608][ 58]LogAudioMixer: Display: Using Audio Hardware Device Headphones (Soundcore Life Q30)
+[2025.03.17-19.41.30:608][ 58]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.03.17-19.41.30:608][ 58]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.03.17-19.41.30:608][ 58]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.03.17-19.41.30:609][ 58]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=29
+[2025.03.17-19.41.30:609][ 58]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=29
+[2025.03.17-19.41.30:612][ 58]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=29
+[2025.03.17-19.41.30:612][ 58]LogInit: FAudioDevice initialized with ID 29.
+[2025.03.17-19.41.30:612][ 58]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=29
+[2025.03.17-19.41.30:612][ 58]LogAudio: Display: Audio Device (ID: 29) registered with world 'MainLevel'.
+[2025.03.17-19.41.30:612][ 58]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 29
+[2025.03.17-19.41.30:614][ 58]LogLoad: Game class is 'BP_GameMode_C'
+[2025.03.17-19.41.30:614][ 58]LogWorld: Bringing World /Game/Maps/UEDPIE_0_MainLevel.MainLevel up for play (max tick rate 60) at 2025.03.17-15.41.30
+[2025.03.17-19.41.30:615][ 58]LogWorld: Bringing up level for play took: 0.000773
+[2025.03.17-19.41.30:617][ 58]LogBlueprintUserMessages: [BP_Pawn_Player_C_0] Hello
+[2025.03.17-19.41.30:618][ 58]PIE: Server logged in
+[2025.03.17-19.41.30:619][ 58]PIE: Play in editor total start time 0.142 seconds.
+[2025.03.17-19.41.32:972][195]LogBlueprintUserMessages: [BP_Pawn_Player_C_0] Fire Silo 1
+[2025.03.17-19.41.32:988][196]LogBlueprintUserMessages: [BP_Pawn_Player_C_0] Fire Silo 1
+[2025.03.17-19.41.33:005][197]LogBlueprintUserMessages: [BP_Pawn_Player_C_0] Fire Silo 1
+[2025.03.17-19.41.33:022][198]LogBlueprintUserMessages: [BP_Pawn_Player_C_0] Fire Silo 1
+[2025.03.17-19.41.33:038][199]LogBlueprintUserMessages: [BP_Pawn_Player_C_0] Fire Silo 1
+[2025.03.17-19.41.33:055][200]LogBlueprintUserMessages: [BP_Pawn_Player_C_0] Fire Silo 1
+[2025.03.17-19.41.33:071][201]LogBlueprintUserMessages: [BP_Pawn_Player_C_0] Fire Silo 1
+[2025.03.17-19.41.34:939][313]LogBlueprintUserMessages: [BP_Pawn_Player_C_0] Fire Silo 2
+[2025.03.17-19.41.34:956][314]LogBlueprintUserMessages: [BP_Pawn_Player_C_0] Fire Silo 2
+[2025.03.17-19.41.34:972][315]LogBlueprintUserMessages: [BP_Pawn_Player_C_0] Fire Silo 2
+[2025.03.17-19.41.34:988][316]LogBlueprintUserMessages: [BP_Pawn_Player_C_0] Fire Silo 2
+[2025.03.17-19.41.35:005][317]LogBlueprintUserMessages: [BP_Pawn_Player_C_0] Fire Silo 2
+[2025.03.17-19.41.36:522][408]LogBlueprintUserMessages: [BP_Pawn_Player_C_0] Fire Silo 1
+[2025.03.17-19.41.36:537][409]LogBlueprintUserMessages: [BP_Pawn_Player_C_0] Fire Silo 1
+[2025.03.17-19.41.36:555][410]LogBlueprintUserMessages: [BP_Pawn_Player_C_0] Fire Silo 1
+[2025.03.17-19.41.36:572][411]LogBlueprintUserMessages: [BP_Pawn_Player_C_0] Fire Silo 1
+[2025.03.17-19.41.36:589][412]LogBlueprintUserMessages: [BP_Pawn_Player_C_0] Fire Silo 1
+[2025.03.17-19.41.36:604][413]LogBlueprintUserMessages: [BP_Pawn_Player_C_0] Fire Silo 1
+[2025.03.17-19.41.36:621][414]LogBlueprintUserMessages: [BP_Pawn_Player_C_0] Fire Silo 1
+[2025.03.17-19.41.36:639][415]LogBlueprintUserMessages: [BP_Pawn_Player_C_0] Fire Silo 1
+[2025.03.17-19.41.37:505][467]LogBlueprintUserMessages: [BP_Pawn_Player_C_0] Fire Silo 2
+[2025.03.17-19.41.37:521][468]LogBlueprintUserMessages: [BP_Pawn_Player_C_0] Fire Silo 2
+[2025.03.17-19.41.37:538][469]LogBlueprintUserMessages: [BP_Pawn_Player_C_0] Fire Silo 2
+[2025.03.17-19.41.37:555][470]LogBlueprintUserMessages: [BP_Pawn_Player_C_0] Fire Silo 2
+[2025.03.17-19.41.37:572][471]LogBlueprintUserMessages: [BP_Pawn_Player_C_0] Fire Silo 2
+[2025.03.17-19.41.37:588][472]LogBlueprintUserMessages: [BP_Pawn_Player_C_0] Fire Silo 2
+[2025.03.17-19.41.37:605][473]LogBlueprintUserMessages: [BP_Pawn_Player_C_0] Fire Silo 2
+[2025.03.17-19.41.37:622][474]LogBlueprintUserMessages: [BP_Pawn_Player_C_0] Fire Silo 2
+[2025.03.17-19.41.38:456][524]LogBlueprintUserMessages: [BP_Pawn_Player_C_0] Fire Silo 1
+[2025.03.17-19.41.38:472][525]LogBlueprintUserMessages: [BP_Pawn_Player_C_0] Fire Silo 1
+[2025.03.17-19.41.38:489][526]LogBlueprintUserMessages: [BP_Pawn_Player_C_0] Fire Silo 1
+[2025.03.17-19.41.38:505][527]LogBlueprintUserMessages: [BP_Pawn_Player_C_0] Fire Silo 1
+[2025.03.17-19.41.38:522][528]LogBlueprintUserMessages: [BP_Pawn_Player_C_0] Fire Silo 1
+[2025.03.17-19.41.38:538][529]LogBlueprintUserMessages: [BP_Pawn_Player_C_0] Fire Silo 1
+[2025.03.17-19.41.38:555][530]LogBlueprintUserMessages: [BP_Pawn_Player_C_0] Fire Silo 1
+[2025.03.17-19.41.38:572][531]LogBlueprintUserMessages: [BP_Pawn_Player_C_0] Fire Silo 1
+[2025.03.17-19.41.39:188][568]LogBlueprintUserMessages: [BP_Pawn_Player_C_0] Fire Silo 2
+[2025.03.17-19.41.39:205][569]LogBlueprintUserMessages: [BP_Pawn_Player_C_0] Fire Silo 2
+[2025.03.17-19.41.39:221][570]LogBlueprintUserMessages: [BP_Pawn_Player_C_0] Fire Silo 2
+[2025.03.17-19.41.39:238][571]LogBlueprintUserMessages: [BP_Pawn_Player_C_0] Fire Silo 2
+[2025.03.17-19.41.39:255][572]LogBlueprintUserMessages: [BP_Pawn_Player_C_0] Fire Silo 2
+[2025.03.17-19.41.39:272][573]LogBlueprintUserMessages: [BP_Pawn_Player_C_0] Fire Silo 2
+[2025.03.17-19.41.39:288][574]LogBlueprintUserMessages: [BP_Pawn_Player_C_0] Fire Silo 2
+[2025.03.17-19.41.39:305][575]LogBlueprintUserMessages: [BP_Pawn_Player_C_0] Fire Silo 2
+[2025.03.17-19.41.39:322][576]LogBlueprintUserMessages: [BP_Pawn_Player_C_0] Fire Silo 2
+[2025.03.17-19.41.39:338][577]LogBlueprintUserMessages: [BP_Pawn_Player_C_0] Fire Silo 2
+[2025.03.17-19.41.40:680][656]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.03.17-19.41.40:680][656]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_MainLevel
+[2025.03.17-19.41.40:680][656]LogWorld: UWorld::CleanupWorld for MainLevel, bSessionEnded=true, bCleanupResources=true
+[2025.03.17-19.41.40:680][656]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.03.17-19.41.40:695][656]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.03.17-19.41.40:701][656]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.03.17-19.41.40:726][656]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.03.17-19.41.40:726][656]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 29
+[2025.03.17-19.41.40:726][656]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=29
+[2025.03.17-19.41.40:729][656]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=29
+[2025.03.17-19.41.40:737][656]LogUObjectHash: Compacting FUObjectHashTables data took   2.10ms
+[2025.03.17-19.41.40:824][657]LogPlayLevel: Display: Destroying online subsystem :Context_40
+[2025.03.17-19.42.08:737][291]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 4273.341309
+[2025.03.17-19.42.08:821][296]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.03.17-19.42.08:822][296]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 4273.408203, Update Interval: 322.692963
+[2025.03.17-19.42.32:468][637]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.03.17-19.42.32:530][637]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/PlayerInput/IMC] ([1] browsable assets)...
+[2025.03.17-19.42.32:530][637]OBJ SavePackage: Finished generating thumbnails for package [/Game/PlayerInput/IMC]
+[2025.03.17-19.42.32:530][637]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/PlayerInput/IMC" FILE="../../../../../Unreal Projects/MissileCommandUE5/MissileCommand/Content/PlayerInput/IMC.uasset" SILENT=true
+[2025.03.17-19.42.32:535][637]LogSavePackage: Moving output files for package: /Game/PlayerInput/IMC
+[2025.03.17-19.42.32:536][637]LogSavePackage: Moving '../../../../../Unreal Projects/MissileCommandUE5/MissileCommand/Saved/IMCC170476B4706730927B9919A12CD1969.tmp' to '../../../../../Unreal Projects/MissileCommandUE5/MissileCommand/Content/PlayerInput/IMC.uasset'
+[2025.03.17-19.42.32:554][637]LogFileHelpers: InternalPromptForCheckoutAndSave took 85.355 ms (total: 8.74 sec)
+[2025.03.17-19.42.32:621][637]LogContentValidation: Display: Starting to validate 1 assets
+[2025.03.17-19.42.32:621][637]LogContentValidation: Enabled validators:
+[2025.03.17-19.42.32:621][637]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.03.17-19.42.32:621][637]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.03.17-19.42.32:621][637]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.03.17-19.42.32:621][637]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.03.17-19.42.32:621][637]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.03.17-19.42.32:621][637]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.03.17-19.42.32:621][637]AssetCheck: /Game/PlayerInput/IMC Validating asset
+[2025.03.17-19.42.34:471][718]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2025.03.17-19.42.34:486][718]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.03.17-19.42.34:486][718]LogPlayLevel: Display: Creating online subsystem for client :Context_41
+[2025.03.17-19.42.34:489][718]LogOnline: OSS: Created online subsystem instance for: :Context_41
+[2025.03.17-19.42.34:515][719]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_MainLevel
+[2025.03.17-19.42.34:517][719]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002240s)
+[2025.03.17-19.42.34:517][719]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/MainLevel.MainLevel to /Game/Maps/UEDPIE_0_MainLevel.MainLevel (0.002298s)
+[2025.03.17-19.42.34:540][719]LogUObjectHash: Compacting FUObjectHashTables data took   1.81ms
+[2025.03.17-19.42.34:542][719]LogChaosDD: Creating Chaos Debug Draw Scene for world MainLevel
+[2025.03.17-19.42.34:544][719]LogPlayLevel: PIE: World Init took: (0.001801s)
+[2025.03.17-19.42.34:545][719]LogAudio: Display: Creating Audio Device:                 Id: 30, Scope: Unique, Realtime: True
+[2025.03.17-19.42.34:545][719]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.03.17-19.42.34:545][719]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.03.17-19.42.34:545][719]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.03.17-19.42.34:545][719]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.03.17-19.42.34:545][719]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2025.03.17-19.42.34:545][719]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.03.17-19.42.34:546][719]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2025.03.17-19.42.34:546][719]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.03.17-19.42.34:546][719]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.03.17-19.42.34:546][719]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.03.17-19.42.34:546][719]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.03.17-19.42.34:548][719]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.03.17-19.42.34:583][719]LogAudioMixer: Display: Using Audio Hardware Device Headphones (Soundcore Life Q30)
+[2025.03.17-19.42.34:583][719]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.03.17-19.42.34:583][719]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.03.17-19.42.34:583][719]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.03.17-19.42.34:585][719]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=30
+[2025.03.17-19.42.34:585][719]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=30
+[2025.03.17-19.42.34:588][719]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=30
+[2025.03.17-19.42.34:588][719]LogInit: FAudioDevice initialized with ID 30.
+[2025.03.17-19.42.34:588][719]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=30
+[2025.03.17-19.42.34:588][719]LogAudio: Display: Audio Device (ID: 30) registered with world 'MainLevel'.
+[2025.03.17-19.42.34:588][719]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 30
+[2025.03.17-19.42.34:590][719]LogLoad: Game class is 'BP_GameMode_C'
+[2025.03.17-19.42.34:591][719]LogWorld: Bringing World /Game/Maps/UEDPIE_0_MainLevel.MainLevel up for play (max tick rate 60) at 2025.03.17-15.42.34
+[2025.03.17-19.42.34:591][719]LogWorld: Bringing up level for play took: 0.000707
+[2025.03.17-19.42.34:593][719]LogBlueprintUserMessages: [BP_Pawn_Player_C_0] Hello
+[2025.03.17-19.42.34:594][719]PIE: Server logged in
+[2025.03.17-19.42.34:596][719]PIE: Play in editor total start time 0.11 seconds.
+[2025.03.17-19.42.35:775][785]LogBlueprintUserMessages: [BP_Pawn_Player_C_0] Fire Silo 1
+[2025.03.17-19.42.36:675][839]LogBlueprintUserMessages: [BP_Pawn_Player_C_0] Fire Silo 1
+[2025.03.17-19.42.37:258][874]LogBlueprintUserMessages: [BP_Pawn_Player_C_0] Fire Silo 2
+[2025.03.17-19.42.37:592][894]LogBlueprintUserMessages: [BP_Pawn_Player_C_0] Fire Silo 2
+[2025.03.17-19.42.37:791][906]LogBlueprintUserMessages: [BP_Pawn_Player_C_0] Fire Silo 2
+[2025.03.17-19.42.37:942][915]LogBlueprintUserMessages: [BP_Pawn_Player_C_0] Fire Silo 2
+[2025.03.17-19.42.38:092][924]LogBlueprintUserMessages: [BP_Pawn_Player_C_0] Fire Silo 2
+[2025.03.17-19.42.38:308][937]LogBlueprintUserMessages: [BP_Pawn_Player_C_0] Fire Silo 1
+[2025.03.17-19.42.38:508][949]LogBlueprintUserMessages: [BP_Pawn_Player_C_0] Fire Silo 1
+[2025.03.17-19.42.38:658][958]LogBlueprintUserMessages: [BP_Pawn_Player_C_0] Fire Silo 1
+[2025.03.17-19.42.38:841][969]LogBlueprintUserMessages: [BP_Pawn_Player_C_0] Fire Silo 1
+[2025.03.17-19.42.39:422][  1]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.03.17-19.42.39:422][  1]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_MainLevel
+[2025.03.17-19.42.39:422][  1]LogWorld: UWorld::CleanupWorld for MainLevel, bSessionEnded=true, bCleanupResources=true
+[2025.03.17-19.42.39:423][  1]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.03.17-19.42.39:462][  1]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.03.17-19.42.39:468][  1]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.03.17-19.42.39:490][  1]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.03.17-19.42.39:490][  1]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 30
+[2025.03.17-19.42.39:490][  1]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=30
+[2025.03.17-19.42.39:493][  1]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=30
+[2025.03.17-19.42.39:500][  1]LogUObjectHash: Compacting FUObjectHashTables data took   1.56ms
+[2025.03.17-19.42.39:580][  2]LogPlayLevel: Display: Destroying online subsystem :Context_41
+[2025.03.17-19.44.20:675][ 90]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2025.03.17-19.44.20:683][ 90]LogContentBrowser: Creating deferred item: NewFolder
+[2025.03.17-19.44.20:694][ 91]LogContentBrowser: Renaming the item being created (Deferred Item: NewFolder).
+[2025.03.17-19.44.22:320][189]LogContentBrowser: Attempting asset rename: NewFolder -> BP
+[2025.03.17-19.44.22:343][189]LogContentBrowser: End creating deferred item NewFolder
+[2025.03.17-19.44.32:592][439]LogSlate: Window 'Message' being destroyed
+[2025.03.17-19.44.32:605][439]Message dialog closed, result: Cancel, title: Message, text: Source code, config INI, and text files may need Find/Replace for:
+
+
+BP_Pawn_Player
+
+Otherwise assets can be missing from cooked builds. Continue with rename?
+[2025.03.17-19.44.35:989][600]LogMetaData: Removing '/Game/PlayerInput/BP/BP_PlayerController.BP_PlayerController:UserConstructionScript.K2Node_FunctionEntry_0' ref from Metadata '/Game/PlayerInput/BP_PlayerController.PackageMetaData'
+[2025.03.17-19.44.35:989][600]LogMetaData: Removing '/Game/PlayerInput/BP/BP_PlayerController.SKEL_BP_PlayerController_C' ref from Metadata '/Game/PlayerInput/BP_PlayerController.PackageMetaData'
+[2025.03.17-19.44.35:989][600]LogMetaData: Removing '/Game/PlayerInput/BP/BP_PlayerController.BP_PlayerController_C' ref from Metadata '/Game/PlayerInput/BP_PlayerController.PackageMetaData'
+[2025.03.17-19.44.35:989][600]LogMetaData: Removing '/Game/PlayerInput/BP/BP_PlayerController.BP_PlayerController:EventGraph.K2Node_Event_0' ref from Metadata '/Game/PlayerInput/BP_PlayerController.PackageMetaData'
+[2025.03.17-19.44.35:989][600]LogMetaData: Removing '/Game/PlayerInput/BP/BP_PlayerController.BP_PlayerController:EventGraph.K2Node_Event_1' ref from Metadata '/Game/PlayerInput/BP_PlayerController.PackageMetaData'
+[2025.03.17-19.44.35:989][600]LogMetaData: Removing '/Game/PlayerInput/BP/BP_PlayerController.SKEL_BP_PlayerController_C:ReceiveBeginPlay' ref from Metadata '/Game/PlayerInput/BP_PlayerController.PackageMetaData'
+[2025.03.17-19.44.35:989][600]LogMetaData: Removing '/Game/PlayerInput/BP/BP_PlayerController.SKEL_BP_PlayerController_C:ReceiveTick' ref from Metadata '/Game/PlayerInput/BP_PlayerController.PackageMetaData'
+[2025.03.17-19.44.35:990][600]LogMetaData: Removing '/Game/PlayerInput/BP/BP_PlayerController.SKEL_BP_PlayerController_C:UserConstructionScript' ref from Metadata '/Game/PlayerInput/BP_PlayerController.PackageMetaData'
+[2025.03.17-19.44.36:219][600]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.03.17-19.44.36:219][600]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/GameModes/BP_GameMode] ([2] browsable assets)...
+[2025.03.17-19.44.36:219][600]OBJ SavePackage: Finished generating thumbnails for package [/Game/GameModes/BP_GameMode]
+[2025.03.17-19.44.36:219][600]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/GameModes/BP_GameMode" FILE="../../../../../Unreal Projects/MissileCommandUE5/MissileCommand/Content/GameModes/BP_GameMode.uasset" SILENT=true
+[2025.03.17-19.44.36:225][600]LogSavePackage: Moving output files for package: /Game/GameModes/BP_GameMode
+[2025.03.17-19.44.36:226][600]LogSavePackage: Moving '../../../../../Unreal Projects/MissileCommandUE5/MissileCommand/Saved/BP_GameModeA0ACB9FA486AE7AED6C61AB3E6B50FE5.tmp' to '../../../../../Unreal Projects/MissileCommandUE5/MissileCommand/Content/GameModes/BP_GameMode.uasset'
+[2025.03.17-19.44.36:229][600]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/PlayerInput/BP/BP_PlayerController] ([2] browsable assets)...
+[2025.03.17-19.44.36:229][600]OBJ SavePackage: Finished generating thumbnails for package [/Game/PlayerInput/BP/BP_PlayerController]
+[2025.03.17-19.44.36:229][600]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/PlayerInput/BP/BP_PlayerController" FILE="../../../../../Unreal Projects/MissileCommandUE5/MissileCommand/Content/PlayerInput/BP/BP_PlayerController.uasset" SILENT=true
+[2025.03.17-19.44.36:234][600]LogSavePackage: Moving output files for package: /Game/PlayerInput/BP/BP_PlayerController
+[2025.03.17-19.44.36:234][600]LogSavePackage: Moving '../../../../../Unreal Projects/MissileCommandUE5/MissileCommand/Saved/BP_PlayerController25DD04F14F728668926699AE2740AEDA.tmp' to '../../../../../Unreal Projects/MissileCommandUE5/MissileCommand/Content/PlayerInput/BP/BP_PlayerController.uasset'
+[2025.03.17-19.44.36:241][600]LogFileHelpers: InternalPromptForCheckoutAndSave took 22.431 ms (total: 8.76 sec)
+[2025.03.17-19.44.36:375][600]LogUObjectHash: Compacting FUObjectHashTables data took   1.49ms
+[2025.03.17-19.44.36:412][600]LogUObjectHash: Compacting FUObjectHashTables data took   1.40ms
+[2025.03.17-19.44.36:434][600]LogUObjectHash: Compacting FUObjectHashTables data took   0.66ms
+[2025.03.17-19.44.36:515][600]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2025.03.17-19.44.36:515][600]LogContentValidation: Display: Starting to validate 2 assets
+[2025.03.17-19.44.36:515][600]LogContentValidation: Enabled validators:
+[2025.03.17-19.44.36:515][600]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.03.17-19.44.36:515][600]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.03.17-19.44.36:515][600]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.03.17-19.44.36:515][600]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.03.17-19.44.36:515][600]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.03.17-19.44.36:515][600]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.03.17-19.44.36:515][600]AssetCheck: /Game/GameModes/BP_GameMode Validating asset
+[2025.03.17-19.44.36:515][600]AssetCheck: /Game/PlayerInput/BP/BP_PlayerController Validating asset
+[2025.03.17-19.44.40:909][771]LogSlate: Window 'Message' being destroyed
+[2025.03.17-19.44.40:921][771]Message dialog closed, result: Ok, title: Message, text: Source code, config INI, and text files may need Find/Replace for:
+
+
+BP_Pawn_Player
+
+Otherwise assets can be missing from cooked builds. Continue with rename?
+[2025.03.17-19.44.40:953][771]LogMetaData: Removing '/Game/PlayerInput/BP/BP_Pawn_Player.BP_Pawn_Player:UserConstructionScript.K2Node_FunctionEntry_0' ref from Metadata '/Game/PlayerInput/BP_Pawn_Player.PackageMetaData'
+[2025.03.17-19.44.40:953][771]LogMetaData: Removing '/Game/PlayerInput/BP/BP_Pawn_Player.SKEL_BP_Pawn_Player_C' ref from Metadata '/Game/PlayerInput/BP_Pawn_Player.PackageMetaData'
+[2025.03.17-19.44.40:953][771]LogMetaData: Removing '/Game/PlayerInput/BP/BP_Pawn_Player.BP_Pawn_Player_C' ref from Metadata '/Game/PlayerInput/BP_Pawn_Player.PackageMetaData'
+[2025.03.17-19.44.40:953][771]LogMetaData: Removing '/Game/PlayerInput/BP/BP_Pawn_Player.BP_Pawn_Player:EventGraph.K2Node_Event_0' ref from Metadata '/Game/PlayerInput/BP_Pawn_Player.PackageMetaData'
+[2025.03.17-19.44.40:953][771]LogMetaData: Removing '/Game/PlayerInput/BP/BP_Pawn_Player.BP_Pawn_Player:EventGraph.K2Node_Event_1' ref from Metadata '/Game/PlayerInput/BP_Pawn_Player.PackageMetaData'
+[2025.03.17-19.44.40:953][771]LogMetaData: Removing '/Game/PlayerInput/BP/BP_Pawn_Player.BP_Pawn_Player:EventGraph.K2Node_Event_2' ref from Metadata '/Game/PlayerInput/BP_Pawn_Player.PackageMetaData'
+[2025.03.17-19.44.40:953][771]LogMetaData: Removing '/Game/PlayerInput/BP/BP_Pawn_Player.BP_Pawn_Player_C:ReceiveBeginPlay' ref from Metadata '/Game/PlayerInput/BP_Pawn_Player.PackageMetaData'
+[2025.03.17-19.44.40:953][771]LogMetaData: Removing '/Game/PlayerInput/BP/BP_Pawn_Player.SKEL_BP_Pawn_Player_C:UserConstructionScript' ref from Metadata '/Game/PlayerInput/BP_Pawn_Player.PackageMetaData'
+[2025.03.17-19.44.40:953][771]LogMetaData: Removing '/Game/PlayerInput/BP/BP_Pawn_Player.SKEL_BP_Pawn_Player_C:ReceiveBeginPlay' ref from Metadata '/Game/PlayerInput/BP_Pawn_Player.PackageMetaData'
+[2025.03.17-19.44.40:994][771]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.03.17-19.44.40:995][771]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/GameModes/BP_GameMode] ([2] browsable assets)...
+[2025.03.17-19.44.40:995][771]OBJ SavePackage: Finished generating thumbnails for package [/Game/GameModes/BP_GameMode]
+[2025.03.17-19.44.40:995][771]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/GameModes/BP_GameMode" FILE="../../../../../Unreal Projects/MissileCommandUE5/MissileCommand/Content/GameModes/BP_GameMode.uasset" SILENT=true
+[2025.03.17-19.44.41:055][771]LogSavePackage: Moving output files for package: /Game/GameModes/BP_GameMode
+[2025.03.17-19.44.41:056][771]LogSavePackage: Moving '../../../../../Unreal Projects/MissileCommandUE5/MissileCommand/Saved/BP_GameMode3612DF7049378211C5F3C997E3B15DAC.tmp' to '../../../../../Unreal Projects/MissileCommandUE5/MissileCommand/Content/GameModes/BP_GameMode.uasset'
+[2025.03.17-19.44.41:059][771]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/PlayerInput/BP/BP_Pawn_Player] ([2] browsable assets)...
+[2025.03.17-19.44.41:059][771]OBJ SavePackage: Finished generating thumbnails for package [/Game/PlayerInput/BP/BP_Pawn_Player]
+[2025.03.17-19.44.41:059][771]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/PlayerInput/BP/BP_Pawn_Player" FILE="../../../../../Unreal Projects/MissileCommandUE5/MissileCommand/Content/PlayerInput/BP/BP_Pawn_Player.uasset" SILENT=true
+[2025.03.17-19.44.41:071][771]LogSavePackage: Moving output files for package: /Game/PlayerInput/BP/BP_Pawn_Player
+[2025.03.17-19.44.41:071][771]LogSavePackage: Moving '../../../../../Unreal Projects/MissileCommandUE5/MissileCommand/Saved/BP_Pawn_PlayerD44F545E4726DDB5DE5281A549AA260C.tmp' to '../../../../../Unreal Projects/MissileCommandUE5/MissileCommand/Content/PlayerInput/BP/BP_Pawn_Player.uasset'
+[2025.03.17-19.44.41:081][771]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/PlayerInput/BP_Pawn_Player] ([5] browsable assets)...
+[2025.03.17-19.44.41:081][771]OBJ SavePackage: Finished generating thumbnails for package [/Game/PlayerInput/BP_Pawn_Player]
+[2025.03.17-19.44.41:081][771]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/PlayerInput/BP_Pawn_Player" FILE="../../../../../Unreal Projects/MissileCommandUE5/MissileCommand/Content/PlayerInput/BP_Pawn_Player.uasset" SILENT=true
+[2025.03.17-19.44.41:083][771]LogSavePackage: Moving output files for package: /Game/PlayerInput/BP_Pawn_Player
+[2025.03.17-19.44.41:084][771]LogSavePackage: Moving '../../../../../Unreal Projects/MissileCommandUE5/MissileCommand/Saved/BP_Pawn_PlayerABA10B524DE3432227605F98DBF58E72.tmp' to '../../../../../Unreal Projects/MissileCommandUE5/MissileCommand/Content/PlayerInput/BP_Pawn_Player.uasset'
+[2025.03.17-19.44.41:089][771]LogFileHelpers: InternalPromptForCheckoutAndSave took 94.979 ms (total: 8.86 sec)
+[2025.03.17-19.44.41:139][771]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2025.03.17-19.44.41:139][771]LogContentValidation: Display: Starting to validate 5 assets
+[2025.03.17-19.44.41:139][771]LogContentValidation: Enabled validators:
+[2025.03.17-19.44.41:139][771]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.03.17-19.44.41:139][771]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.03.17-19.44.41:139][771]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.03.17-19.44.41:139][771]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.03.17-19.44.41:139][771]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.03.17-19.44.41:139][771]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.03.17-19.44.41:140][771]AssetCheck: /Game/GameModes/BP_GameMode Validating asset
+[2025.03.17-19.44.41:140][771]AssetCheck: /Game/PlayerInput/BP/BP_Pawn_Player Validating asset
+[2025.03.17-19.44.41:140][771]AssetCheck: /Game/PlayerInput/BP_Pawn_Player Validating asset
+[2025.03.17-19.44.41:140][771]AssetCheck: /Game/PlayerInput/BP_Pawn_Player Validating asset
+[2025.03.17-19.44.41:140][771]AssetCheck: /Game/PlayerInput/BP_Pawn_Player Validating asset
+[2025.03.17-19.44.44:190][952]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2025.03.17-19.44.44:204][952]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.03.17-19.44.44:204][952]LogPlayLevel: Display: Creating online subsystem for client :Context_42
+[2025.03.17-19.44.44:207][952]LogOnline: OSS: Created online subsystem instance for: :Context_42
+[2025.03.17-19.44.44:232][953]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_MainLevel
+[2025.03.17-19.44.44:234][953]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002048s)
+[2025.03.17-19.44.44:234][953]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/MainLevel.MainLevel to /Game/Maps/UEDPIE_0_MainLevel.MainLevel (0.002105s)
+[2025.03.17-19.44.44:285][953]LogUObjectHash: Compacting FUObjectHashTables data took   1.50ms
+[2025.03.17-19.44.44:288][953]LogChaosDD: Creating Chaos Debug Draw Scene for world MainLevel
+[2025.03.17-19.44.44:289][953]LogPlayLevel: PIE: World Init took: (0.001731s)
+[2025.03.17-19.44.44:290][953]LogAudio: Display: Creating Audio Device:                 Id: 31, Scope: Unique, Realtime: True
+[2025.03.17-19.44.44:290][953]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.03.17-19.44.44:290][953]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.03.17-19.44.44:290][953]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.03.17-19.44.44:290][953]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.03.17-19.44.44:290][953]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2025.03.17-19.44.44:290][953]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.03.17-19.44.44:290][953]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2025.03.17-19.44.44:290][953]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.03.17-19.44.44:290][953]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.03.17-19.44.44:290][953]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.03.17-19.44.44:290][953]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.03.17-19.44.44:293][953]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.03.17-19.44.44:327][953]LogAudioMixer: Display: Using Audio Hardware Device Headphones (Soundcore Life Q30)
+[2025.03.17-19.44.44:327][953]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.03.17-19.44.44:327][953]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.03.17-19.44.44:327][953]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.03.17-19.44.44:327][953]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=31
+[2025.03.17-19.44.44:327][953]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=31
+[2025.03.17-19.44.44:332][953]LogInit: FAudioDevice initialized with ID 31.
+[2025.03.17-19.44.44:332][953]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=31
+[2025.03.17-19.44.44:332][953]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=31
+[2025.03.17-19.44.44:332][953]LogAudio: Display: Audio Device (ID: 31) registered with world 'MainLevel'.
+[2025.03.17-19.44.44:332][953]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 31
+[2025.03.17-19.44.44:334][953]LogLoad: Game class is 'BP_GameMode_C'
+[2025.03.17-19.44.44:335][953]LogWorld: Bringing World /Game/Maps/UEDPIE_0_MainLevel.MainLevel up for play (max tick rate 60) at 2025.03.17-15.44.44
+[2025.03.17-19.44.44:335][953]LogWorld: Bringing up level for play took: 0.000804
+[2025.03.17-19.44.44:338][953]LogBlueprintUserMessages: [BP_Pawn_Player_C_0] Hello
+[2025.03.17-19.44.44:338][953]PIE: Server logged in
+[2025.03.17-19.44.44:339][953]PIE: Play in editor total start time 0.136 seconds.
+[2025.03.17-19.44.49:860][272]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.03.17-19.44.49:860][272]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_MainLevel
+[2025.03.17-19.44.49:860][272]LogWorld: UWorld::CleanupWorld for MainLevel, bSessionEnded=true, bCleanupResources=true
+[2025.03.17-19.44.49:860][272]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.03.17-19.44.49:866][272]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.03.17-19.44.49:871][272]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.03.17-19.44.49:894][272]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2025.03.17-19.44.49:894][272]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 31
+[2025.03.17-19.44.49:894][272]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=31
+[2025.03.17-19.44.49:897][272]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=31
+[2025.03.17-19.44.49:901][272]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.03.17-19.44.49:904][272]LogUObjectHash: Compacting FUObjectHashTables data took   1.76ms
+[2025.03.17-19.44.49:980][273]LogPlayLevel: Display: Destroying online subsystem :Context_42
+[2025.03.17-19.45.29:191][621]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2025.03.17-19.45.29:230][621]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.03.17-19.45.29:230][621]LogPlayLevel: Display: Creating online subsystem for client :Context_43
+[2025.03.17-19.45.29:233][621]LogOnline: OSS: Created online subsystem instance for: :Context_43
+[2025.03.17-19.45.29:254][622]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_MainLevel
+[2025.03.17-19.45.29:256][622]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002433s)
+[2025.03.17-19.45.29:257][622]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/MainLevel.MainLevel to /Game/Maps/UEDPIE_0_MainLevel.MainLevel (0.002491s)
+[2025.03.17-19.45.29:281][622]LogUObjectHash: Compacting FUObjectHashTables data took   2.11ms
+[2025.03.17-19.45.29:284][622]LogChaosDD: Creating Chaos Debug Draw Scene for world MainLevel
+[2025.03.17-19.45.29:285][622]LogPlayLevel: PIE: World Init took: (0.001680s)
+[2025.03.17-19.45.29:286][622]LogAudio: Display: Creating Audio Device:                 Id: 32, Scope: Unique, Realtime: True
+[2025.03.17-19.45.29:286][622]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.03.17-19.45.29:286][622]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.03.17-19.45.29:286][622]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.03.17-19.45.29:286][622]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.03.17-19.45.29:286][622]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2025.03.17-19.45.29:286][622]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.03.17-19.45.29:286][622]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2025.03.17-19.45.29:286][622]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.03.17-19.45.29:286][622]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.03.17-19.45.29:286][622]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.03.17-19.45.29:286][622]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.03.17-19.45.29:289][622]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.03.17-19.45.29:323][622]LogAudioMixer: Display: Using Audio Hardware Device Headphones (Soundcore Life Q30)
+[2025.03.17-19.45.29:324][622]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.03.17-19.45.29:324][622]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.03.17-19.45.29:324][622]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.03.17-19.45.29:324][622]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=32
+[2025.03.17-19.45.29:324][622]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=32
+[2025.03.17-19.45.29:328][622]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=32
+[2025.03.17-19.45.29:328][622]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=32
+[2025.03.17-19.45.29:328][622]LogInit: FAudioDevice initialized with ID 32.
+[2025.03.17-19.45.29:328][622]LogAudio: Display: Audio Device (ID: 32) registered with world 'MainLevel'.
+[2025.03.17-19.45.29:328][622]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 32
+[2025.03.17-19.45.29:330][622]LogLoad: Game class is 'BP_GameMode_C'
+[2025.03.17-19.45.29:331][622]LogWorld: Bringing World /Game/Maps/UEDPIE_0_MainLevel.MainLevel up for play (max tick rate 60) at 2025.03.17-15.45.29
+[2025.03.17-19.45.29:331][622]LogWorld: Bringing up level for play took: 0.000711
+[2025.03.17-19.45.29:333][622]LogBlueprintUserMessages: [BP_Pawn_Player_C_0] Hello
+[2025.03.17-19.45.29:334][622]PIE: Server logged in
+[2025.03.17-19.45.29:335][622]PIE: Play in editor total start time 0.105 seconds.
+[2025.03.17-19.45.39:504][222]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.03.17-19.45.39:504][222]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_MainLevel
+[2025.03.17-19.45.39:504][222]LogWorld: UWorld::CleanupWorld for MainLevel, bSessionEnded=true, bCleanupResources=true
+[2025.03.17-19.45.39:504][222]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.03.17-19.45.39:510][222]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.03.17-19.45.39:516][222]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.03.17-19.45.39:538][222]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.03.17-19.45.39:538][222]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 32
+[2025.03.17-19.45.39:538][222]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=32
+[2025.03.17-19.45.39:541][222]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=32
+[2025.03.17-19.45.39:547][222]LogUObjectHash: Compacting FUObjectHashTables data took   1.55ms
+[2025.03.17-19.45.39:617][223]LogPlayLevel: Display: Destroying online subsystem :Context_43
+[2025.03.17-19.46.24:018][750]LogUObjectHash: Compacting FUObjectHashTables data took   1.54ms

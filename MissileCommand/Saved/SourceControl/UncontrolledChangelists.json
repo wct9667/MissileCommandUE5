@@ -39,7 +39,8 @@
 				"D:/Unreal Projects/MissileCommandUE5/MissileCommand/Content/PlayerInput/BP_Paddle.uasset",
 				"D:/Unreal Projects/MissileCommandUE5/MissileCommand/Content/PlayerInput/BP_FirstPersonCharacter.uasset",
 				"D:/Unreal Projects/MissileCommandUE5/MissileCommand/Content/PlayerInput/BP/BP_PlayerController.uasset",
-				"D:/Unreal Projects/MissileCommandUE5/MissileCommand/Content/PlayerInput/BP/BP_Pawn_Player.uasset"
+				"D:/Unreal Projects/MissileCommandUE5/MissileCommand/Content/PlayerInput/BP/BP_Pawn_Player.uasset",
+				"D:/Unreal Projects/MissileCommandUE5/MissileCommand/Content/Niagara/NS_Missile.uasset"
 			]
 		}
 	]

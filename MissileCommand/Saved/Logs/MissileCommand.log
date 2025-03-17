@@ -4827,3 +4827,184 @@ Otherwise assets can be missing from cooked builds. Continue with rename?
 [2025.03.17-19.45.39:547][222]LogUObjectHash: Compacting FUObjectHashTables data took   1.55ms
 [2025.03.17-19.45.39:617][223]LogPlayLevel: Display: Destroying online subsystem :Context_43
 [2025.03.17-19.46.24:018][750]LogUObjectHash: Compacting FUObjectHashTables data took   1.54ms
+[2025.03.17-19.47.34:509][157]LogRenderer: Display: Invalidated clipmap due to WPO threshold change. This can occur due to resolution or FOV changes.
+[2025.03.17-19.48.21:917][714]LogStreaming: Display: FlushAsyncLoading(734): 1 QueuedPackages, 0 AsyncPackages
+[2025.03.17-19.48.22:528][714]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_12
+[2025.03.17-19.48.23:184][714]LogStaticMesh: Display: Building static mesh Sphere_inversenormals (Required Memory Estimate: 1.522745 MB)...
+[2025.03.17-19.48.23:655][714]LogStaticMesh: Built static mesh [0.58s] /Engine/EditorMeshes/AssetViewer/Sphere_inversenormals.Sphere_inversenormals
+[2025.03.17-19.48.24:168][714]LogStaticMesh: Display: Waiting for static meshes to be ready 0/1 (/Engine/EditorMeshes/AssetViewer/Sphere_inversenormals) ...
+[2025.03.17-19.48.24:776][714]LogStaticMesh: Display: Building static mesh Floor_Mesh (Required Memory Estimate: 0.022237 MB)...
+[2025.03.17-19.48.24:790][714]LogStaticMesh: Built static mesh [0.02s] /Engine/EditorMeshes/AssetViewer/Floor_Mesh.Floor_Mesh
+[2025.03.17-19.49.03:757][714]LogSlate: Window 'Create Niagara System - Select an emitter or system as a base' being destroyed
+[2025.03.17-19.49.05:664][714]LogWorld: UWorld::CleanupWorld for World_12, bSessionEnded=true, bCleanupResources=true
+[2025.03.17-19.49.05:664][714]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.03.17-19.49.05:687][714]LogContentBrowser: Deferred new asset file creation: NewNiagaraSystem
+[2025.03.17-19.49.05:913][714]LogUObjectHash: Compacting FUObjectHashTables data took   1.87ms
+[2025.03.17-19.49.05:940][714]LogContentBrowser: Creating deferred item: NewNiagaraSystem
+[2025.03.17-19.49.05:945][714]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 4690.502441
+[2025.03.17-19.49.05:970][716]LogContentBrowser: Renaming the item being created (Deferred Item: NewNiagaraSystem).
+[2025.03.17-19.49.06:042][719]LogRHI: Error: GpuProfiler's scratch buffer is out of space for this frame (current size : 32 kB). Dropping this frame. The size can be increased dynamically with the console variable r.GpuProfilerMaxEventBufferSizeKB
+[2025.03.17-19.49.06:091][721]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.03.17-19.49.06:091][722]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 4690.630859, Update Interval: 320.583527
+[2025.03.17-19.49.12:859][127]LogContentBrowser: Attempting asset rename: NewNiagaraSystem -> Niagara_Missile
+[2025.03.17-19.49.14:798][127]LogContentBrowser: End creating deferred item NewNiagaraSystem
+[2025.03.17-19.49.15:134][128]LogAssetEditorSubsystem: Opening Asset editor for NiagaraSystem /Game/Niagara/Niagara_Missile.Niagara_Missile
+[2025.03.17-19.49.19:044][128]LogStreaming: Display: FlushAsyncLoading(740): 1 QueuedPackages, 0 AsyncPackages
+[2025.03.17-19.49.19:448][128]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_13
+[2025.03.17-19.49.20:018][128]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_14
+[2025.03.17-19.49.27:692][128]LogSlate: Took 0.056202 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2025.03.17-19.49.32:443][218]LogNiagara: Compiling System NiagaraSystem /Game/Niagara/Niagara_Missile.Niagara_Missile took 12.722835 sec (time since issued), 11.689240 sec (combined shader worker time).
+[2025.03.17-19.49.33:371][225]116214_Niagara_Missile_MessageLog: System successfully compiled.
+[2025.03.17-19.49.44:329][813]LogContentBrowser: Attempting asset rename: Niagara_Missile -> NS_Missile
+[2025.03.17-19.49.44:637][813]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.03.17-19.49.44:638][813]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Niagara/NS_Missile] ([1] browsable assets)...
+[2025.03.17-19.49.44:638][813]OBJ SavePackage: Finished generating thumbnails for package [/Game/Niagara/NS_Missile]
+[2025.03.17-19.49.44:638][813]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Niagara/NS_Missile" FILE="../../../../../Unreal Projects/MissileCommandUE5/MissileCommand/Content/Niagara/NS_Missile.uasset" SILENT=true
+[2025.03.17-19.49.44:797][813]LogSavePackage: Moving output files for package: /Game/Niagara/NS_Missile
+[2025.03.17-19.49.44:797][813]LogSavePackage: Moving '../../../../../Unreal Projects/MissileCommandUE5/MissileCommand/Saved/NS_MissileDD7EE071429A2D48B41C45B6B0BEE2AC.tmp' to '../../../../../Unreal Projects/MissileCommandUE5/MissileCommand/Content/Niagara/NS_Missile.uasset'
+[2025.03.17-19.49.44:800][813]LogFileHelpers: InternalPromptForCheckoutAndSave took 163.033 ms (total: 9.02 sec)
+[2025.03.17-19.49.45:003][813]LogUObjectHash: Compacting FUObjectHashTables data took   1.69ms
+[2025.03.17-19.49.45:027][813]LogUObjectHash: Compacting FUObjectHashTables data took   1.48ms
+[2025.03.17-19.49.45:047][813]LogUObjectHash: Compacting FUObjectHashTables data took   0.75ms
+[2025.03.17-19.49.45:139][813]LogContentValidation: Display: Starting to validate 1 assets
+[2025.03.17-19.49.45:139][813]LogContentValidation: Enabled validators:
+[2025.03.17-19.49.45:139][813]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.03.17-19.49.45:139][813]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.03.17-19.49.45:139][813]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.03.17-19.49.45:139][813]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.03.17-19.49.45:139][813]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.03.17-19.49.45:139][813]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.03.17-19.49.45:139][813]AssetCheck: /Game/Niagara/NS_Missile Validating asset
+[2025.03.17-19.50.25:978][ 45]LogShaderCompilers: Display: ================================================
+[2025.03.17-19.50.25:978][ 45]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2025.03.17-19.50.25:978][ 45]LogShaderCompilers: Display: Total job queries 1,643, among them cache hits 217 (13.21%), DDC hits 1,085 (66.04%), Duplicates 10 (0.61%)
+[2025.03.17-19.50.25:978][ 45]LogShaderCompilers: Display: Tracking 1,416 distinct input hashes that result in 1,163 distinct outputs (82.13%)
+[2025.03.17-19.50.25:978][ 45]LogShaderCompilers: Display: RAM used: 800.50 KiB of 819.20 MiB budget. Usage: 0.10%
+[2025.03.17-19.50.25:979][ 45]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2025.03.17-19.50.25:979][ 45]LogShaderCompilers: Display: Shaders Compiled: 331
+[2025.03.17-19.50.25:979][ 45]LogShaderCompilers: Display: Jobs assigned 331, completed 331 (100%)
+[2025.03.17-19.50.25:979][ 45]LogShaderCompilers: Display: Average time worker was idle: 340.63 s
+[2025.03.17-19.50.25:979][ 45]LogShaderCompilers: Display: Time job spent in pending queue: average 52.53 s, longest 117.79 s
+[2025.03.17-19.50.25:979][ 45]LogShaderCompilers: Display: Job execution time: average 32.61 s, max 116.50 s
+[2025.03.17-19.50.25:979][ 45]LogShaderCompilers: Display: Job life time (pending + execution): average 85.14 s, max 117.94
+[2025.03.17-19.50.25:979][ 45]LogShaderCompilers: Display: Shader code size: average 7.977 KiB, min 1.932 KiB, max 43.598 KiB
+[2025.03.17-19.50.25:979][ 45]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 160.84 s
+[2025.03.17-19.50.25:979][ 45]LogShaderCompilers: Display: Mutex wait stall in FShaderJobCache::SubmitJobs:  2.10%
+[2025.03.17-19.50.25:979][ 45]LogShaderCompilers: Display: Jobs were issued in 115 batches (only local compilation was used), average 2.88 jobs/batch
+[2025.03.17-19.50.25:979][ 45]LogShaderCompilers: Display: Average processing rate: 2.06 jobs/sec
+[2025.03.17-19.50.25:979][ 45]LogShaderCompilers: Display: Total thread time: 137.557 s
+[2025.03.17-19.50.25:979][ 45]LogShaderCompilers: Display: Total thread preprocess time: 38.111 s
+[2025.03.17-19.50.25:979][ 45]LogShaderCompilers: Display: Percentage time preprocessing: 27.71%
+[2025.03.17-19.50.25:979][ 45]LogShaderCompilers: Display: Effective parallelization: 0.86 (times faster than compiling all shaders on one thread). Compare with number of workers: 8
+[2025.03.17-19.50.25:979][ 45]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2025.03.17-19.50.25:979][ 45]LogShaderCompilers: Display:                         TBasePassCSFNoLightMapPolicySkylight (compiled    1 times, average 3.42 sec, max 3.42 sec, min 3.42 sec)
+[2025.03.17-19.50.25:979][ 45]LogShaderCompilers: Display:                                 TBasePassCSFNoLightMapPolicy (compiled    1 times, average 3.21 sec, max 3.21 sec, min 3.21 sec)
+[2025.03.17-19.50.25:979][ 45]LogShaderCompilers: Display:                   TMaterialCHSFNoLightMapPolicyFAnyHitShader (compiled    1 times, average 3.21 sec, max 3.21 sec, min 3.21 sec)
+[2025.03.17-19.50.25:979][ 45]LogShaderCompilers: Display:                                                 FLumenCardCS (compiled    1 times, average 2.80 sec, max 2.80 sec, min 2.80 sec)
+[2025.03.17-19.50.25:980][ 45]LogShaderCompilers: Display:                                TMaterialCHSFNoLightMapPolicy (compiled   11 times, average 1.86 sec, max 2.57 sec, min 1.15 sec)
+[2025.03.17-19.50.25:980][ 45]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2025.03.17-19.50.25:980][ 45]LogShaderCompilers: Display:                                                   FTonemapCS - 19.24% of total time (compiled  120 times, average 0.22 sec, max 2.07 sec, min 0.04 sec)
+[2025.03.17-19.50.25:980][ 45]LogShaderCompilers: Display:                                TMaterialCHSFNoLightMapPolicy - 14.91% of total time (compiled   11 times, average 1.86 sec, max 2.57 sec, min 1.15 sec)
+[2025.03.17-19.50.25:980][ 45]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 9.51% of total time (compiled   12 times, average 1.09 sec, max 1.69 sec, min 0.41 sec)
+[2025.03.17-19.50.25:980][ 45]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy - 7.38% of total time (compiled   13 times, average 0.78 sec, max 1.23 sec, min 0.37 sec)
+[2025.03.17-19.50.25:980][ 45]LogShaderCompilers: Display:                                                 FLumenCardPS - 6.09% of total time (compiled    9 times, average 0.93 sec, max 1.24 sec, min 0.56 sec)
+[2025.03.17-19.50.25:980][ 45]LogShaderCompilers: Display: === Material stats ===
+[2025.03.17-19.50.25:980][ 45]LogShaderCompilers: Display: Materials Cooked:        0
+[2025.03.17-19.50.25:980][ 45]LogShaderCompilers: Display: Materials Translated:    134
+[2025.03.17-19.50.25:980][ 45]LogShaderCompilers: Display: Material Total Translate Time: 1.18 s
+[2025.03.17-19.50.25:980][ 45]LogShaderCompilers: Display: Material Translation Only: 0.34 s (29%)
+[2025.03.17-19.50.25:980][ 45]LogShaderCompilers: Display: Material DDC Serialization Only: 0.00 s (0%)
+[2025.03.17-19.50.25:980][ 45]LogShaderCompilers: Display: Material Cache Hits: 0 (0%)
+[2025.03.17-19.50.25:980][ 45]LogShaderCompilers: Display: ================================================
+[2025.03.17-19.53.53:891][688]LogStreaming: Display: FlushAsyncLoading(748): 1 QueuedPackages, 0 AsyncPackages
+[2025.03.17-19.53.54:687][690]116214_Niagara_Missile_MessageLog: System compile status unknown.
+[2025.03.17-19.53.56:472][772]LogNiagara: Compiling System NiagaraSystem /Game/Niagara/NS_Missile.NS_Missile took 1.903500 sec (time since issued), 1.724631 sec (combined shader worker time).
+[2025.03.17-19.53.56:716][782]116214_Niagara_Missile_MessageLog: System successfully compiled.
+[2025.03.17-19.55.14:159][402]LogTexture: Display: Building textures: /Game/Niagara/NS_Missile.NS_Missile:Fountain.NiagaraScriptSource_0.NiagaraGraph_0.NiagaraNodeInput_1.ScaleSpriteSize_Uniform_Curve_Sprite_Scale.Texture2D_0 (RGBA16F, 256x1 x1x1x1) (Required Memory Estimate: 1.011059 MB), EncodeSpeed: Fast
+[2025.03.17-19.55.14:159][402]LogTexture: Display: Building textures: /Game/Niagara/NS_Missile.NS_Missile:Fountain.UpdateScript.NiagaraDataInterfaceCurve_1.Texture2D_0 (RGBA16F, 256x1 x1x1x1) (Required Memory Estimate: 1.011059 MB), EncodeSpeed: Fast
+[2025.03.17-19.55.15:783][484]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 5060.346191
+[2025.03.17-19.55.15:898][489]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.03.17-19.55.15:898][489]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 5060.438965, Update Interval: 338.898285
+[2025.03.17-19.55.36:857][613]LogStreaming: Display: FlushAsyncLoading(749): 1 QueuedPackages, 0 AsyncPackages
+[2025.03.17-19.55.52:131][225]LogNiagara: Compiling System NiagaraSystem /Game/Niagara/NS_Missile.NS_Missile took 1.389879 sec (time since issued), 3.975758 sec (combined shader worker time).
+[2025.03.17-19.55.52:151][225]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.03.17-19.55.52:221][225]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Niagara/NS_Missile] ([1] browsable assets)...
+[2025.03.17-19.55.52:221][225]OBJ SavePackage: Finished generating thumbnails for package [/Game/Niagara/NS_Missile]
+[2025.03.17-19.55.52:221][225]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Niagara/NS_Missile" FILE="../../../../../Unreal Projects/MissileCommandUE5/MissileCommand/Content/Niagara/NS_Missile.uasset" SILENT=true
+[2025.03.17-19.55.52:515][225]LogSavePackage: Moving output files for package: /Game/Niagara/NS_Missile
+[2025.03.17-19.55.52:516][225]LogSavePackage: Moving '../../../../../Unreal Projects/MissileCommandUE5/MissileCommand/Saved/NS_Missile378CC1444C65B141138C45AA2779ACF5.tmp' to '../../../../../Unreal Projects/MissileCommandUE5/MissileCommand/Content/Niagara/NS_Missile.uasset'
+[2025.03.17-19.55.52:542][225]LogFileHelpers: InternalPromptForCheckoutAndSave took 390.020 ms (total: 9.41 sec)
+[2025.03.17-19.55.52:706][225]LogNiagara: Compiling System NiagaraSystem /Game/Niagara/NS_Missile.NS_Missile took 0.164879 sec (time since issued), 0.053155 sec (combined shader worker time).
+[2025.03.17-19.55.52:798][225]LogContentValidation: Display: Starting to validate 1 assets
+[2025.03.17-19.55.52:798][225]LogContentValidation: Enabled validators:
+[2025.03.17-19.55.52:798][225]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.03.17-19.55.52:798][225]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.03.17-19.55.52:798][225]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.03.17-19.55.52:798][225]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.03.17-19.55.52:798][225]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.03.17-19.55.52:798][225]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.03.17-19.55.52:798][225]AssetCheck: /Game/Niagara/NS_Missile Validating asset
+[2025.03.17-19.56.26:106][174]LogShaderCompilers: Display: ================================================
+[2025.03.17-19.56.26:106][174]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2025.03.17-19.56.26:106][174]LogShaderCompilers: Display: Total job queries 1,651, among them cache hits 220 (13.33%), DDC hits 1,085 (65.72%), Duplicates 10 (0.61%)
+[2025.03.17-19.56.26:106][174]LogShaderCompilers: Display: Tracking 1,421 distinct input hashes that result in 1,168 distinct outputs (82.20%)
+[2025.03.17-19.56.26:106][174]LogShaderCompilers: Display: RAM used: 801.04 KiB of 819.20 MiB budget. Usage: 0.10%
+[2025.03.17-19.56.26:106][174]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2025.03.17-19.56.26:106][174]LogShaderCompilers: Display: Shaders Compiled: 336
+[2025.03.17-19.56.26:106][174]LogShaderCompilers: Display: Jobs assigned 336, completed 336 (100%)
+[2025.03.17-19.56.26:106][174]LogShaderCompilers: Display: Average time worker was idle: 335.46 s
+[2025.03.17-19.56.26:106][174]LogShaderCompilers: Display: Time job spent in pending queue: average 51.75 s, longest 117.79 s
+[2025.03.17-19.56.26:106][174]LogShaderCompilers: Display: Job execution time: average 32.13 s, max 116.50 s
+[2025.03.17-19.56.26:106][174]LogShaderCompilers: Display: Job life time (pending + execution): average 83.89 s, max 117.94
+[2025.03.17-19.56.26:106][174]LogShaderCompilers: Display: Shader code size: average 8.161 KiB, min 1.932 KiB, max 44.191 KiB
+[2025.03.17-19.56.26:106][174]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 163.27 s
+[2025.03.17-19.56.26:107][174]LogShaderCompilers: Display: Mutex wait stall in FShaderJobCache::SubmitJobs:  2.10%
+[2025.03.17-19.56.26:107][174]LogShaderCompilers: Display: Jobs were issued in 120 batches (only local compilation was used), average 2.80 jobs/batch
+[2025.03.17-19.56.26:107][174]LogShaderCompilers: Display: Average processing rate: 2.06 jobs/sec
+[2025.03.17-19.56.26:107][174]LogShaderCompilers: Display: Total thread time: 138.79 s
+[2025.03.17-19.56.26:107][174]LogShaderCompilers: Display: Total thread preprocess time: 38.117 s
+[2025.03.17-19.56.26:107][174]LogShaderCompilers: Display: Percentage time preprocessing: 27.46%
+[2025.03.17-19.56.26:107][174]LogShaderCompilers: Display: Effective parallelization: 0.85 (times faster than compiling all shaders on one thread). Compare with number of workers: 8
+[2025.03.17-19.56.26:107][174]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2025.03.17-19.56.26:107][174]LogShaderCompilers: Display:                         TBasePassCSFNoLightMapPolicySkylight (compiled    1 times, average 3.42 sec, max 3.42 sec, min 3.42 sec)
+[2025.03.17-19.56.26:107][174]LogShaderCompilers: Display:                                 TBasePassCSFNoLightMapPolicy (compiled    1 times, average 3.21 sec, max 3.21 sec, min 3.21 sec)
+[2025.03.17-19.56.26:107][174]LogShaderCompilers: Display:                   TMaterialCHSFNoLightMapPolicyFAnyHitShader (compiled    1 times, average 3.21 sec, max 3.21 sec, min 3.21 sec)
+[2025.03.17-19.56.26:107][174]LogShaderCompilers: Display:                                                 FLumenCardCS (compiled    1 times, average 2.80 sec, max 2.80 sec, min 2.80 sec)
+[2025.03.17-19.56.26:107][174]LogShaderCompilers: Display:                                TMaterialCHSFNoLightMapPolicy (compiled   11 times, average 1.86 sec, max 2.57 sec, min 1.15 sec)
+[2025.03.17-19.56.26:107][174]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2025.03.17-19.56.26:107][174]LogShaderCompilers: Display:                                                   FTonemapCS - 19.07% of total time (compiled  120 times, average 0.22 sec, max 2.07 sec, min 0.04 sec)
+[2025.03.17-19.56.26:107][174]LogShaderCompilers: Display:                                TMaterialCHSFNoLightMapPolicy - 14.78% of total time (compiled   11 times, average 1.86 sec, max 2.57 sec, min 1.15 sec)
+[2025.03.17-19.56.26:107][174]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 9.42% of total time (compiled   12 times, average 1.09 sec, max 1.69 sec, min 0.41 sec)
+[2025.03.17-19.56.26:107][174]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy - 7.32% of total time (compiled   13 times, average 0.78 sec, max 1.23 sec, min 0.37 sec)
+[2025.03.17-19.56.26:107][174]LogShaderCompilers: Display:                                                 FLumenCardPS - 6.04% of total time (compiled    9 times, average 0.93 sec, max 1.24 sec, min 0.56 sec)
+[2025.03.17-19.56.26:107][174]LogShaderCompilers: Display: === Material stats ===
+[2025.03.17-19.56.26:107][174]LogShaderCompilers: Display: Materials Cooked:        0
+[2025.03.17-19.56.26:107][174]LogShaderCompilers: Display: Materials Translated:    134
+[2025.03.17-19.56.26:107][174]LogShaderCompilers: Display: Material Total Translate Time: 1.18 s
+[2025.03.17-19.56.26:107][174]LogShaderCompilers: Display: Material Translation Only: 0.34 s (29%)
+[2025.03.17-19.56.26:107][174]LogShaderCompilers: Display: Material DDC Serialization Only: 0.00 s (0%)
+[2025.03.17-19.56.26:107][174]LogShaderCompilers: Display: Material Cache Hits: 0 (0%)
+[2025.03.17-19.56.26:107][174]LogShaderCompilers: Display: ================================================
+[2025.03.17-19.56.32:554][462]116214_Niagara_Missile_MessageLog: System compile status unknown.
+[2025.03.17-19.56.34:221][533]LogNiagara: Compiling System NiagaraSystem /Game/Niagara/NS_Missile.NS_Missile took 1.940446 sec (time since issued), 1.858163 sec (combined shader worker time).
+[2025.03.17-19.56.34:569][548]116214_Niagara_Missile_MessageLog: System successfully compiled.
+[2025.03.17-19.57.47:783][369]LogStreaming: Display: FlushAsyncLoading(936): 1 QueuedPackages, 0 AsyncPackages
+[2025.03.17-19.57.48:147][371]116214_Niagara_Missile_MessageLog: System compile status unknown.
+[2025.03.17-19.57.49:922][446]LogNiagara: Compiling System NiagaraSystem /Game/Niagara/NS_Missile.NS_Missile took 2.012298 sec (time since issued), 1.927168 sec (combined shader worker time).
+[2025.03.17-19.57.50:154][457]116214_Niagara_Missile_MessageLog: System successfully compiled.
+[2025.03.17-19.57.52:229][558]LogSlate: Window 'Color Picker' being destroyed
+[2025.03.17-19.58.19:667][434]LogSlate: Window 'Color Picker' being destroyed
+[2025.03.17-19.58.21:838][547]116214_Niagara_Missile_MessageLog: System compile status unknown.
+[2025.03.17-19.58.23:838][665]116214_Niagara_Missile_MessageLog: System successfully compiled.
+[2025.03.17-19.58.34:676][285]116214_Niagara_Missile_MessageLog: System compile status unknown.
+[2025.03.17-19.58.36:097][366]LogNiagara: Compiling System NiagaraSystem /Game/Niagara/NS_Missile.NS_Missile took 1.625509 sec (time since issued), 1.568889 sec (combined shader worker time).
+[2025.03.17-19.58.36:685][400]116214_Niagara_Missile_MessageLog: System successfully compiled.
+[2025.03.17-19.58.40:823][614]116214_Niagara_Missile_MessageLog: System compile status unknown.
+[2025.03.17-19.58.42:833][722]116214_Niagara_Missile_MessageLog: System successfully compiled.
+[2025.03.17-19.58.46:124][907]116214_Niagara_Missile_MessageLog: System compile status unknown.
+[2025.03.17-19.58.48:130][ 24]116214_Niagara_Missile_MessageLog: System successfully compiled.
+[2025.03.17-19.58.51:224][193]LogNiagaraEditor: Removed Var 'Constants.Fountain.Color.Color' from Script NiagaraScript /Game/Niagara/NS_Missile.NS_Missile:Fountain.SpawnScript
+[2025.03.17-19.58.51:226][193]LogNiagaraEditor: Removed Var 'Constants.Fountain.Color.Color' from Script NiagaraScript /Game/Niagara/NS_Missile.NS_Missile:Fountain.UpdateScript
+[2025.03.17-19.58.51:658][195]116214_Niagara_Missile_MessageLog: System compile status unknown.
+[2025.03.17-19.58.54:006][252]LogNiagara: Compiling System NiagaraSystem /Game/Niagara/NS_Missile.NS_Missile took 2.548528 sec (time since issued), 2.165766 sec (combined shader worker time).
+[2025.03.17-19.58.54:226][259]116214_Niagara_Missile_MessageLog: System successfully compiled.

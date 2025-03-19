@@ -19271,3 +19271,883 @@ LogConfig: Set CVar [[r.VRS.ContrastAdaptiveShading:1]]
 [2025.03.19-02.31.42:395][423]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
 [2025.03.19-02.31.42:395][423]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
 [2025.03.19-02.31.42:395][423]AssetCheck: /Game/PlayerInput/BP/BP_Pawn_Player Validating asset
+[2025.03.19-02.33.16:527][983]LogDerivedDataCache: C:/Users/Sebam/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.000 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 0 files in 1 folders with total size 0 MiB.
+[2025.03.19-02.34.54:339][339]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.03.19-02.34.54:389][339]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/PlayerInput/BP/BP_Pawn_Player] ([2] browsable assets)...
+[2025.03.19-02.34.54:389][339]OBJ SavePackage: Finished generating thumbnails for package [/Game/PlayerInput/BP/BP_Pawn_Player]
+[2025.03.19-02.34.54:389][339]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/PlayerInput/BP/BP_Pawn_Player" FILE="../../../../../../Repos/Unreal/MissileCommandUE5/MissileCommand/Content/PlayerInput/BP/BP_Pawn_Player.uasset" SILENT=true
+[2025.03.19-02.34.54:398][339]LogSavePackage: Moving output files for package: /Game/PlayerInput/BP/BP_Pawn_Player
+[2025.03.19-02.34.54:399][339]LogSavePackage: Moving '../../../../../../Repos/Unreal/MissileCommandUE5/MissileCommand/Saved/BP_Pawn_Player0854B2AF4F7AC24E8D94D4A76E40247F.tmp' to '../../../../../../Repos/Unreal/MissileCommandUE5/MissileCommand/Content/PlayerInput/BP/BP_Pawn_Player.uasset'
+[2025.03.19-02.34.54:405][339]LogFileHelpers: InternalPromptForCheckoutAndSave took 66.827 ms (total: 4.18 sec)
+[2025.03.19-02.34.54:438][339]LogContentValidation: Display: Starting to validate 1 assets
+[2025.03.19-02.34.54:439][339]LogContentValidation: Enabled validators:
+[2025.03.19-02.34.54:439][339]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.03.19-02.34.54:439][339]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.03.19-02.34.54:439][339]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.03.19-02.34.54:439][339]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.03.19-02.34.54:439][339]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.03.19-02.34.54:439][339]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.03.19-02.34.54:439][339]AssetCheck: /Game/PlayerInput/BP/BP_Pawn_Player Validating asset
+[2025.03.19-02.37.09:338][967]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 3949.740234
+[2025.03.19-02.37.10:342][970]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.03.19-02.37.10:342][971]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 3950.406982, Update Interval: 342.553162
+[2025.03.19-02.43.33:403][119]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 4333.834473
+[2025.03.19-02.43.34:403][122]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.03.19-02.43.34:403][122]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 4334.501465, Update Interval: 309.367950
+[2025.03.19-02.49.15:438][145]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 4675.928711
+[2025.03.19-02.49.16:437][148]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.03.19-02.49.16:437][148]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 4676.595703, Update Interval: 329.495544
+[2025.03.19-02.50.07:690][470]LogRenderer: Display: Virtual shadow map cache invalidated for light due to clipmap level count change
+[2025.03.19-02.50.07:819][483]LogRenderer: Display: Virtual shadow map cache invalidated for light due to clipmap level count change
+[2025.03.19-02.50.08:709][587]LogRenderer: Display: Virtual shadow map cache invalidated for light due to clipmap level count change
+[2025.03.19-02.50.09:292][655]LogRenderer: Display: Virtual shadow map cache invalidated for light due to clipmap level count change
+[2025.03.19-02.50.11:459][909]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.03.19-02.50.11:496][909]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/MainLevel" FILE="../../../../../../Repos/Unreal/MissileCommandUE5/MissileCommand/Content/Maps/MainLevel.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2025.03.19-02.50.11:535][909]LogUObjectHash: Compacting FUObjectHashTables data took   0.94ms
+[2025.03.19-02.50.11:543][909]LogSavePackage: Moving output files for package: /Game/Maps/MainLevel
+[2025.03.19-02.50.11:545][909]LogSavePackage: Moving '../../../../../../Repos/Unreal/MissileCommandUE5/MissileCommand/Saved/MainLevel2B49BEF5421CAA76B9BD60910701E503.tmp' to '../../../../../../Repos/Unreal/MissileCommandUE5/MissileCommand/Content/Maps/MainLevel.umap'
+[2025.03.19-02.50.11:557][909]LogFileHelpers: Saving map 'MainLevel' took 0.062
+[2025.03.19-02.50.11:565][909]LogFileHelpers: InternalPromptForCheckoutAndSave took 106.487 ms (total: 4.29 sec)
+[2025.03.19-02.50.11:615][909]LogContentValidation: Display: Starting to validate 1 assets
+[2025.03.19-02.50.11:615][909]LogContentValidation: Enabled validators:
+[2025.03.19-02.50.11:615][909]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.03.19-02.50.11:615][909]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.03.19-02.50.11:615][909]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.03.19-02.50.11:615][909]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.03.19-02.50.11:615][909]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.03.19-02.50.11:615][909]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.03.19-02.50.11:615][909]AssetCheck: /Game/Maps/MainLevel Validating asset
+[2025.03.19-02.50.18:851][476]LogSlate: Window 'Pick Parent Class' being destroyed
+[2025.03.19-02.50.18:861][476]LogContentBrowser: Deferred new asset file creation: NewBlueprint
+[2025.03.19-02.50.18:866][476]LogContentBrowser: Creating deferred item: NewBlueprint
+[2025.03.19-02.50.18:880][477]LogContentBrowser: Renaming the item being created (Deferred Item: NewBlueprint).
+[2025.03.19-02.51.02:904][745]LogContentBrowser: Attempting asset rename: NewBlueprint -> BP_MissileSilo
+[2025.03.19-02.51.02:912][745]LogContentBrowser: End creating deferred item NewBlueprint
+[2025.03.19-02.51.04:218][899]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.03.19-02.51.04:284][899]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/MainLevel" FILE="../../../../../../Repos/Unreal/MissileCommandUE5/MissileCommand/Content/Maps/MainLevel.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2025.03.19-02.51.04:322][899]LogUObjectHash: Compacting FUObjectHashTables data took   0.71ms
+[2025.03.19-02.51.04:331][899]LogSavePackage: Moving output files for package: /Game/Maps/MainLevel
+[2025.03.19-02.51.04:331][899]LogSavePackage: Moving '../../../../../../Repos/Unreal/MissileCommandUE5/MissileCommand/Saved/MainLevelD56480AF4EE2AF23129448B252318065.tmp' to '../../../../../../Repos/Unreal/MissileCommandUE5/MissileCommand/Content/Maps/MainLevel.umap'
+[2025.03.19-02.51.04:344][899]LogFileHelpers: Saving map 'MainLevel' took 0.061
+[2025.03.19-02.51.04:351][899]LogFileHelpers: InternalPromptForCheckoutAndSave took 133.627 ms (total: 4.42 sec)
+[2025.03.19-02.51.04:414][899]LogContentValidation: Display: Starting to validate 1 assets
+[2025.03.19-02.51.04:414][899]LogContentValidation: Enabled validators:
+[2025.03.19-02.51.04:414][899]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.03.19-02.51.04:414][899]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.03.19-02.51.04:414][899]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.03.19-02.51.04:414][899]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.03.19-02.51.04:414][899]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.03.19-02.51.04:414][899]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.03.19-02.51.04:414][899]AssetCheck: /Game/Maps/MainLevel Validating asset
+[2025.03.19-02.51.04:841][946]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/BP_MissileSilo.BP_MissileSilo
+[2025.03.19-02.51.04:841][946]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_6
+[2025.03.19-02.51.06:732][ 63]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.03.19-02.51.06:795][ 63]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/BP_MissileSilo] ([2] browsable assets)...
+[2025.03.19-02.51.06:795][ 63]OBJ SavePackage: Finished generating thumbnails for package [/Game/BP_MissileSilo]
+[2025.03.19-02.51.06:795][ 63]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BP_MissileSilo" FILE="../../../../../../Repos/Unreal/MissileCommandUE5/MissileCommand/Content/BP_MissileSilo.uasset" SILENT=true
+[2025.03.19-02.51.06:799][ 63]LogSavePackage: Moving output files for package: /Game/BP_MissileSilo
+[2025.03.19-02.51.06:799][ 63]LogSavePackage: Moving '../../../../../../Repos/Unreal/MissileCommandUE5/MissileCommand/Saved/BP_MissileSiloE6D815FE4500CC764CB3678015965208.tmp' to '../../../../../../Repos/Unreal/MissileCommandUE5/MissileCommand/Content/BP_MissileSilo.uasset'
+[2025.03.19-02.51.06:808][ 63]LogFileHelpers: InternalPromptForCheckoutAndSave took 75.617 ms (total: 4.50 sec)
+[2025.03.19-02.51.06:860][ 63]LogContentValidation: Display: Starting to validate 1 assets
+[2025.03.19-02.51.06:861][ 63]LogContentValidation: Enabled validators:
+[2025.03.19-02.51.06:861][ 63]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.03.19-02.51.06:861][ 63]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.03.19-02.51.06:861][ 63]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.03.19-02.51.06:861][ 63]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.03.19-02.51.06:861][ 63]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.03.19-02.51.06:861][ 63]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.03.19-02.51.06:861][ 63]AssetCheck: /Game/BP_MissileSilo Validating asset
+[2025.03.19-02.51.22:335][491]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_7
+[2025.03.19-02.51.32:687][396]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.03.19-02.51.32:747][396]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/MainLevel" FILE="../../../../../../Repos/Unreal/MissileCommandUE5/MissileCommand/Content/Maps/MainLevel.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2025.03.19-02.51.32:804][396]LogUObjectHash: Compacting FUObjectHashTables data took   0.74ms
+[2025.03.19-02.51.32:812][396]LogSavePackage: Moving output files for package: /Game/Maps/MainLevel
+[2025.03.19-02.51.32:813][396]LogSavePackage: Moving '../../../../../../Repos/Unreal/MissileCommandUE5/MissileCommand/Saved/MainLevel2F427F1B48C502793D0312A94391D4C1.tmp' to '../../../../../../Repos/Unreal/MissileCommandUE5/MissileCommand/Content/Maps/MainLevel.umap'
+[2025.03.19-02.51.32:826][396]LogFileHelpers: Saving map 'MainLevel' took 0.080
+[2025.03.19-02.51.32:833][396]LogFileHelpers: InternalPromptForCheckoutAndSave took 146.463 ms (total: 4.64 sec)
+[2025.03.19-02.51.32:896][396]LogContentValidation: Display: Starting to validate 1 assets
+[2025.03.19-02.51.32:896][396]LogContentValidation: Enabled validators:
+[2025.03.19-02.51.32:896][396]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.03.19-02.51.32:896][396]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.03.19-02.51.32:896][396]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.03.19-02.51.32:896][396]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.03.19-02.51.32:896][396]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.03.19-02.51.32:896][396]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.03.19-02.51.32:896][396]AssetCheck: /Game/Maps/MainLevel Validating asset
+[2025.03.19-02.51.37:388][608]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.03.19-02.51.37:444][608]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/MainLevel" FILE="../../../../../../Repos/Unreal/MissileCommandUE5/MissileCommand/Content/Maps/MainLevel.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2025.03.19-02.51.37:481][608]LogUObjectHash: Compacting FUObjectHashTables data took   0.36ms
+[2025.03.19-02.51.37:489][608]LogSavePackage: Moving output files for package: /Game/Maps/MainLevel
+[2025.03.19-02.51.37:489][608]LogSavePackage: Moving '../../../../../../Repos/Unreal/MissileCommandUE5/MissileCommand/Saved/MainLevelC7A1C3AD475E02BF970CC1B31079B6AB.tmp' to '../../../../../../Repos/Unreal/MissileCommandUE5/MissileCommand/Content/Maps/MainLevel.umap'
+[2025.03.19-02.51.37:503][608]LogFileHelpers: Saving map 'MainLevel' took 0.059
+[2025.03.19-02.51.37:510][608]LogFileHelpers: InternalPromptForCheckoutAndSave took 122.489 ms (total: 4.77 sec)
+[2025.03.19-02.51.37:543][608]LogContentValidation: Display: Starting to validate 1 assets
+[2025.03.19-02.51.37:543][608]LogContentValidation: Enabled validators:
+[2025.03.19-02.51.37:543][608]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.03.19-02.51.37:543][608]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.03.19-02.51.37:543][608]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.03.19-02.51.37:543][608]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.03.19-02.51.37:543][608]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.03.19-02.51.37:543][608]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.03.19-02.51.37:543][608]AssetCheck: /Game/Maps/MainLevel Validating asset
+[2025.03.19-02.51.38:197][666]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/BP_MissileSilo.BP_MissileSilo_C
+[2025.03.19-02.51.38:197][666]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/BP_MissileSilo.BP_MissileSilo_C
+[2025.03.19-02.51.38:200][666]LogActorFactory: Actor Factory spawned Blueprint /Game/BP_MissileSilo.BP_MissileSilo as actor: BP_MissileSilo_C /Game/Maps/MainLevel.MainLevel:PersistentLevel.BP_MissileSilo_C_0
+[2025.03.19-02.51.38:200][666]LogActorFactory: Actor Factory spawned Blueprint /Game/BP_MissileSilo.BP_MissileSilo as actor: BP_MissileSilo_C /Game/Maps/MainLevel.MainLevel:PersistentLevel.BP_MissileSilo_C_0
+[2025.03.19-02.51.38:769][718]LogUObjectHash: Compacting FUObjectHashTables data took   0.37ms
+[2025.03.19-02.51.38:814][718]LogEditorActor: Deleted 0 Actors (0.056 secs)
+[2025.03.19-02.51.38:820][718]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/BP_MissileSilo.BP_MissileSilo_C
+[2025.03.19-02.51.38:820][718]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/BP_MissileSilo.BP_MissileSilo_C
+[2025.03.19-02.51.38:820][718]LogActorFactory: Actor Factory spawned Blueprint /Game/BP_MissileSilo.BP_MissileSilo as actor: BP_MissileSilo_C /Game/Maps/MainLevel.MainLevel:PersistentLevel.BP_MissileSilo_C_1
+[2025.03.19-02.51.38:822][718]LogActorFactory: Actor Factory spawned Blueprint /Game/BP_MissileSilo.BP_MissileSilo as actor: BP_MissileSilo_C /Game/Maps/MainLevel.MainLevel:PersistentLevel.BP_MissileSilo_C_1
+[2025.03.19-02.52.05:081][766]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.03.19-02.52.05:127][766]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/MainLevel" FILE="../../../../../../Repos/Unreal/MissileCommandUE5/MissileCommand/Content/Maps/MainLevel.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2025.03.19-02.52.05:164][766]LogUObjectHash: Compacting FUObjectHashTables data took   0.73ms
+[2025.03.19-02.52.05:171][766]LogSavePackage: Moving output files for package: /Game/Maps/MainLevel
+[2025.03.19-02.52.05:171][766]LogSavePackage: Moving '../../../../../../Repos/Unreal/MissileCommandUE5/MissileCommand/Saved/MainLevelB3A0D76B4D4804708E5922A977DE6DA4.tmp' to '../../../../../../Repos/Unreal/MissileCommandUE5/MissileCommand/Content/Maps/MainLevel.umap'
+[2025.03.19-02.52.05:186][766]LogFileHelpers: Saving map 'MainLevel' took 0.060
+[2025.03.19-02.52.05:192][766]LogFileHelpers: InternalPromptForCheckoutAndSave took 110.711 ms (total: 4.88 sec)
+[2025.03.19-02.52.05:248][766]LogContentValidation: Display: Starting to validate 1 assets
+[2025.03.19-02.52.05:248][766]LogContentValidation: Enabled validators:
+[2025.03.19-02.52.05:248][766]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.03.19-02.52.05:248][766]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.03.19-02.52.05:248][766]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.03.19-02.52.05:248][766]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.03.19-02.52.05:248][766]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.03.19-02.52.05:248][766]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.03.19-02.52.05:248][766]AssetCheck: /Game/Maps/MainLevel Validating asset
+[2025.03.19-02.52.12:539][612]Cmd: POLY SELECT MEMORY UNION
+[2025.03.19-02.52.38:797][688]Cmd: DUPLICATE
+[2025.03.19-02.52.38:797][688]Cmd: ACTOR DUPLICATE
+[2025.03.19-02.52.40:950][940]Cmd: DELETE
+[2025.03.19-02.52.40:950][940]Cmd: ACTOR DELETE
+[2025.03.19-02.52.40:952][940]LogEditorActor: Deleted Actor: BP_MissileSilo_C
+[2025.03.19-02.52.40:973][940]LogUObjectHash: Compacting FUObjectHashTables data took   0.71ms
+[2025.03.19-02.52.40:976][940]LogEditorActor: Deleted 1 Actors (0.026 secs)
+[2025.03.19-02.52.43:562][246]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.03.19-02.52.43:591][246]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/MainLevel" FILE="../../../../../../Repos/Unreal/MissileCommandUE5/MissileCommand/Content/Maps/MainLevel.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2025.03.19-02.52.43:634][246]LogUObjectHash: Compacting FUObjectHashTables data took   0.36ms
+[2025.03.19-02.52.43:642][246]LogSavePackage: Moving output files for package: /Game/Maps/MainLevel
+[2025.03.19-02.52.43:643][246]LogSavePackage: Moving '../../../../../../Repos/Unreal/MissileCommandUE5/MissileCommand/Saved/MainLevel2D357B8A4175D4DF622FFAA4AB9D98CF.tmp' to '../../../../../../Repos/Unreal/MissileCommandUE5/MissileCommand/Content/Maps/MainLevel.umap'
+[2025.03.19-02.52.43:656][246]LogFileHelpers: Saving map 'MainLevel' took 0.065
+[2025.03.19-02.52.43:662][246]LogFileHelpers: InternalPromptForCheckoutAndSave took 100.035 ms (total: 4.98 sec)
+[2025.03.19-02.52.43:708][246]LogContentValidation: Display: Starting to validate 1 assets
+[2025.03.19-02.52.43:708][246]LogContentValidation: Enabled validators:
+[2025.03.19-02.52.43:708][246]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.03.19-02.52.43:708][246]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.03.19-02.52.43:708][246]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.03.19-02.52.43:708][246]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.03.19-02.52.43:708][246]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.03.19-02.52.43:708][246]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.03.19-02.52.43:708][246]AssetCheck: /Game/Maps/MainLevel Validating asset
+[2025.03.19-02.52.43:736][248]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.03.19-02.52.43:776][248]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/BP_MissileSilo] ([2] browsable assets)...
+[2025.03.19-02.52.43:829][248]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/BP_MissileSilo.BP_MissileSilo]
+[2025.03.19-02.52.43:829][248]OBJ SavePackage: Finished generating thumbnails for package [/Game/BP_MissileSilo]
+[2025.03.19-02.52.43:829][248]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BP_MissileSilo" FILE="../../../../../../Repos/Unreal/MissileCommandUE5/MissileCommand/Content/BP_MissileSilo.uasset" SILENT=true
+[2025.03.19-02.52.43:837][248]LogSavePackage: Moving output files for package: /Game/BP_MissileSilo
+[2025.03.19-02.52.43:837][248]LogSavePackage: Moving '../../../../../../Repos/Unreal/MissileCommandUE5/MissileCommand/Saved/BP_MissileSilo2A68557B4B1ED5DFF68B8BABF6975EDF.tmp' to '../../../../../../Repos/Unreal/MissileCommandUE5/MissileCommand/Content/BP_MissileSilo.uasset'
+[2025.03.19-02.52.43:845][248]LogFileHelpers: InternalPromptForCheckoutAndSave took 108.792 ms (total: 5.09 sec)
+[2025.03.19-02.52.43:894][248]LogContentValidation: Display: Starting to validate 1 assets
+[2025.03.19-02.52.43:894][248]LogContentValidation: Enabled validators:
+[2025.03.19-02.52.43:894][248]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.03.19-02.52.43:894][248]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.03.19-02.52.43:894][248]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.03.19-02.52.43:894][248]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.03.19-02.52.43:894][248]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.03.19-02.52.43:894][248]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.03.19-02.52.43:894][248]AssetCheck: /Game/BP_MissileSilo Validating asset
+[2025.03.19-02.52.45:987][497]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.03.19-02.52.46:025][497]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/BP_MissileSilo] ([2] browsable assets)...
+[2025.03.19-02.52.46:025][497]OBJ SavePackage: Finished generating thumbnails for package [/Game/BP_MissileSilo]
+[2025.03.19-02.52.46:025][497]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BP_MissileSilo" FILE="../../../../../../Repos/Unreal/MissileCommandUE5/MissileCommand/Content/BP_MissileSilo.uasset" SILENT=true
+[2025.03.19-02.52.46:028][497]LogSavePackage: Moving output files for package: /Game/BP_MissileSilo
+[2025.03.19-02.52.46:029][497]LogSavePackage: Moving '../../../../../../Repos/Unreal/MissileCommandUE5/MissileCommand/Saved/BP_MissileSiloD0C139254A68098AD72DF089334E9526.tmp' to '../../../../../../Repos/Unreal/MissileCommandUE5/MissileCommand/Content/BP_MissileSilo.uasset'
+[2025.03.19-02.52.46:036][497]LogFileHelpers: InternalPromptForCheckoutAndSave took 48.738 ms (total: 5.14 sec)
+[2025.03.19-02.52.46:094][497]LogContentValidation: Display: Starting to validate 1 assets
+[2025.03.19-02.52.46:094][497]LogContentValidation: Enabled validators:
+[2025.03.19-02.52.46:094][497]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.03.19-02.52.46:094][497]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.03.19-02.52.46:094][497]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.03.19-02.52.46:094][497]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.03.19-02.52.46:094][497]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.03.19-02.52.46:094][497]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.03.19-02.52.46:094][497]AssetCheck: /Game/BP_MissileSilo Validating asset
+[2025.03.19-02.52.47:465][659]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.03.19-02.52.47:526][659]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/MainLevel" FILE="../../../../../../Repos/Unreal/MissileCommandUE5/MissileCommand/Content/Maps/MainLevel.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2025.03.19-02.52.47:562][659]LogUObjectHash: Compacting FUObjectHashTables data took   0.39ms
+[2025.03.19-02.52.47:569][659]LogSavePackage: Moving output files for package: /Game/Maps/MainLevel
+[2025.03.19-02.52.47:570][659]LogSavePackage: Moving '../../../../../../Repos/Unreal/MissileCommandUE5/MissileCommand/Saved/MainLevelA64C7EBF478359197E912C995F5241C1.tmp' to '../../../../../../Repos/Unreal/MissileCommandUE5/MissileCommand/Content/Maps/MainLevel.umap'
+[2025.03.19-02.52.47:583][659]LogFileHelpers: Saving map 'MainLevel' took 0.057
+[2025.03.19-02.52.47:590][659]LogFileHelpers: InternalPromptForCheckoutAndSave took 125.184 ms (total: 5.26 sec)
+[2025.03.19-02.52.47:644][659]LogContentValidation: Display: Starting to validate 1 assets
+[2025.03.19-02.52.47:644][659]LogContentValidation: Enabled validators:
+[2025.03.19-02.52.47:644][659]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.03.19-02.52.47:644][659]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.03.19-02.52.47:644][659]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.03.19-02.52.47:644][659]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.03.19-02.52.47:644][659]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.03.19-02.52.47:644][659]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.03.19-02.52.47:645][659]AssetCheck: /Game/Maps/MainLevel Validating asset
+[2025.03.19-02.52.58:711][616]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.03.19-02.52.58:778][616]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/BP_MissileSilo] ([2] browsable assets)...
+[2025.03.19-02.52.58:778][616]OBJ SavePackage: Finished generating thumbnails for package [/Game/BP_MissileSilo]
+[2025.03.19-02.52.58:778][616]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BP_MissileSilo" FILE="../../../../../../Repos/Unreal/MissileCommandUE5/MissileCommand/Content/BP_MissileSilo.uasset" SILENT=true
+[2025.03.19-02.52.58:782][616]LogSavePackage: Moving output files for package: /Game/BP_MissileSilo
+[2025.03.19-02.52.58:783][616]LogSavePackage: Moving '../../../../../../Repos/Unreal/MissileCommandUE5/MissileCommand/Saved/BP_MissileSilo83EAA5B34BB1E4CB57F37D81F007A2B0.tmp' to '../../../../../../Repos/Unreal/MissileCommandUE5/MissileCommand/Content/BP_MissileSilo.uasset'
+[2025.03.19-02.52.58:790][616]LogFileHelpers: InternalPromptForCheckoutAndSave took 78.680 ms (total: 5.34 sec)
+[2025.03.19-02.52.58:846][616]LogContentValidation: Display: Starting to validate 1 assets
+[2025.03.19-02.52.58:846][616]LogContentValidation: Enabled validators:
+[2025.03.19-02.52.58:846][616]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.03.19-02.52.58:846][616]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.03.19-02.52.58:846][616]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.03.19-02.52.58:846][616]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.03.19-02.52.58:846][616]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.03.19-02.52.58:846][616]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.03.19-02.52.58:847][616]AssetCheck: /Game/BP_MissileSilo Validating asset
+[2025.03.19-02.53.11:543][752]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.03.19-02.53.11:613][752]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/BP_MissileSilo] ([2] browsable assets)...
+[2025.03.19-02.53.11:613][752]OBJ SavePackage: Finished generating thumbnails for package [/Game/BP_MissileSilo]
+[2025.03.19-02.53.11:614][752]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BP_MissileSilo" FILE="../../../../../../Repos/Unreal/MissileCommandUE5/MissileCommand/Content/BP_MissileSilo.uasset" SILENT=true
+[2025.03.19-02.53.11:618][752]LogSavePackage: Moving output files for package: /Game/BP_MissileSilo
+[2025.03.19-02.53.11:619][752]LogSavePackage: Moving '../../../../../../Repos/Unreal/MissileCommandUE5/MissileCommand/Saved/BP_MissileSiloF3DB18074DB4A34AD960248D138C8350.tmp' to '../../../../../../Repos/Unreal/MissileCommandUE5/MissileCommand/Content/BP_MissileSilo.uasset'
+[2025.03.19-02.53.11:625][752]LogFileHelpers: InternalPromptForCheckoutAndSave took 82.219 ms (total: 5.42 sec)
+[2025.03.19-02.53.11:674][752]LogContentValidation: Display: Starting to validate 1 assets
+[2025.03.19-02.53.11:674][752]LogContentValidation: Enabled validators:
+[2025.03.19-02.53.11:674][752]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.03.19-02.53.11:674][752]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.03.19-02.53.11:674][752]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.03.19-02.53.11:674][752]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.03.19-02.53.11:674][752]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.03.19-02.53.11:674][752]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.03.19-02.53.11:674][752]AssetCheck: /Game/BP_MissileSilo Validating asset
+[2025.03.19-02.53.41:263][493]LogEditorTransaction: Undo Modify Component(s)
+[2025.03.19-02.54.01:602][328]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.03.19-02.54.01:658][328]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/BP_MissileSilo] ([2] browsable assets)...
+[2025.03.19-02.54.01:664][328]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/BP_MissileSilo.BP_MissileSilo]
+[2025.03.19-02.54.01:664][328]OBJ SavePackage: Finished generating thumbnails for package [/Game/BP_MissileSilo]
+[2025.03.19-02.54.01:664][328]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BP_MissileSilo" FILE="../../../../../../Repos/Unreal/MissileCommandUE5/MissileCommand/Content/BP_MissileSilo.uasset" SILENT=true
+[2025.03.19-02.54.01:669][328]LogSavePackage: Moving output files for package: /Game/BP_MissileSilo
+[2025.03.19-02.54.01:670][328]LogSavePackage: Moving '../../../../../../Repos/Unreal/MissileCommandUE5/MissileCommand/Saved/BP_MissileSilo622DE0B44543C50A0301FFA972C9AC55.tmp' to '../../../../../../Repos/Unreal/MissileCommandUE5/MissileCommand/Content/BP_MissileSilo.uasset'
+[2025.03.19-02.54.01:677][328]LogFileHelpers: InternalPromptForCheckoutAndSave took 74.817 ms (total: 5.50 sec)
+[2025.03.19-02.54.01:744][328]LogContentValidation: Display: Starting to validate 1 assets
+[2025.03.19-02.54.01:744][328]LogContentValidation: Enabled validators:
+[2025.03.19-02.54.01:744][328]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.03.19-02.54.01:744][328]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.03.19-02.54.01:744][328]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.03.19-02.54.01:744][328]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.03.19-02.54.01:744][328]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.03.19-02.54.01:744][328]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.03.19-02.54.01:744][328]AssetCheck: /Game/BP_MissileSilo Validating asset
+[2025.03.19-02.54.02:554][403]LogUObjectHash: Compacting FUObjectHashTables data took   0.71ms
+[2025.03.19-02.54.03:826][516]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.03.19-02.54.03:892][516]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/BP_MissileSilo] ([2] browsable assets)...
+[2025.03.19-02.54.03:898][516]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/BP_MissileSilo.BP_MissileSilo]
+[2025.03.19-02.54.03:898][516]OBJ SavePackage: Finished generating thumbnails for package [/Game/BP_MissileSilo]
+[2025.03.19-02.54.03:898][516]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BP_MissileSilo" FILE="../../../../../../Repos/Unreal/MissileCommandUE5/MissileCommand/Content/BP_MissileSilo.uasset" SILENT=true
+[2025.03.19-02.54.03:902][516]LogSavePackage: Moving output files for package: /Game/BP_MissileSilo
+[2025.03.19-02.54.03:903][516]LogSavePackage: Moving '../../../../../../Repos/Unreal/MissileCommandUE5/MissileCommand/Saved/BP_MissileSiloDFEFBE5649F5AE058B18C792E6E6173C.tmp' to '../../../../../../Repos/Unreal/MissileCommandUE5/MissileCommand/Content/BP_MissileSilo.uasset'
+[2025.03.19-02.54.03:910][516]LogFileHelpers: InternalPromptForCheckoutAndSave took 83.134 ms (total: 5.58 sec)
+[2025.03.19-02.54.03:939][516]LogContentValidation: Display: Starting to validate 1 assets
+[2025.03.19-02.54.03:939][516]LogContentValidation: Enabled validators:
+[2025.03.19-02.54.03:939][516]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.03.19-02.54.03:939][516]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.03.19-02.54.03:939][516]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.03.19-02.54.03:939][516]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.03.19-02.54.03:939][516]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.03.19-02.54.03:939][516]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.03.19-02.54.03:939][516]AssetCheck: /Game/BP_MissileSilo Validating asset
+[2025.03.19-02.54.12:206][255]LogEditorTransaction: Undo Modify Component(s)
+[2025.03.19-02.54.24:277][293]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.03.19-02.54.24:342][293]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/BP_MissileSilo] ([2] browsable assets)...
+[2025.03.19-02.54.24:348][293]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/BP_MissileSilo.BP_MissileSilo]
+[2025.03.19-02.54.24:348][293]OBJ SavePackage: Finished generating thumbnails for package [/Game/BP_MissileSilo]
+[2025.03.19-02.54.24:348][293]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BP_MissileSilo" FILE="../../../../../../Repos/Unreal/MissileCommandUE5/MissileCommand/Content/BP_MissileSilo.uasset" SILENT=true
+[2025.03.19-02.54.24:352][293]LogSavePackage: Moving output files for package: /Game/BP_MissileSilo
+[2025.03.19-02.54.24:354][293]LogSavePackage: Moving '../../../../../../Repos/Unreal/MissileCommandUE5/MissileCommand/Saved/BP_MissileSilo8DBF7AC141CE0AFEF1FA3CB637551E78.tmp' to '../../../../../../Repos/Unreal/MissileCommandUE5/MissileCommand/Content/BP_MissileSilo.uasset'
+[2025.03.19-02.54.24:361][293]LogFileHelpers: InternalPromptForCheckoutAndSave took 83.847 ms (total: 5.66 sec)
+[2025.03.19-02.54.24:422][293]LogContentValidation: Display: Starting to validate 1 assets
+[2025.03.19-02.54.24:422][293]LogContentValidation: Enabled validators:
+[2025.03.19-02.54.24:422][293]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.03.19-02.54.24:422][293]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.03.19-02.54.24:422][293]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.03.19-02.54.24:422][293]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.03.19-02.54.24:422][293]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.03.19-02.54.24:422][293]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.03.19-02.54.24:422][293]AssetCheck: /Game/BP_MissileSilo Validating asset
+[2025.03.19-02.54.26:810][518]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.03.19-02.54.26:875][518]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/MainLevel" FILE="../../../../../../Repos/Unreal/MissileCommandUE5/MissileCommand/Content/Maps/MainLevel.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2025.03.19-02.54.26:913][518]LogUObjectHash: Compacting FUObjectHashTables data took   0.72ms
+[2025.03.19-02.54.26:922][518]LogSavePackage: Moving output files for package: /Game/Maps/MainLevel
+[2025.03.19-02.54.26:922][518]LogSavePackage: Moving '../../../../../../Repos/Unreal/MissileCommandUE5/MissileCommand/Saved/MainLevel0ACC30634A3429FCA07BBB8F7150E756.tmp' to '../../../../../../Repos/Unreal/MissileCommandUE5/MissileCommand/Content/Maps/MainLevel.umap'
+[2025.03.19-02.54.26:937][518]LogFileHelpers: Saving map 'MainLevel' took 0.063
+[2025.03.19-02.54.26:944][518]LogFileHelpers: InternalPromptForCheckoutAndSave took 134.032 ms (total: 5.80 sec)
+[2025.03.19-02.54.27:007][518]LogContentValidation: Display: Starting to validate 1 assets
+[2025.03.19-02.54.27:007][518]LogContentValidation: Enabled validators:
+[2025.03.19-02.54.27:007][518]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.03.19-02.54.27:007][518]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.03.19-02.54.27:007][518]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.03.19-02.54.27:007][518]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.03.19-02.54.27:007][518]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.03.19-02.54.27:007][518]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.03.19-02.54.27:007][518]AssetCheck: /Game/Maps/MainLevel Validating asset
+[2025.03.19-02.54.31:684][995]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.03.19-02.54.31:739][995]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/MainLevel" FILE="../../../../../../Repos/Unreal/MissileCommandUE5/MissileCommand/Content/Maps/MainLevel.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2025.03.19-02.54.31:774][995]LogUObjectHash: Compacting FUObjectHashTables data took   0.35ms
+[2025.03.19-02.54.31:781][995]LogSavePackage: Moving output files for package: /Game/Maps/MainLevel
+[2025.03.19-02.54.31:782][995]LogSavePackage: Moving '../../../../../../Repos/Unreal/MissileCommandUE5/MissileCommand/Saved/MainLevel1DAADFE24FCEE958F2827EB70E691EF6.tmp' to '../../../../../../Repos/Unreal/MissileCommandUE5/MissileCommand/Content/Maps/MainLevel.umap'
+[2025.03.19-02.54.31:795][995]LogFileHelpers: Saving map 'MainLevel' took 0.057
+[2025.03.19-02.54.31:802][995]LogFileHelpers: InternalPromptForCheckoutAndSave took 117.715 ms (total: 5.91 sec)
+[2025.03.19-02.54.31:837][995]LogContentValidation: Display: Starting to validate 1 assets
+[2025.03.19-02.54.31:837][995]LogContentValidation: Enabled validators:
+[2025.03.19-02.54.31:837][995]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.03.19-02.54.31:837][995]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.03.19-02.54.31:837][995]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.03.19-02.54.31:837][995]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.03.19-02.54.31:837][995]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.03.19-02.54.31:837][995]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.03.19-02.54.31:837][995]AssetCheck: /Game/Maps/MainLevel Validating asset
+[2025.03.19-02.54.36:442][537]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.03.19-02.54.36:472][537]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/MainLevel" FILE="../../../../../../Repos/Unreal/MissileCommandUE5/MissileCommand/Content/Maps/MainLevel.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2025.03.19-02.54.36:508][537]LogUObjectHash: Compacting FUObjectHashTables data took   0.71ms
+[2025.03.19-02.54.36:517][537]LogSavePackage: Moving output files for package: /Game/Maps/MainLevel
+[2025.03.19-02.54.36:518][537]LogSavePackage: Moving '../../../../../../Repos/Unreal/MissileCommandUE5/MissileCommand/Saved/MainLevel82459D1940004B30D127FBBB8FD1CC8E.tmp' to '../../../../../../Repos/Unreal/MissileCommandUE5/MissileCommand/Content/Maps/MainLevel.umap'
+[2025.03.19-02.54.36:531][537]LogFileHelpers: Saving map 'MainLevel' took 0.060
+[2025.03.19-02.54.36:538][537]LogFileHelpers: InternalPromptForCheckoutAndSave took 94.695 ms (total: 6.01 sec)
+[2025.03.19-02.54.36:591][537]LogContentValidation: Display: Starting to validate 1 assets
+[2025.03.19-02.54.36:591][537]LogContentValidation: Enabled validators:
+[2025.03.19-02.54.36:591][537]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.03.19-02.54.36:591][537]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.03.19-02.54.36:591][537]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.03.19-02.54.36:591][537]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.03.19-02.54.36:591][537]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.03.19-02.54.36:591][537]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.03.19-02.54.36:591][537]AssetCheck: /Game/Maps/MainLevel Validating asset
+[2025.03.19-02.54.38:160][723]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.03.19-02.54.38:189][723]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/MainLevel" FILE="../../../../../../Repos/Unreal/MissileCommandUE5/MissileCommand/Content/Maps/MainLevel.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2025.03.19-02.54.38:226][723]LogUObjectHash: Compacting FUObjectHashTables data took   0.35ms
+[2025.03.19-02.54.38:233][723]LogSavePackage: Moving output files for package: /Game/Maps/MainLevel
+[2025.03.19-02.54.38:234][723]LogSavePackage: Moving '../../../../../../Repos/Unreal/MissileCommandUE5/MissileCommand/Saved/MainLevel0DB75ABB4A7937639DA89AA2A59116BB.tmp' to '../../../../../../Repos/Unreal/MissileCommandUE5/MissileCommand/Content/Maps/MainLevel.umap'
+[2025.03.19-02.54.38:247][723]LogFileHelpers: Saving map 'MainLevel' took 0.058
+[2025.03.19-02.54.38:254][723]LogFileHelpers: InternalPromptForCheckoutAndSave took 92.841 ms (total: 6.10 sec)
+[2025.03.19-02.54.38:306][723]LogContentValidation: Display: Starting to validate 1 assets
+[2025.03.19-02.54.38:306][723]LogContentValidation: Enabled validators:
+[2025.03.19-02.54.38:306][723]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.03.19-02.54.38:306][723]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.03.19-02.54.38:306][723]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.03.19-02.54.38:306][723]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.03.19-02.54.38:306][723]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.03.19-02.54.38:306][723]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.03.19-02.54.38:306][723]AssetCheck: /Game/Maps/MainLevel Validating asset
+[2025.03.19-02.55.12:905][662]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.03.19-02.55.12:974][662]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/BP_MissileSilo] ([2] browsable assets)...
+[2025.03.19-02.55.12:980][662]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/BP_MissileSilo.BP_MissileSilo]
+[2025.03.19-02.55.12:980][662]OBJ SavePackage: Finished generating thumbnails for package [/Game/BP_MissileSilo]
+[2025.03.19-02.55.12:980][662]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BP_MissileSilo" FILE="../../../../../../Repos/Unreal/MissileCommandUE5/MissileCommand/Content/BP_MissileSilo.uasset" SILENT=true
+[2025.03.19-02.55.12:985][662]LogSavePackage: Moving output files for package: /Game/BP_MissileSilo
+[2025.03.19-02.55.12:986][662]LogSavePackage: Moving '../../../../../../Repos/Unreal/MissileCommandUE5/MissileCommand/Saved/BP_MissileSilo388C5EB84D88FEFAA934B49F0FA2A452.tmp' to '../../../../../../Repos/Unreal/MissileCommandUE5/MissileCommand/Content/BP_MissileSilo.uasset'
+[2025.03.19-02.55.12:992][662]LogFileHelpers: InternalPromptForCheckoutAndSave took 86.944 ms (total: 6.19 sec)
+[2025.03.19-02.55.13:040][662]LogContentValidation: Display: Starting to validate 1 assets
+[2025.03.19-02.55.13:040][662]LogContentValidation: Enabled validators:
+[2025.03.19-02.55.13:040][662]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.03.19-02.55.13:040][662]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.03.19-02.55.13:040][662]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.03.19-02.55.13:040][662]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.03.19-02.55.13:040][662]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.03.19-02.55.13:040][662]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.03.19-02.55.13:040][662]AssetCheck: /Game/BP_MissileSilo Validating asset
+[2025.03.19-02.55.15:789][916]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.03.19-02.55.15:838][916]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/BP_MissileSilo] ([2] browsable assets)...
+[2025.03.19-02.55.15:838][916]OBJ SavePackage: Finished generating thumbnails for package [/Game/BP_MissileSilo]
+[2025.03.19-02.55.15:838][916]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BP_MissileSilo" FILE="../../../../../../Repos/Unreal/MissileCommandUE5/MissileCommand/Content/BP_MissileSilo.uasset" SILENT=true
+[2025.03.19-02.55.15:842][916]LogSavePackage: Moving output files for package: /Game/BP_MissileSilo
+[2025.03.19-02.55.15:842][916]LogSavePackage: Moving '../../../../../../Repos/Unreal/MissileCommandUE5/MissileCommand/Saved/BP_MissileSilo409B339B4FC1FBDA08BA94B8AF5690DB.tmp' to '../../../../../../Repos/Unreal/MissileCommandUE5/MissileCommand/Content/BP_MissileSilo.uasset'
+[2025.03.19-02.55.15:850][916]LogFileHelpers: InternalPromptForCheckoutAndSave took 59.901 ms (total: 6.25 sec)
+[2025.03.19-02.55.15:887][916]LogContentValidation: Display: Starting to validate 1 assets
+[2025.03.19-02.55.15:887][916]LogContentValidation: Enabled validators:
+[2025.03.19-02.55.15:887][916]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.03.19-02.55.15:887][916]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.03.19-02.55.15:887][916]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.03.19-02.55.15:887][916]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.03.19-02.55.15:887][916]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.03.19-02.55.15:887][916]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.03.19-02.55.15:887][916]AssetCheck: /Game/BP_MissileSilo Validating asset
+[2025.03.19-02.55.16:141][940]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.03.19-02.55.16:206][940]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/MainLevel" FILE="../../../../../../Repos/Unreal/MissileCommandUE5/MissileCommand/Content/Maps/MainLevel.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2025.03.19-02.55.16:245][940]LogUObjectHash: Compacting FUObjectHashTables data took   0.93ms
+[2025.03.19-02.55.16:255][940]LogSavePackage: Moving output files for package: /Game/Maps/MainLevel
+[2025.03.19-02.55.16:256][940]LogSavePackage: Moving '../../../../../../Repos/Unreal/MissileCommandUE5/MissileCommand/Saved/MainLevelBCCDE2A4495BE77B900849A576C29923.tmp' to '../../../../../../Repos/Unreal/MissileCommandUE5/MissileCommand/Content/Maps/MainLevel.umap'
+[2025.03.19-02.55.16:270][940]LogFileHelpers: Saving map 'MainLevel' took 0.063
+[2025.03.19-02.55.16:276][940]LogFileHelpers: InternalPromptForCheckoutAndSave took 134.994 ms (total: 6.38 sec)
+[2025.03.19-02.55.16:340][940]LogContentValidation: Display: Starting to validate 1 assets
+[2025.03.19-02.55.16:340][940]LogContentValidation: Enabled validators:
+[2025.03.19-02.55.16:340][940]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.03.19-02.55.16:340][940]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.03.19-02.55.16:340][940]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.03.19-02.55.16:340][940]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.03.19-02.55.16:340][940]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.03.19-02.55.16:340][940]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.03.19-02.55.16:340][940]AssetCheck: /Game/Maps/MainLevel Validating asset
+[2025.03.19-02.55.16:697][970]LogSlate: Window 'BP_MissileSilo' being destroyed
+[2025.03.19-02.55.16:703][970]LogSlate: Window 'BP_MissileSilo' being destroyed
+[2025.03.19-02.55.16:744][970]LogWorld: UWorld::CleanupWorld for World_5, bSessionEnded=true, bCleanupResources=true
+[2025.03.19-02.55.16:744][970]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.03.19-02.55.16:809][970]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2025.03.19-02.55.16:809][970]LogWorld: UWorld::CleanupWorld for World_6, bSessionEnded=true, bCleanupResources=true
+[2025.03.19-02.55.16:809][970]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.03.19-02.55.16:859][970]LogUObjectHash: Compacting FUObjectHashTables data took   0.74ms
+[2025.03.19-02.55.29:053][364]Cmd: TRANSACTION UNDO
+[2025.03.19-02.55.29:053][364]LogEditorTransaction: Undo Move Elements
+[2025.03.19-02.55.30:531][485]Cmd: EDIT COPY
+[2025.03.19-02.55.30:858][524]Cmd: EDIT PASTE
+[2025.03.19-02.55.32:030][655]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 5052.506836
+[2025.03.19-02.55.32:104][664]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.03.19-02.55.32:106][665]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 5052.573242, Update Interval: 348.077637
+[2025.03.19-02.55.35:558][ 63]Cmd: EDIT COPY
+[2025.03.19-02.55.35:869][ 99]Cmd: EDIT PASTE
+[2025.03.19-02.55.38:638][413]Cmd: EDIT COPY
+[2025.03.19-02.55.38:849][437]Cmd: EDIT PASTE
+[2025.03.19-02.55.41:862][781]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.03.19-02.55.41:904][781]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/MainLevel" FILE="../../../../../../Repos/Unreal/MissileCommandUE5/MissileCommand/Content/Maps/MainLevel.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2025.03.19-02.55.41:944][781]LogUObjectHash: Compacting FUObjectHashTables data took   0.71ms
+[2025.03.19-02.55.41:956][781]LogSavePackage: Moving output files for package: /Game/Maps/MainLevel
+[2025.03.19-02.55.41:957][781]LogSavePackage: Moving '../../../../../../Repos/Unreal/MissileCommandUE5/MissileCommand/Saved/MainLevel1FA773D34D9E640D8FE00696A4716923.tmp' to '../../../../../../Repos/Unreal/MissileCommandUE5/MissileCommand/Content/Maps/MainLevel.umap'
+[2025.03.19-02.55.41:971][781]LogFileHelpers: Saving map 'MainLevel' took 0.068
+[2025.03.19-02.55.41:977][781]LogFileHelpers: InternalPromptForCheckoutAndSave took 113.803 ms (total: 6.50 sec)
+[2025.03.19-02.55.42:037][781]LogContentValidation: Display: Starting to validate 1 assets
+[2025.03.19-02.55.42:038][781]LogContentValidation: Enabled validators:
+[2025.03.19-02.55.42:038][781]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.03.19-02.55.42:038][781]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.03.19-02.55.42:038][781]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.03.19-02.55.42:038][781]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.03.19-02.55.42:038][781]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.03.19-02.55.42:038][781]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.03.19-02.55.42:038][781]AssetCheck: /Game/Maps/MainLevel Validating asset
+[2025.03.19-02.55.43:397][940]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2025.03.19-02.55.43:406][940]LogPlayLevel: [PlayLevel] Compiling BP_MissileSilo before play...
+[2025.03.19-02.55.43:435][940]LogUObjectHash: Compacting FUObjectHashTables data took   0.72ms
+[2025.03.19-02.55.43:435][940]LogPlayLevel: PlayLevel: Blueprint regeneration took 29 ms (1 blueprints)
+[2025.03.19-02.55.43:435][940]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_MainLevel
+[2025.03.19-02.55.43:437][940]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001459s)
+[2025.03.19-02.55.43:437][940]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/MainLevel.MainLevel to /Game/Maps/UEDPIE_0_MainLevel.MainLevel (0.001487s)
+[2025.03.19-02.55.43:450][940]LogUObjectHash: Compacting FUObjectHashTables data took   0.76ms
+[2025.03.19-02.55.43:450][940]LogChaosDD: Creating Chaos Debug Draw Scene for world MainLevel
+[2025.03.19-02.55.43:452][940]LogPlayLevel: PIE: World Init took: (0.001127s)
+[2025.03.19-02.55.43:452][940]LogAudio: Display: Creating Audio Device:                 Id: 17, Scope: Unique, Realtime: True
+[2025.03.19-02.55.43:452][940]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.03.19-02.55.43:452][940]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.03.19-02.55.43:452][940]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.03.19-02.55.43:452][940]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.03.19-02.55.43:452][940]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2025.03.19-02.55.43:452][940]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.03.19-02.55.43:452][940]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2025.03.19-02.55.43:452][940]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.03.19-02.55.43:452][940]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.03.19-02.55.43:452][940]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.03.19-02.55.43:452][940]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.03.19-02.55.43:454][940]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.03.19-02.55.43:472][940]LogAudioMixer: Display: Using Audio Hardware Device Headphones (3- Arctis Nova 3)
+[2025.03.19-02.55.43:472][940]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.03.19-02.55.43:472][940]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.03.19-02.55.43:472][940]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.03.19-02.55.43:473][940]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=17
+[2025.03.19-02.55.43:473][940]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=17
+[2025.03.19-02.55.43:475][940]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=17
+[2025.03.19-02.55.43:475][940]LogInit: FAudioDevice initialized with ID 17.
+[2025.03.19-02.55.43:475][940]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=17
+[2025.03.19-02.55.43:475][940]LogAudio: Display: Audio Device (ID: 17) registered with world 'MainLevel'.
+[2025.03.19-02.55.43:475][940]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 17
+[2025.03.19-02.55.43:477][940]LogLoad: Game class is 'BP_GameMode_C'
+[2025.03.19-02.55.43:478][940]LogWorld: Bringing World /Game/Maps/UEDPIE_0_MainLevel.MainLevel up for play (max tick rate 0) at 2025.03.18-22.55.43
+[2025.03.19-02.55.43:478][940]LogGameState: Error: Mixing AGameState with AGameModeBase is not compatible. Change AGameModeBase subclass (BP_GameMode_C) to derive from AGameMode, or make both derive from Base
+[2025.03.19-02.55.43:478][940]LogWorld: Bringing up level for play took: 0.001060
+[2025.03.19-02.55.43:479][940]LogOnline: OSS: Created online subsystem instance for: :Context_24
+[2025.03.19-02.55.43:481][940]LogBlueprintUserMessages: [BP_Pawn_Player_C_0] Hello
+[2025.03.19-02.55.43:481][940]LogBlueprintUserMessages: [BP_Pawn_Player_C_0] Keyboard and Mouse
+[2025.03.19-02.55.43:482][940]PIE: Server logged in
+[2025.03.19-02.55.43:483][940]PIE: Play in editor total start time 0.077 seconds.
+[2025.03.19-02.55.43:485][940]LogEnhancedInput: Warning: A Key Mapping with a blank action has been added! Ignoring the key mapping to 'None'
+[2025.03.19-02.55.47:784][408]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.03.19-02.55.47:784][408]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_MainLevel
+[2025.03.19-02.55.47:784][408]LogWorld: UWorld::CleanupWorld for MainLevel, bSessionEnded=true, bCleanupResources=true
+[2025.03.19-02.55.47:785][408]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.03.19-02.55.47:789][408]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.03.19-02.55.47:793][408]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.03.19-02.55.47:810][408]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.03.19-02.55.47:810][408]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 17
+[2025.03.19-02.55.47:810][408]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=17
+[2025.03.19-02.55.47:813][408]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=17
+[2025.03.19-02.55.47:819][408]LogUObjectHash: Compacting FUObjectHashTables data took   0.89ms
+[2025.03.19-02.55.47:864][409]LogPlayLevel: Display: Destroying online subsystem :Context_24
+[2025.03.19-02.55.52:235][918]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.03.19-02.55.52:270][918]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/MainLevel" FILE="../../../../../../Repos/Unreal/MissileCommandUE5/MissileCommand/Content/Maps/MainLevel.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2025.03.19-02.55.52:307][918]LogUObjectHash: Compacting FUObjectHashTables data took   0.72ms
+[2025.03.19-02.55.52:316][918]LogSavePackage: Moving output files for package: /Game/Maps/MainLevel
+[2025.03.19-02.55.52:317][918]LogSavePackage: Moving '../../../../../../Repos/Unreal/MissileCommandUE5/MissileCommand/Saved/MainLevelDDE177B540DA5F7635D7E0924F1D6ECF.tmp' to '../../../../../../Repos/Unreal/MissileCommandUE5/MissileCommand/Content/Maps/MainLevel.umap'
+[2025.03.19-02.55.52:330][918]LogFileHelpers: Saving map 'MainLevel' took 0.060
+[2025.03.19-02.55.52:337][918]LogFileHelpers: InternalPromptForCheckoutAndSave took 102.117 ms (total: 6.60 sec)
+[2025.03.19-02.55.52:370][918]LogContentValidation: Display: Starting to validate 1 assets
+[2025.03.19-02.55.52:370][918]LogContentValidation: Enabled validators:
+[2025.03.19-02.55.52:370][918]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.03.19-02.55.52:370][918]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.03.19-02.55.52:370][918]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.03.19-02.55.52:370][918]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.03.19-02.55.52:370][918]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.03.19-02.55.52:370][918]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.03.19-02.55.52:370][918]AssetCheck: /Game/Maps/MainLevel Validating asset
+[2025.03.19-02.55.52:912][982]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2025.03.19-02.55.52:921][982]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.03.19-02.55.52:943][982]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_MainLevel
+[2025.03.19-02.55.52:946][982]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002016s)
+[2025.03.19-02.55.52:946][982]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/MainLevel.MainLevel to /Game/Maps/UEDPIE_0_MainLevel.MainLevel (0.002055s)
+[2025.03.19-02.55.52:962][982]LogUObjectHash: Compacting FUObjectHashTables data took   0.73ms
+[2025.03.19-02.55.52:963][982]LogChaosDD: Creating Chaos Debug Draw Scene for world MainLevel
+[2025.03.19-02.55.52:964][982]LogPlayLevel: PIE: World Init took: (0.001059s)
+[2025.03.19-02.55.52:965][982]LogAudio: Display: Creating Audio Device:                 Id: 18, Scope: Unique, Realtime: True
+[2025.03.19-02.55.52:965][982]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.03.19-02.55.52:965][982]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.03.19-02.55.52:965][982]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.03.19-02.55.52:965][982]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.03.19-02.55.52:965][982]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2025.03.19-02.55.52:965][982]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.03.19-02.55.52:965][982]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2025.03.19-02.55.52:965][982]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.03.19-02.55.52:965][982]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.03.19-02.55.52:965][982]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.03.19-02.55.52:965][982]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.03.19-02.55.52:966][982]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.03.19-02.55.52:984][982]LogAudioMixer: Display: Using Audio Hardware Device Headphones (3- Arctis Nova 3)
+[2025.03.19-02.55.52:985][982]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.03.19-02.55.52:985][982]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.03.19-02.55.52:985][982]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.03.19-02.55.52:985][982]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=18
+[2025.03.19-02.55.52:985][982]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=18
+[2025.03.19-02.55.52:987][982]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=18
+[2025.03.19-02.55.52:987][982]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=18
+[2025.03.19-02.55.52:987][982]LogInit: FAudioDevice initialized with ID 18.
+[2025.03.19-02.55.52:987][982]LogAudio: Display: Audio Device (ID: 18) registered with world 'MainLevel'.
+[2025.03.19-02.55.52:987][982]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 18
+[2025.03.19-02.55.52:989][982]LogLoad: Game class is 'BP_GameMode_C'
+[2025.03.19-02.55.52:990][982]LogWorld: Bringing World /Game/Maps/UEDPIE_0_MainLevel.MainLevel up for play (max tick rate 0) at 2025.03.18-22.55.52
+[2025.03.19-02.55.52:990][982]LogGameState: Error: Mixing AGameState with AGameModeBase is not compatible. Change AGameModeBase subclass (BP_GameMode_C) to derive from AGameMode, or make both derive from Base
+[2025.03.19-02.55.52:990][982]LogWorld: Bringing up level for play took: 0.000807
+[2025.03.19-02.55.52:991][982]LogOnline: OSS: Created online subsystem instance for: :Context_25
+[2025.03.19-02.55.52:991][982]LogBlueprintUserMessages: [BP_Pawn_Player_C_0] Hello
+[2025.03.19-02.55.52:991][982]LogBlueprintUserMessages: [BP_Pawn_Player_C_0] Keyboard and Mouse
+[2025.03.19-02.55.52:993][982]PIE: Server logged in
+[2025.03.19-02.55.52:994][982]PIE: Play in editor total start time 0.074 seconds.
+[2025.03.19-02.55.52:994][982]LogEnhancedInput: Warning: A Key Mapping with a blank action has been added! Ignoring the key mapping to 'None'
+[2025.03.19-02.55.56:975][450]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.03.19-02.55.56:975][450]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_MainLevel
+[2025.03.19-02.55.56:975][450]LogWorld: UWorld::CleanupWorld for MainLevel, bSessionEnded=true, bCleanupResources=true
+[2025.03.19-02.55.56:975][450]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.03.19-02.55.56:978][450]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.03.19-02.55.56:981][450]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.03.19-02.55.56:996][450]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.03.19-02.55.56:996][450]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 18
+[2025.03.19-02.55.56:996][450]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=18
+[2025.03.19-02.55.56:998][450]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=18
+[2025.03.19-02.55.57:001][450]LogUObjectHash: Compacting FUObjectHashTables data took   0.74ms
+[2025.03.19-02.55.57:053][452]LogPlayLevel: Display: Destroying online subsystem :Context_25
+[2025.03.19-02.56.06:662][528]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.03.19-02.56.06:722][528]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/MainLevel" FILE="../../../../../../Repos/Unreal/MissileCommandUE5/MissileCommand/Content/Maps/MainLevel.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2025.03.19-02.56.06:758][528]LogUObjectHash: Compacting FUObjectHashTables data took   0.73ms
+[2025.03.19-02.56.06:769][528]LogSavePackage: Moving output files for package: /Game/Maps/MainLevel
+[2025.03.19-02.56.06:769][528]LogSavePackage: Moving '../../../../../../Repos/Unreal/MissileCommandUE5/MissileCommand/Saved/MainLevel362D4CC34A06BD10E014A1ADBFAB26F7.tmp' to '../../../../../../Repos/Unreal/MissileCommandUE5/MissileCommand/Content/Maps/MainLevel.umap'
+[2025.03.19-02.56.06:783][528]LogFileHelpers: Saving map 'MainLevel' took 0.062
+[2025.03.19-02.56.06:791][528]LogFileHelpers: InternalPromptForCheckoutAndSave took 129.213 ms (total: 6.73 sec)
+[2025.03.19-02.56.06:835][528]LogContentValidation: Display: Starting to validate 1 assets
+[2025.03.19-02.56.06:835][528]LogContentValidation: Enabled validators:
+[2025.03.19-02.56.06:835][528]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.03.19-02.56.06:836][528]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.03.19-02.56.06:836][528]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.03.19-02.56.06:836][528]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.03.19-02.56.06:836][528]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.03.19-02.56.06:836][528]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.03.19-02.56.06:836][528]AssetCheck: /Game/Maps/MainLevel Validating asset
+[2025.03.19-02.56.07:805][640]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2025.03.19-02.56.07:813][640]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.03.19-02.56.07:834][640]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_MainLevel
+[2025.03.19-02.56.07:836][640]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001458s)
+[2025.03.19-02.56.07:836][640]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/MainLevel.MainLevel to /Game/Maps/UEDPIE_0_MainLevel.MainLevel (0.001489s)
+[2025.03.19-02.56.07:850][640]LogUObjectHash: Compacting FUObjectHashTables data took   0.73ms
+[2025.03.19-02.56.07:850][640]LogChaosDD: Creating Chaos Debug Draw Scene for world MainLevel
+[2025.03.19-02.56.07:851][640]LogPlayLevel: PIE: World Init took: (0.001083s)
+[2025.03.19-02.56.07:852][640]LogAudio: Display: Creating Audio Device:                 Id: 19, Scope: Unique, Realtime: True
+[2025.03.19-02.56.07:852][640]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.03.19-02.56.07:852][640]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.03.19-02.56.07:852][640]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.03.19-02.56.07:852][640]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.03.19-02.56.07:852][640]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2025.03.19-02.56.07:852][640]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.03.19-02.56.07:852][640]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2025.03.19-02.56.07:852][640]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.03.19-02.56.07:852][640]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.03.19-02.56.07:852][640]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.03.19-02.56.07:852][640]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.03.19-02.56.07:853][640]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.03.19-02.56.07:868][640]LogAudioMixer: Display: Using Audio Hardware Device Headphones (3- Arctis Nova 3)
+[2025.03.19-02.56.07:870][640]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.03.19-02.56.07:870][640]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.03.19-02.56.07:870][640]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.03.19-02.56.07:870][640]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=19
+[2025.03.19-02.56.07:870][640]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=19
+[2025.03.19-02.56.07:872][640]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=19
+[2025.03.19-02.56.07:872][640]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=19
+[2025.03.19-02.56.07:872][640]LogInit: FAudioDevice initialized with ID 19.
+[2025.03.19-02.56.07:872][640]LogAudio: Display: Audio Device (ID: 19) registered with world 'MainLevel'.
+[2025.03.19-02.56.07:872][640]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 19
+[2025.03.19-02.56.07:874][640]LogLoad: Game class is 'BP_GameMode_C'
+[2025.03.19-02.56.07:874][640]LogWorld: Bringing World /Game/Maps/UEDPIE_0_MainLevel.MainLevel up for play (max tick rate 0) at 2025.03.18-22.56.07
+[2025.03.19-02.56.07:875][640]LogGameState: Error: Mixing AGameState with AGameModeBase is not compatible. Change AGameModeBase subclass (BP_GameMode_C) to derive from AGameMode, or make both derive from Base
+[2025.03.19-02.56.07:875][640]LogWorld: Bringing up level for play took: 0.000792
+[2025.03.19-02.56.07:877][640]LogOnline: OSS: Created online subsystem instance for: :Context_26
+[2025.03.19-02.56.07:877][640]LogBlueprintUserMessages: [BP_Pawn_Player_C_0] Hello
+[2025.03.19-02.56.07:877][640]LogBlueprintUserMessages: [BP_Pawn_Player_C_0] Keyboard and Mouse
+[2025.03.19-02.56.07:877][640]PIE: Server logged in
+[2025.03.19-02.56.07:878][640]PIE: Play in editor total start time 0.066 seconds.
+[2025.03.19-02.56.07:880][640]LogEnhancedInput: Warning: A Key Mapping with a blank action has been added! Ignoring the key mapping to 'None'
+[2025.03.19-02.56.13:598][310]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2025.03.19-02.56.14:005][358]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2025.03.19-02.56.14:164][377]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2025.03.19-02.56.16:425][644]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.03.19-02.56.16:425][644]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_MainLevel
+[2025.03.19-02.56.16:425][644]LogWorld: UWorld::CleanupWorld for MainLevel, bSessionEnded=true, bCleanupResources=true
+[2025.03.19-02.56.16:425][644]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.03.19-02.56.16:428][644]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.03.19-02.56.16:431][644]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.03.19-02.56.16:444][644]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.03.19-02.56.16:444][644]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 19
+[2025.03.19-02.56.16:444][644]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=19
+[2025.03.19-02.56.16:446][644]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=19
+[2025.03.19-02.56.16:450][644]LogUObjectHash: Compacting FUObjectHashTables data took   0.73ms
+[2025.03.19-02.56.16:562][645]LogPlayLevel: Display: Destroying online subsystem :Context_26
+[2025.03.19-02.56.23:931][466]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.03.19-02.56.23:986][466]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/MainLevel" FILE="../../../../../../Repos/Unreal/MissileCommandUE5/MissileCommand/Content/Maps/MainLevel.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2025.03.19-02.56.24:024][466]LogUObjectHash: Compacting FUObjectHashTables data took   0.71ms
+[2025.03.19-02.56.24:033][466]LogSavePackage: Moving output files for package: /Game/Maps/MainLevel
+[2025.03.19-02.56.24:033][466]LogSavePackage: Moving '../../../../../../Repos/Unreal/MissileCommandUE5/MissileCommand/Saved/MainLevel4667379C4F6F5F52238A6A9241C38EAF.tmp' to '../../../../../../Repos/Unreal/MissileCommandUE5/MissileCommand/Content/Maps/MainLevel.umap'
+[2025.03.19-02.56.24:048][466]LogFileHelpers: Saving map 'MainLevel' took 0.063
+[2025.03.19-02.56.24:056][466]LogFileHelpers: InternalPromptForCheckoutAndSave took 123.491 ms (total: 6.85 sec)
+[2025.03.19-02.56.24:106][466]LogContentValidation: Display: Starting to validate 1 assets
+[2025.03.19-02.56.24:106][466]LogContentValidation: Enabled validators:
+[2025.03.19-02.56.24:106][466]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.03.19-02.56.24:106][466]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.03.19-02.56.24:106][466]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.03.19-02.56.24:106][466]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.03.19-02.56.24:106][466]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.03.19-02.56.24:106][466]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.03.19-02.56.24:106][466]AssetCheck: /Game/Maps/MainLevel Validating asset
+[2025.03.19-02.56.25:515][628]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.03.19-02.56.25:551][628]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/MainLevel" FILE="../../../../../../Repos/Unreal/MissileCommandUE5/MissileCommand/Content/Maps/MainLevel.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2025.03.19-02.56.25:587][628]LogUObjectHash: Compacting FUObjectHashTables data took   0.43ms
+[2025.03.19-02.56.25:595][628]LogSavePackage: Moving output files for package: /Game/Maps/MainLevel
+[2025.03.19-02.56.25:595][628]LogSavePackage: Moving '../../../../../../Repos/Unreal/MissileCommandUE5/MissileCommand/Saved/MainLevelF96B34B947547B2F3411AA8B5F601BF0.tmp' to '../../../../../../Repos/Unreal/MissileCommandUE5/MissileCommand/Content/Maps/MainLevel.umap'
+[2025.03.19-02.56.25:610][628]LogFileHelpers: Saving map 'MainLevel' took 0.059
+[2025.03.19-02.56.25:616][628]LogFileHelpers: InternalPromptForCheckoutAndSave took 100.085 ms (total: 6.95 sec)
+[2025.03.19-02.56.25:671][628]LogContentValidation: Display: Starting to validate 1 assets
+[2025.03.19-02.56.25:671][628]LogContentValidation: Enabled validators:
+[2025.03.19-02.56.25:671][628]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.03.19-02.56.25:671][628]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.03.19-02.56.25:671][628]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.03.19-02.56.25:671][628]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.03.19-02.56.25:671][628]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.03.19-02.56.25:671][628]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.03.19-02.56.25:671][628]AssetCheck: /Game/Maps/MainLevel Validating asset
+[2025.03.19-02.56.28:930][ 17]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2025.03.19-02.56.28:939][ 17]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.03.19-02.56.28:974][ 17]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_MainLevel
+[2025.03.19-02.56.28:975][ 17]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001564s)
+[2025.03.19-02.56.28:975][ 17]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/MainLevel.MainLevel to /Game/Maps/UEDPIE_0_MainLevel.MainLevel (0.001598s)
+[2025.03.19-02.56.28:994][ 17]LogUObjectHash: Compacting FUObjectHashTables data took   0.96ms
+[2025.03.19-02.56.28:994][ 17]LogChaosDD: Creating Chaos Debug Draw Scene for world MainLevel
+[2025.03.19-02.56.28:996][ 17]LogPlayLevel: PIE: World Init took: (0.001125s)
+[2025.03.19-02.56.28:997][ 17]LogAudio: Display: Creating Audio Device:                 Id: 20, Scope: Unique, Realtime: True
+[2025.03.19-02.56.28:997][ 17]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.03.19-02.56.28:997][ 17]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.03.19-02.56.28:997][ 17]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.03.19-02.56.28:997][ 17]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.03.19-02.56.28:997][ 17]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2025.03.19-02.56.28:997][ 17]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.03.19-02.56.28:997][ 17]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2025.03.19-02.56.28:997][ 17]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.03.19-02.56.28:997][ 17]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.03.19-02.56.28:997][ 17]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.03.19-02.56.28:997][ 17]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.03.19-02.56.28:999][ 17]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.03.19-02.56.29:017][ 17]LogAudioMixer: Display: Using Audio Hardware Device Headphones (3- Arctis Nova 3)
+[2025.03.19-02.56.29:017][ 17]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.03.19-02.56.29:017][ 17]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.03.19-02.56.29:017][ 17]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.03.19-02.56.29:018][ 17]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=20
+[2025.03.19-02.56.29:018][ 17]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=20
+[2025.03.19-02.56.29:020][ 17]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=20
+[2025.03.19-02.56.29:020][ 17]LogInit: FAudioDevice initialized with ID 20.
+[2025.03.19-02.56.29:020][ 17]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=20
+[2025.03.19-02.56.29:020][ 17]LogAudio: Display: Audio Device (ID: 20) registered with world 'MainLevel'.
+[2025.03.19-02.56.29:020][ 17]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 20
+[2025.03.19-02.56.29:021][ 17]LogLoad: Game class is 'BP_GameMode_C'
+[2025.03.19-02.56.29:023][ 17]LogWorld: Bringing World /Game/Maps/UEDPIE_0_MainLevel.MainLevel up for play (max tick rate 0) at 2025.03.18-22.56.29
+[2025.03.19-02.56.29:023][ 17]LogGameState: Error: Mixing AGameState with AGameModeBase is not compatible. Change AGameModeBase subclass (BP_GameMode_C) to derive from AGameMode, or make both derive from Base
+[2025.03.19-02.56.29:023][ 17]LogWorld: Bringing up level for play took: 0.000773
+[2025.03.19-02.56.29:025][ 17]LogOnline: OSS: Created online subsystem instance for: :Context_27
+[2025.03.19-02.56.29:025][ 17]LogBlueprintUserMessages: [BP_Pawn_Player_C_0] Hello
+[2025.03.19-02.56.29:025][ 17]LogBlueprintUserMessages: [BP_Pawn_Player_C_0] Keyboard and Mouse
+[2025.03.19-02.56.29:026][ 17]PIE: Server logged in
+[2025.03.19-02.56.29:027][ 17]PIE: Play in editor total start time 0.088 seconds.
+[2025.03.19-02.56.29:028][ 17]LogEnhancedInput: Warning: A Key Mapping with a blank action has been added! Ignoring the key mapping to 'None'
+[2025.03.19-02.56.34:876][693]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2025.03.19-02.56.35:093][719]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2025.03.19-02.56.35:243][737]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2025.03.19-02.56.35:460][763]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2025.03.19-02.56.37:321][957]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2025.03.19-02.56.37:470][975]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2025.03.19-02.56.37:638][995]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2025.03.19-02.56.37:830][ 18]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2025.03.19-02.56.41:754][445]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.03.19-02.56.41:754][445]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_MainLevel
+[2025.03.19-02.56.41:754][445]LogWorld: UWorld::CleanupWorld for MainLevel, bSessionEnded=true, bCleanupResources=true
+[2025.03.19-02.56.41:754][445]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.03.19-02.56.41:758][445]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.03.19-02.56.41:762][445]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.03.19-02.56.41:777][445]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2025.03.19-02.56.41:777][445]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 20
+[2025.03.19-02.56.41:777][445]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=20
+[2025.03.19-02.56.41:779][445]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=20
+[2025.03.19-02.56.41:783][445]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.03.19-02.56.41:785][445]LogUObjectHash: Compacting FUObjectHashTables data took   0.91ms
+[2025.03.19-02.56.41:905][446]LogPlayLevel: Display: Destroying online subsystem :Context_27
+[2025.03.19-02.56.49:843][343]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.03.19-02.56.49:905][343]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/MainLevel" FILE="../../../../../../Repos/Unreal/MissileCommandUE5/MissileCommand/Content/Maps/MainLevel.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2025.03.19-02.56.49:941][343]LogUObjectHash: Compacting FUObjectHashTables data took   0.36ms
+[2025.03.19-02.56.49:951][343]LogSavePackage: Moving output files for package: /Game/Maps/MainLevel
+[2025.03.19-02.56.49:952][343]LogSavePackage: Moving '../../../../../../Repos/Unreal/MissileCommandUE5/MissileCommand/Saved/MainLevel8F24DB2741D6A8D1FB08C08005730430.tmp' to '../../../../../../Repos/Unreal/MissileCommandUE5/MissileCommand/Content/Maps/MainLevel.umap'
+[2025.03.19-02.56.49:965][343]LogFileHelpers: Saving map 'MainLevel' took 0.060
+[2025.03.19-02.56.49:972][343]LogFileHelpers: InternalPromptForCheckoutAndSave took 128.656 ms (total: 7.08 sec)
+[2025.03.19-02.56.50:025][343]LogContentValidation: Display: Starting to validate 1 assets
+[2025.03.19-02.56.50:025][343]LogContentValidation: Enabled validators:
+[2025.03.19-02.56.50:025][343]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.03.19-02.56.50:025][343]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.03.19-02.56.50:025][343]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.03.19-02.56.50:025][343]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.03.19-02.56.50:025][343]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.03.19-02.56.50:025][343]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.03.19-02.56.50:025][343]AssetCheck: /Game/Maps/MainLevel Validating asset
+[2025.03.19-02.57.01:799][718]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.03.19-02.57.01:854][718]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/MainLevel" FILE="../../../../../../Repos/Unreal/MissileCommandUE5/MissileCommand/Content/Maps/MainLevel.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2025.03.19-02.57.01:892][718]LogUObjectHash: Compacting FUObjectHashTables data took   0.38ms
+[2025.03.19-02.57.01:900][718]LogSavePackage: Moving output files for package: /Game/Maps/MainLevel
+[2025.03.19-02.57.01:901][718]LogSavePackage: Moving '../../../../../../Repos/Unreal/MissileCommandUE5/MissileCommand/Saved/MainLevel2491A7C14AF7A878B0B003AEAB5ECF5D.tmp' to '../../../../../../Repos/Unreal/MissileCommandUE5/MissileCommand/Content/Maps/MainLevel.umap'
+[2025.03.19-02.57.01:914][718]LogFileHelpers: Saving map 'MainLevel' took 0.060
+[2025.03.19-02.57.01:922][718]LogFileHelpers: InternalPromptForCheckoutAndSave took 122.840 ms (total: 7.20 sec)
+[2025.03.19-02.57.01:973][718]LogContentValidation: Display: Starting to validate 1 assets
+[2025.03.19-02.57.01:973][718]LogContentValidation: Enabled validators:
+[2025.03.19-02.57.01:973][718]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.03.19-02.57.01:973][718]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.03.19-02.57.01:973][718]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.03.19-02.57.01:973][718]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.03.19-02.57.01:973][718]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.03.19-02.57.01:973][718]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.03.19-02.57.01:973][718]AssetCheck: /Game/Maps/MainLevel Validating asset
+[2025.03.19-02.57.02:995][835]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2025.03.19-02.57.03:002][835]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.03.19-02.57.03:023][835]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_MainLevel
+[2025.03.19-02.57.03:025][835]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001442s)
+[2025.03.19-02.57.03:025][835]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/MainLevel.MainLevel to /Game/Maps/UEDPIE_0_MainLevel.MainLevel (0.001473s)
+[2025.03.19-02.57.03:041][835]LogUObjectHash: Compacting FUObjectHashTables data took   0.76ms
+[2025.03.19-02.57.03:041][835]LogChaosDD: Creating Chaos Debug Draw Scene for world MainLevel
+[2025.03.19-02.57.03:043][835]LogPlayLevel: PIE: World Init took: (0.001083s)
+[2025.03.19-02.57.03:043][835]LogAudio: Display: Creating Audio Device:                 Id: 21, Scope: Unique, Realtime: True
+[2025.03.19-02.57.03:043][835]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.03.19-02.57.03:043][835]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.03.19-02.57.03:043][835]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.03.19-02.57.03:043][835]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.03.19-02.57.03:043][835]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2025.03.19-02.57.03:043][835]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.03.19-02.57.03:043][835]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2025.03.19-02.57.03:043][835]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.03.19-02.57.03:043][835]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.03.19-02.57.03:043][835]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.03.19-02.57.03:043][835]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.03.19-02.57.03:045][835]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.03.19-02.57.03:063][835]LogAudioMixer: Display: Using Audio Hardware Device Headphones (3- Arctis Nova 3)
+[2025.03.19-02.57.03:063][835]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.03.19-02.57.03:063][835]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.03.19-02.57.03:063][835]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.03.19-02.57.03:064][835]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=21
+[2025.03.19-02.57.03:064][835]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=21
+[2025.03.19-02.57.03:065][835]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=21
+[2025.03.19-02.57.03:065][835]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=21
+[2025.03.19-02.57.03:065][835]LogInit: FAudioDevice initialized with ID 21.
+[2025.03.19-02.57.03:065][835]LogAudio: Display: Audio Device (ID: 21) registered with world 'MainLevel'.
+[2025.03.19-02.57.03:065][835]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 21
+[2025.03.19-02.57.03:067][835]LogLoad: Game class is 'BP_GameMode_C'
+[2025.03.19-02.57.03:068][835]LogWorld: Bringing World /Game/Maps/UEDPIE_0_MainLevel.MainLevel up for play (max tick rate 0) at 2025.03.18-22.57.03
+[2025.03.19-02.57.03:068][835]LogGameState: Error: Mixing AGameState with AGameModeBase is not compatible. Change AGameModeBase subclass (BP_GameMode_C) to derive from AGameMode, or make both derive from Base
+[2025.03.19-02.57.03:068][835]LogWorld: Bringing up level for play took: 0.000735
+[2025.03.19-02.57.03:070][835]LogOnline: OSS: Created online subsystem instance for: :Context_28
+[2025.03.19-02.57.03:070][835]LogBlueprintUserMessages: [BP_Pawn_Player_C_0] Hello
+[2025.03.19-02.57.03:070][835]LogBlueprintUserMessages: [BP_Pawn_Player_C_0] Keyboard and Mouse
+[2025.03.19-02.57.03:070][835]PIE: Server logged in
+[2025.03.19-02.57.03:072][835]PIE: Play in editor total start time 0.07 seconds.
+[2025.03.19-02.57.03:073][835]LogEnhancedInput: Warning: A Key Mapping with a blank action has been added! Ignoring the key mapping to 'None'
+[2025.03.19-02.57.24:723][273]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.03.19-02.57.24:723][273]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_MainLevel
+[2025.03.19-02.57.24:724][273]LogWorld: UWorld::CleanupWorld for MainLevel, bSessionEnded=true, bCleanupResources=true
+[2025.03.19-02.57.24:724][273]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.03.19-02.57.24:727][273]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.03.19-02.57.24:732][273]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.03.19-02.57.24:745][273]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.03.19-02.57.24:746][273]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 21
+[2025.03.19-02.57.24:746][273]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=21
+[2025.03.19-02.57.24:747][273]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=21
+[2025.03.19-02.57.24:751][273]LogUObjectHash: Compacting FUObjectHashTables data took   0.74ms
+[2025.03.19-02.57.24:792][276]LogPlayLevel: Display: Destroying online subsystem :Context_28
+[2025.03.19-02.57.26:061][400]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.03.19-02.57.26:101][400]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/MainLevel" FILE="../../../../../../Repos/Unreal/MissileCommandUE5/MissileCommand/Content/Maps/MainLevel.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2025.03.19-02.57.26:138][400]LogUObjectHash: Compacting FUObjectHashTables data took   0.81ms
+[2025.03.19-02.57.26:147][400]LogSavePackage: Moving output files for package: /Game/Maps/MainLevel
+[2025.03.19-02.57.26:147][400]LogSavePackage: Moving '../../../../../../Repos/Unreal/MissileCommandUE5/MissileCommand/Saved/MainLevelE38D7EC24E9B899363C1CDA5D910AC99.tmp' to '../../../../../../Repos/Unreal/MissileCommandUE5/MissileCommand/Content/Maps/MainLevel.umap'
+[2025.03.19-02.57.26:162][400]LogFileHelpers: Saving map 'MainLevel' took 0.061
+[2025.03.19-02.57.26:167][400]LogFileHelpers: InternalPromptForCheckoutAndSave took 107.742 ms (total: 7.31 sec)
+[2025.03.19-02.57.26:203][400]LogContentValidation: Display: Starting to validate 1 assets
+[2025.03.19-02.57.26:203][400]LogContentValidation: Enabled validators:
+[2025.03.19-02.57.26:203][400]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.03.19-02.57.26:203][400]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.03.19-02.57.26:203][400]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.03.19-02.57.26:203][400]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.03.19-02.57.26:203][400]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.03.19-02.57.26:203][400]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.03.19-02.57.26:203][400]AssetCheck: /Game/Maps/MainLevel Validating asset
+[2025.03.19-02.57.32:334][117]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.03.19-02.57.32:385][117]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/MainLevel" FILE="../../../../../../Repos/Unreal/MissileCommandUE5/MissileCommand/Content/Maps/MainLevel.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2025.03.19-02.57.32:423][117]LogUObjectHash: Compacting FUObjectHashTables data took   0.36ms
+[2025.03.19-02.57.32:431][117]LogSavePackage: Moving output files for package: /Game/Maps/MainLevel
+[2025.03.19-02.57.32:433][117]LogSavePackage: Moving '../../../../../../Repos/Unreal/MissileCommandUE5/MissileCommand/Saved/MainLevel2B8331C5493BFC89F37283B3B1B8D242.tmp' to '../../../../../../Repos/Unreal/MissileCommandUE5/MissileCommand/Content/Maps/MainLevel.umap'
+[2025.03.19-02.57.32:446][117]LogFileHelpers: Saving map 'MainLevel' took 0.062
+[2025.03.19-02.57.32:453][117]LogFileHelpers: InternalPromptForCheckoutAndSave took 119.102 ms (total: 7.43 sec)
+[2025.03.19-02.57.32:500][117]LogContentValidation: Display: Starting to validate 1 assets
+[2025.03.19-02.57.32:500][117]LogContentValidation: Enabled validators:
+[2025.03.19-02.57.32:501][117]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.03.19-02.57.32:501][117]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.03.19-02.57.32:501][117]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.03.19-02.57.32:501][117]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.03.19-02.57.32:501][117]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.03.19-02.57.32:501][117]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.03.19-02.57.32:501][117]AssetCheck: /Game/Maps/MainLevel Validating asset
+[2025.03.19-02.57.32:529][119]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.03.19-02.57.32:567][119]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/MainLevel" FILE="../../../../../../Repos/Unreal/MissileCommandUE5/MissileCommand/Content/Maps/MainLevel.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2025.03.19-02.57.32:606][119]LogUObjectHash: Compacting FUObjectHashTables data took   0.35ms
+[2025.03.19-02.57.32:614][119]LogSavePackage: Moving output files for package: /Game/Maps/MainLevel
+[2025.03.19-02.57.32:615][119]LogSavePackage: Moving '../../../../../../Repos/Unreal/MissileCommandUE5/MissileCommand/Saved/MainLevelF789F5D1474587C030102BA7A6485B15.tmp' to '../../../../../../Repos/Unreal/MissileCommandUE5/MissileCommand/Content/Maps/MainLevel.umap'
+[2025.03.19-02.57.32:627][119]LogFileHelpers: Saving map 'MainLevel' took 0.062
+[2025.03.19-02.57.32:635][119]LogFileHelpers: InternalPromptForCheckoutAndSave took 105.693 ms (total: 7.54 sec)
+[2025.03.19-02.57.32:684][119]LogContentValidation: Display: Starting to validate 1 assets
+[2025.03.19-02.57.32:684][119]LogContentValidation: Enabled validators:
+[2025.03.19-02.57.32:685][119]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.03.19-02.57.32:685][119]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.03.19-02.57.32:685][119]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.03.19-02.57.32:685][119]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.03.19-02.57.32:685][119]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.03.19-02.57.32:685][119]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.03.19-02.57.32:685][119]AssetCheck: /Game/Maps/MainLevel Validating asset

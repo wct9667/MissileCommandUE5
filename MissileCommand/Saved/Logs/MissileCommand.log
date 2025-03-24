@@ -5271,3 +5271,341 @@ Sampler Limit: 32
 [2025.03.24-18.50.08:194][582]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
 [2025.03.24-18.50.08:194][582]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
 [2025.03.24-18.50.08:194][582]AssetCheck: /Game/Maps/MainLevel Validating asset
+[2025.03.24-18.51.38:168][422]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/BP_MissileSilo.BP_MissileSilo
+[2025.03.24-18.51.38:168][422]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_6
+[2025.03.24-18.52.31:496][396]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/BP/BP_Player_Missile.BP_Player_Missile
+[2025.03.24-18.52.31:497][396]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_7
+[2025.03.24-18.53.45:760][742]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.03.24-18.53.45:820][742]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/BP/BP_Player_Missile] ([2] browsable assets)...
+[2025.03.24-18.53.45:820][742]OBJ SavePackage: Finished generating thumbnails for package [/Game/BP/BP_Player_Missile]
+[2025.03.24-18.53.45:820][742]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BP/BP_Player_Missile" FILE="../../../../../../Repos/Unreal/MissileCommandUE5/MissileCommand/Content/BP/BP_Player_Missile.uasset" SILENT=true
+[2025.03.24-18.53.45:831][742]LogSavePackage: Moving output files for package: /Game/BP/BP_Player_Missile
+[2025.03.24-18.53.45:831][742]LogSavePackage: Moving '../../../../../../Repos/Unreal/MissileCommandUE5/MissileCommand/Saved/BP_Player_Missile44DBEA7A42E93A0762DBF6BF2E928879.tmp' to '../../../../../../Repos/Unreal/MissileCommandUE5/MissileCommand/Content/BP/BP_Player_Missile.uasset'
+[2025.03.24-18.53.45:841][742]LogFileHelpers: InternalPromptForCheckoutAndSave took 79.886 ms (total: 2.45 sec)
+[2025.03.24-18.53.45:905][742]LogContentValidation: Display: Starting to validate 1 assets
+[2025.03.24-18.53.45:905][742]LogContentValidation: Enabled validators:
+[2025.03.24-18.53.45:905][742]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.03.24-18.53.45:905][742]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.03.24-18.53.45:905][742]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.03.24-18.53.45:905][742]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.03.24-18.53.45:905][742]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.03.24-18.53.45:905][742]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.03.24-18.53.45:905][742]AssetCheck: /Game/BP/BP_Player_Missile Validating asset
+[2025.03.24-18.53.52:033][341]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.03.24-18.53.52:084][341]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/BP/BP_Player_Missile] ([2] browsable assets)...
+[2025.03.24-18.53.52:084][341]OBJ SavePackage: Finished generating thumbnails for package [/Game/BP/BP_Player_Missile]
+[2025.03.24-18.53.52:084][341]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BP/BP_Player_Missile" FILE="../../../../../../Repos/Unreal/MissileCommandUE5/MissileCommand/Content/BP/BP_Player_Missile.uasset" SILENT=true
+[2025.03.24-18.53.52:094][341]LogSavePackage: Moving output files for package: /Game/BP/BP_Player_Missile
+[2025.03.24-18.53.52:095][341]LogSavePackage: Moving '../../../../../../Repos/Unreal/MissileCommandUE5/MissileCommand/Saved/BP_Player_MissileA59E2B454B7F515C26DFE097FAF705B5.tmp' to '../../../../../../Repos/Unreal/MissileCommandUE5/MissileCommand/Content/BP/BP_Player_Missile.uasset'
+[2025.03.24-18.53.52:106][341]LogFileHelpers: InternalPromptForCheckoutAndSave took 73.480 ms (total: 2.53 sec)
+[2025.03.24-18.53.52:150][341]LogContentValidation: Display: Starting to validate 1 assets
+[2025.03.24-18.53.52:150][341]LogContentValidation: Enabled validators:
+[2025.03.24-18.53.52:150][341]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.03.24-18.53.52:150][341]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.03.24-18.53.52:150][341]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.03.24-18.53.52:150][341]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.03.24-18.53.52:150][341]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.03.24-18.53.52:150][341]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.03.24-18.53.52:150][341]AssetCheck: /Game/BP/BP_Player_Missile Validating asset
+[2025.03.24-18.53.52:217][343]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.03.24-18.53.52:251][343]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/BP/BP_Player_Missile] ([2] browsable assets)...
+[2025.03.24-18.53.52:251][343]OBJ SavePackage: Finished generating thumbnails for package [/Game/BP/BP_Player_Missile]
+[2025.03.24-18.53.52:251][343]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BP/BP_Player_Missile" FILE="../../../../../../Repos/Unreal/MissileCommandUE5/MissileCommand/Content/BP/BP_Player_Missile.uasset" SILENT=true
+[2025.03.24-18.53.52:261][343]LogSavePackage: Moving output files for package: /Game/BP/BP_Player_Missile
+[2025.03.24-18.53.52:261][343]LogSavePackage: Moving '../../../../../../Repos/Unreal/MissileCommandUE5/MissileCommand/Saved/BP_Player_Missile21F61CF9471CEDCFD10593A4812894F3.tmp' to '../../../../../../Repos/Unreal/MissileCommandUE5/MissileCommand/Content/BP/BP_Player_Missile.uasset'
+[2025.03.24-18.53.52:270][343]LogFileHelpers: InternalPromptForCheckoutAndSave took 53.163 ms (total: 2.58 sec)
+[2025.03.24-18.53.52:317][343]LogContentValidation: Display: Starting to validate 1 assets
+[2025.03.24-18.53.52:317][343]LogContentValidation: Enabled validators:
+[2025.03.24-18.53.52:317][343]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.03.24-18.53.52:317][343]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.03.24-18.53.52:317][343]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.03.24-18.53.52:317][343]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.03.24-18.53.52:317][343]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.03.24-18.53.52:317][343]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.03.24-18.53.52:317][343]AssetCheck: /Game/BP/BP_Player_Missile Validating asset
+[2025.03.24-18.55.00:772][462]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.03.24-18.55.00:838][462]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/BP/BP_Player_Missile] ([2] browsable assets)...
+[2025.03.24-18.55.00:838][462]OBJ SavePackage: Finished generating thumbnails for package [/Game/BP/BP_Player_Missile]
+[2025.03.24-18.55.00:838][462]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BP/BP_Player_Missile" FILE="../../../../../../Repos/Unreal/MissileCommandUE5/MissileCommand/Content/BP/BP_Player_Missile.uasset" SILENT=true
+[2025.03.24-18.55.00:848][462]LogSavePackage: Moving output files for package: /Game/BP/BP_Player_Missile
+[2025.03.24-18.55.00:850][462]LogSavePackage: Moving '../../../../../../Repos/Unreal/MissileCommandUE5/MissileCommand/Saved/BP_Player_Missile7C519EBE4C68B2040CFD618FF8BF465E.tmp' to '../../../../../../Repos/Unreal/MissileCommandUE5/MissileCommand/Content/BP/BP_Player_Missile.uasset'
+[2025.03.24-18.55.00:859][462]LogFileHelpers: InternalPromptForCheckoutAndSave took 86.357 ms (total: 2.66 sec)
+[2025.03.24-18.55.00:920][462]LogContentValidation: Display: Starting to validate 1 assets
+[2025.03.24-18.55.00:920][462]LogContentValidation: Enabled validators:
+[2025.03.24-18.55.00:920][462]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.03.24-18.55.00:920][462]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.03.24-18.55.00:920][462]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.03.24-18.55.00:920][462]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.03.24-18.55.00:920][462]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.03.24-18.55.00:920][462]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.03.24-18.55.00:920][462]AssetCheck: /Game/BP/BP_Player_Missile Validating asset
+[2025.03.24-18.55.20:716][610]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 1690.129639
+[2025.03.24-18.55.20:799][619]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.03.24-18.55.20:799][619]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 1690.203613, Update Interval: 334.430359
+[2025.03.24-18.56.16:649][499]LogUObjectHash: Compacting FUObjectHashTables data took   0.93ms
+[2025.03.24-18.56.25:564][210]LogSlate: Window 'Pick Parent Class' being destroyed
+[2025.03.24-18.56.25:571][210]LogContentBrowser: Deferred new asset file creation: NewBlueprint
+[2025.03.24-18.56.25:576][210]LogContentBrowser: Creating deferred item: NewBlueprint
+[2025.03.24-18.56.25:586][211]LogContentBrowser: Renaming the item being created (Deferred Item: NewBlueprint).
+[2025.03.24-18.56.44:652][492]LogContentBrowser: Attempting asset rename: NewBlueprint -> BP_Missile_FireBall
+[2025.03.24-18.56.44:666][492]LogContentBrowser: End creating deferred item NewBlueprint
+[2025.03.24-18.56.54:692][686]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.03.24-18.56.54:730][686]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/MainLevel" FILE="../../../../../../Repos/Unreal/MissileCommandUE5/MissileCommand/Content/Maps/MainLevel.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2025.03.24-18.56.54:768][686]LogUObjectHash: Compacting FUObjectHashTables data took   0.78ms
+[2025.03.24-18.56.54:777][686]LogSavePackage: Moving output files for package: /Game/Maps/MainLevel
+[2025.03.24-18.56.54:777][686]LogSavePackage: Moving '../../../../../../Repos/Unreal/MissileCommandUE5/MissileCommand/Saved/MainLevelBB9C01FA4A01B05027053FA8A0F30D0B.tmp' to '../../../../../../Repos/Unreal/MissileCommandUE5/MissileCommand/Content/Maps/MainLevel.umap'
+[2025.03.24-18.56.54:791][686]LogFileHelpers: Saving map 'MainLevel' took 0.062
+[2025.03.24-18.56.54:799][686]LogFileHelpers: InternalPromptForCheckoutAndSave took 106.182 ms (total: 2.77 sec)
+[2025.03.24-18.56.54:831][686]LogContentValidation: Display: Starting to validate 1 assets
+[2025.03.24-18.56.54:831][686]LogContentValidation: Enabled validators:
+[2025.03.24-18.56.54:831][686]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.03.24-18.56.54:831][686]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.03.24-18.56.54:831][686]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.03.24-18.56.54:831][686]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.03.24-18.56.54:831][686]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.03.24-18.56.54:831][686]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.03.24-18.56.54:831][686]AssetCheck: /Game/Maps/MainLevel Validating asset
+[2025.03.24-18.58.15:778][397]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.03.24-18.58.15:813][397]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/MainLevel" FILE="../../../../../../Repos/Unreal/MissileCommandUE5/MissileCommand/Content/Maps/MainLevel.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2025.03.24-18.58.15:851][397]LogUObjectHash: Compacting FUObjectHashTables data took   0.40ms
+[2025.03.24-18.58.15:859][397]LogSavePackage: Moving output files for package: /Game/Maps/MainLevel
+[2025.03.24-18.58.15:860][397]LogSavePackage: Moving '../../../../../../Repos/Unreal/MissileCommandUE5/MissileCommand/Saved/MainLevel1716236F4910D2AD9AEC39AA9553F521.tmp' to '../../../../../../Repos/Unreal/MissileCommandUE5/MissileCommand/Content/Maps/MainLevel.umap'
+[2025.03.24-18.58.15:873][397]LogFileHelpers: Saving map 'MainLevel' took 0.060
+[2025.03.24-18.58.15:880][397]LogFileHelpers: InternalPromptForCheckoutAndSave took 102.645 ms (total: 2.87 sec)
+[2025.03.24-18.58.15:911][397]LogContentValidation: Display: Starting to validate 1 assets
+[2025.03.24-18.58.15:911][397]LogContentValidation: Enabled validators:
+[2025.03.24-18.58.15:911][397]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.03.24-18.58.15:911][397]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.03.24-18.58.15:911][397]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.03.24-18.58.15:911][397]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.03.24-18.58.15:911][397]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.03.24-18.58.15:911][397]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.03.24-18.58.15:911][397]AssetCheck: /Game/Maps/MainLevel Validating asset
+[2025.03.24-18.58.15:999][407]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.03.24-18.58.16:049][407]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/MainLevel" FILE="../../../../../../Repos/Unreal/MissileCommandUE5/MissileCommand/Content/Maps/MainLevel.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2025.03.24-18.58.16:086][407]LogUObjectHash: Compacting FUObjectHashTables data took   0.45ms
+[2025.03.24-18.58.16:095][407]LogSavePackage: Moving output files for package: /Game/Maps/MainLevel
+[2025.03.24-18.58.16:095][407]LogSavePackage: Moving '../../../../../../Repos/Unreal/MissileCommandUE5/MissileCommand/Saved/MainLevelA496295B4B1E7F9FFF6C988A548EB5DC.tmp' to '../../../../../../Repos/Unreal/MissileCommandUE5/MissileCommand/Content/Maps/MainLevel.umap'
+[2025.03.24-18.58.16:109][407]LogFileHelpers: Saving map 'MainLevel' took 0.060
+[2025.03.24-18.58.16:116][407]LogFileHelpers: InternalPromptForCheckoutAndSave took 115.864 ms (total: 2.99 sec)
+[2025.03.24-18.58.16:160][407]LogContentValidation: Display: Starting to validate 1 assets
+[2025.03.24-18.58.16:160][407]LogContentValidation: Enabled validators:
+[2025.03.24-18.58.16:160][407]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.03.24-18.58.16:160][407]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.03.24-18.58.16:160][407]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.03.24-18.58.16:160][407]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.03.24-18.58.16:160][407]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.03.24-18.58.16:160][407]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.03.24-18.58.16:160][407]AssetCheck: /Game/Maps/MainLevel Validating asset
+[2025.03.24-18.58.57:746][388]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.03.24-18.58.57:797][388]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/MainLevel" FILE="../../../../../../Repos/Unreal/MissileCommandUE5/MissileCommand/Content/Maps/MainLevel.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2025.03.24-18.58.57:833][388]LogUObjectHash: Compacting FUObjectHashTables data took   0.34ms
+[2025.03.24-18.58.57:842][388]LogSavePackage: Moving output files for package: /Game/Maps/MainLevel
+[2025.03.24-18.58.57:842][388]LogSavePackage: Moving '../../../../../../Repos/Unreal/MissileCommandUE5/MissileCommand/Saved/MainLevelFE1369FC46203ABBC60379A2E59FB255.tmp' to '../../../../../../Repos/Unreal/MissileCommandUE5/MissileCommand/Content/Maps/MainLevel.umap'
+[2025.03.24-18.58.57:855][388]LogFileHelpers: Saving map 'MainLevel' took 0.059
+[2025.03.24-18.58.57:870][388]LogFileHelpers: InternalPromptForCheckoutAndSave took 123.549 ms (total: 3.11 sec)
+[2025.03.24-18.58.57:930][388]LogContentValidation: Display: Starting to validate 1 assets
+[2025.03.24-18.58.57:930][388]LogContentValidation: Enabled validators:
+[2025.03.24-18.58.57:930][388]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.03.24-18.58.57:930][388]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.03.24-18.58.57:930][388]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.03.24-18.58.57:930][388]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.03.24-18.58.57:930][388]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.03.24-18.58.57:930][388]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.03.24-18.58.57:930][388]AssetCheck: /Game/Maps/MainLevel Validating asset
+[2025.03.24-18.59.00:710][712]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/BP/BP_Missile_FireBall.BP_Missile_FireBall
+[2025.03.24-18.59.00:710][712]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_8
+[2025.03.24-18.59.01:504][758]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.03.24-18.59.01:544][758]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/BP/BP_Missile_FireBall] ([2] browsable assets)...
+[2025.03.24-18.59.01:544][758]OBJ SavePackage: Finished generating thumbnails for package [/Game/BP/BP_Missile_FireBall]
+[2025.03.24-18.59.01:544][758]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BP/BP_Missile_FireBall" FILE="../../../../../../Repos/Unreal/MissileCommandUE5/MissileCommand/Content/BP/BP_Missile_FireBall.uasset" SILENT=true
+[2025.03.24-18.59.01:548][758]LogSavePackage: Moving output files for package: /Game/BP/BP_Missile_FireBall
+[2025.03.24-18.59.01:548][758]LogSavePackage: Moving '../../../../../../Repos/Unreal/MissileCommandUE5/MissileCommand/Saved/BP_Missile_FireBall8B3AD0994FADECD14D3E07993987B805.tmp' to '../../../../../../Repos/Unreal/MissileCommandUE5/MissileCommand/Content/BP/BP_Missile_FireBall.uasset'
+[2025.03.24-18.59.01:558][758]LogFileHelpers: InternalPromptForCheckoutAndSave took 54.998 ms (total: 3.17 sec)
+[2025.03.24-18.59.01:613][758]LogContentValidation: Display: Starting to validate 1 assets
+[2025.03.24-18.59.01:613][758]LogContentValidation: Enabled validators:
+[2025.03.24-18.59.01:613][758]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.03.24-18.59.01:613][758]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.03.24-18.59.01:613][758]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.03.24-18.59.01:613][758]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.03.24-18.59.01:613][758]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.03.24-18.59.01:613][758]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.03.24-18.59.01:613][758]AssetCheck: /Game/BP/BP_Missile_FireBall Validating asset
+[2025.03.24-18.59.01:888][785]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.03.24-18.59.01:949][785]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/BP/BP_Missile_FireBall] ([2] browsable assets)...
+[2025.03.24-18.59.01:949][785]OBJ SavePackage: Finished generating thumbnails for package [/Game/BP/BP_Missile_FireBall]
+[2025.03.24-18.59.01:949][785]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BP/BP_Missile_FireBall" FILE="../../../../../../Repos/Unreal/MissileCommandUE5/MissileCommand/Content/BP/BP_Missile_FireBall.uasset" SILENT=true
+[2025.03.24-18.59.01:953][785]LogSavePackage: Moving output files for package: /Game/BP/BP_Missile_FireBall
+[2025.03.24-18.59.01:953][785]LogSavePackage: Moving '../../../../../../Repos/Unreal/MissileCommandUE5/MissileCommand/Saved/BP_Missile_FireBall1C6E57354919A8418A0111B97D4E0B85.tmp' to '../../../../../../Repos/Unreal/MissileCommandUE5/MissileCommand/Content/BP/BP_Missile_FireBall.uasset'
+[2025.03.24-18.59.01:962][785]LogFileHelpers: InternalPromptForCheckoutAndSave took 73.418 ms (total: 3.24 sec)
+[2025.03.24-18.59.01:993][785]LogContentValidation: Display: Starting to validate 1 assets
+[2025.03.24-18.59.01:993][785]LogContentValidation: Enabled validators:
+[2025.03.24-18.59.01:993][785]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.03.24-18.59.01:993][785]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.03.24-18.59.01:993][785]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.03.24-18.59.01:993][785]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.03.24-18.59.01:993][785]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.03.24-18.59.01:993][785]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.03.24-18.59.01:993][785]AssetCheck: /Game/BP/BP_Missile_FireBall Validating asset
+[2025.03.24-18.59.10:340][723]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_9
+[2025.03.24-18.59.16:749][256]LogPhysics: Warning: Scale for /Engine/Transient.World_8:PersistentLevel.BP_Missile_FireBall_C_0.Sphere has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2025.03.24-18.59.16:749][256]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: BP_Missile_FireBall_C_0 /Engine/Transient.World_8:PersistentLevel.BP_Missile_FireBall_C_0.Sphere 
+[2025.03.24-18.59.16:750][256]LogPhysics: Warning: Scale for /Engine/Transient.World_8:PersistentLevel.BP_Missile_FireBall_C_0.Sphere has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2025.03.24-18.59.16:750][256]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: BP_Missile_FireBall_C_0 /Engine/Transient.World_8:PersistentLevel.BP_Missile_FireBall_C_0.Sphere 
+[2025.03.24-18.59.16:761][257]LogPhysics: Warning: Scale for /Engine/Transient.World_8:PersistentLevel.BP_Missile_FireBall_C_0.Sphere has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2025.03.24-18.59.16:761][257]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: BP_Missile_FireBall_C_0 /Engine/Transient.World_8:PersistentLevel.BP_Missile_FireBall_C_0.Sphere 
+[2025.03.24-18.59.16:761][257]LogPhysics: Warning: Scale for /Engine/Transient.World_8:PersistentLevel.BP_Missile_FireBall_C_0.Sphere has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2025.03.24-18.59.16:761][257]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: BP_Missile_FireBall_C_0 /Engine/Transient.World_8:PersistentLevel.BP_Missile_FireBall_C_0.Sphere 
+[2025.03.24-18.59.16:761][257]LogPhysics: Warning: Scale for /Engine/Transient.World_8:PersistentLevel.BP_Missile_FireBall_C_0.Sphere has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2025.03.24-18.59.16:761][257]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: BP_Missile_FireBall_C_0 /Engine/Transient.World_8:PersistentLevel.BP_Missile_FireBall_C_0.Sphere 
+[2025.03.24-18.59.16:773][258]LogPhysics: Warning: Scale for /Engine/Transient.World_8:PersistentLevel.BP_Missile_FireBall_C_0.Sphere has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2025.03.24-18.59.16:773][258]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: BP_Missile_FireBall_C_0 /Engine/Transient.World_8:PersistentLevel.BP_Missile_FireBall_C_0.Sphere 
+[2025.03.24-18.59.16:773][258]LogPhysics: Warning: Scale for /Engine/Transient.World_8:PersistentLevel.BP_Missile_FireBall_C_0.Sphere has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2025.03.24-18.59.16:773][258]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: BP_Missile_FireBall_C_0 /Engine/Transient.World_8:PersistentLevel.BP_Missile_FireBall_C_0.Sphere 
+[2025.03.24-18.59.16:773][258]LogPhysics: Warning: Scale for /Engine/Transient.World_8:PersistentLevel.BP_Missile_FireBall_C_0.Sphere has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2025.03.24-18.59.16:773][258]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: BP_Missile_FireBall_C_0 /Engine/Transient.World_8:PersistentLevel.BP_Missile_FireBall_C_0.Sphere 
+[2025.03.24-18.59.16:783][259]LogPhysics: Warning: Scale for /Engine/Transient.World_8:PersistentLevel.BP_Missile_FireBall_C_0.Sphere has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2025.03.24-18.59.16:783][259]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: BP_Missile_FireBall_C_0 /Engine/Transient.World_8:PersistentLevel.BP_Missile_FireBall_C_0.Sphere 
+[2025.03.24-18.59.16:783][259]LogPhysics: Warning: Scale for /Engine/Transient.World_8:PersistentLevel.BP_Missile_FireBall_C_0.Sphere has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2025.03.24-18.59.16:783][259]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: BP_Missile_FireBall_C_0 /Engine/Transient.World_8:PersistentLevel.BP_Missile_FireBall_C_0.Sphere 
+[2025.03.24-18.59.16:783][259]LogPhysics: Warning: Scale for /Engine/Transient.World_8:PersistentLevel.BP_Missile_FireBall_C_0.Sphere has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2025.03.24-18.59.16:783][259]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: BP_Missile_FireBall_C_0 /Engine/Transient.World_8:PersistentLevel.BP_Missile_FireBall_C_0.Sphere 
+[2025.03.24-18.59.16:795][260]LogPhysics: Warning: Scale for /Engine/Transient.World_8:PersistentLevel.BP_Missile_FireBall_C_0.Sphere has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2025.03.24-18.59.16:795][260]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: BP_Missile_FireBall_C_0 /Engine/Transient.World_8:PersistentLevel.BP_Missile_FireBall_C_0.Sphere 
+[2025.03.24-18.59.16:795][260]LogPhysics: Warning: Scale for /Engine/Transient.World_8:PersistentLevel.BP_Missile_FireBall_C_0.Sphere has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2025.03.24-18.59.16:795][260]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: BP_Missile_FireBall_C_0 /Engine/Transient.World_8:PersistentLevel.BP_Missile_FireBall_C_0.Sphere 
+[2025.03.24-18.59.17:173][294]LogPhysics: Warning: Scale for /Engine/Transient.World_8:PersistentLevel.BP_Missile_FireBall_C_0.Sphere has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2025.03.24-18.59.17:173][294]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: BP_Missile_FireBall_C_0 /Engine/Transient.World_8:PersistentLevel.BP_Missile_FireBall_C_0.Sphere 
+[2025.03.24-18.59.17:173][294]LogPhysics: Warning: Scale for /Engine/Transient.World_8:PersistentLevel.BP_Missile_FireBall_C_0.Sphere has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2025.03.24-18.59.17:173][294]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: BP_Missile_FireBall_C_0 /Engine/Transient.World_8:PersistentLevel.BP_Missile_FireBall_C_0.Sphere 
+[2025.03.24-18.59.17:184][295]LogPhysics: Warning: Scale for /Engine/Transient.World_8:PersistentLevel.BP_Missile_FireBall_C_0.Sphere has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2025.03.24-18.59.17:184][295]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: BP_Missile_FireBall_C_0 /Engine/Transient.World_8:PersistentLevel.BP_Missile_FireBall_C_0.Sphere 
+[2025.03.24-18.59.17:184][295]LogPhysics: Warning: Scale for /Engine/Transient.World_8:PersistentLevel.BP_Missile_FireBall_C_0.Sphere has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2025.03.24-18.59.17:184][295]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: BP_Missile_FireBall_C_0 /Engine/Transient.World_8:PersistentLevel.BP_Missile_FireBall_C_0.Sphere 
+[2025.03.24-18.59.17:184][295]LogPhysics: Warning: Scale for /Engine/Transient.World_8:PersistentLevel.BP_Missile_FireBall_C_0.Sphere has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2025.03.24-18.59.17:184][295]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: BP_Missile_FireBall_C_0 /Engine/Transient.World_8:PersistentLevel.BP_Missile_FireBall_C_0.Sphere 
+[2025.03.24-18.59.17:195][296]LogPhysics: Warning: Scale for /Engine/Transient.World_8:PersistentLevel.BP_Missile_FireBall_C_0.Sphere has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2025.03.24-18.59.17:195][296]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: BP_Missile_FireBall_C_0 /Engine/Transient.World_8:PersistentLevel.BP_Missile_FireBall_C_0.Sphere 
+[2025.03.24-18.59.17:195][296]LogPhysics: Warning: Scale for /Engine/Transient.World_8:PersistentLevel.BP_Missile_FireBall_C_0.Sphere has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2025.03.24-18.59.17:195][296]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: BP_Missile_FireBall_C_0 /Engine/Transient.World_8:PersistentLevel.BP_Missile_FireBall_C_0.Sphere 
+[2025.03.24-18.59.17:195][296]LogPhysics: Warning: Scale for /Engine/Transient.World_8:PersistentLevel.BP_Missile_FireBall_C_0.Sphere has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2025.03.24-18.59.17:195][296]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: BP_Missile_FireBall_C_0 /Engine/Transient.World_8:PersistentLevel.BP_Missile_FireBall_C_0.Sphere 
+[2025.03.24-18.59.17:207][297]LogPhysics: Warning: Scale for /Engine/Transient.World_8:PersistentLevel.BP_Missile_FireBall_C_0.Sphere has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2025.03.24-18.59.17:207][297]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: BP_Missile_FireBall_C_0 /Engine/Transient.World_8:PersistentLevel.BP_Missile_FireBall_C_0.Sphere 
+[2025.03.24-18.59.17:207][297]LogPhysics: Warning: Scale for /Engine/Transient.World_8:PersistentLevel.BP_Missile_FireBall_C_0.Sphere has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2025.03.24-18.59.17:207][297]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: BP_Missile_FireBall_C_0 /Engine/Transient.World_8:PersistentLevel.BP_Missile_FireBall_C_0.Sphere 
+[2025.03.24-18.59.20:480][593]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.03.24-18.59.20:530][593]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/BP/BP_Missile_FireBall] ([2] browsable assets)...
+[2025.03.24-18.59.20:535][593]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/BP/BP_Missile_FireBall.BP_Missile_FireBall]
+[2025.03.24-18.59.20:536][593]OBJ SavePackage: Finished generating thumbnails for package [/Game/BP/BP_Missile_FireBall]
+[2025.03.24-18.59.20:536][593]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BP/BP_Missile_FireBall" FILE="../../../../../../Repos/Unreal/MissileCommandUE5/MissileCommand/Content/BP/BP_Missile_FireBall.uasset" SILENT=true
+[2025.03.24-18.59.20:540][593]LogSavePackage: Moving output files for package: /Game/BP/BP_Missile_FireBall
+[2025.03.24-18.59.20:541][593]LogSavePackage: Moving '../../../../../../Repos/Unreal/MissileCommandUE5/MissileCommand/Saved/BP_Missile_FireBall5373E04F435ADF00FB15C289D8D10CCF.tmp' to '../../../../../../Repos/Unreal/MissileCommandUE5/MissileCommand/Content/BP/BP_Missile_FireBall.uasset'
+[2025.03.24-18.59.20:549][593]LogFileHelpers: InternalPromptForCheckoutAndSave took 67.462 ms (total: 3.31 sec)
+[2025.03.24-18.59.20:597][593]LogContentValidation: Display: Starting to validate 1 assets
+[2025.03.24-18.59.20:597][593]LogContentValidation: Enabled validators:
+[2025.03.24-18.59.20:597][593]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.03.24-18.59.20:597][593]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.03.24-18.59.20:597][593]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.03.24-18.59.20:597][593]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.03.24-18.59.20:597][593]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.03.24-18.59.20:597][593]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.03.24-18.59.20:597][593]AssetCheck: /Game/BP/BP_Missile_FireBall Validating asset
+[2025.03.24-18.59.20:663][597]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.03.24-18.59.20:694][597]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/BP/BP_Missile_FireBall] ([2] browsable assets)...
+[2025.03.24-18.59.20:694][597]OBJ SavePackage: Finished generating thumbnails for package [/Game/BP/BP_Missile_FireBall]
+[2025.03.24-18.59.20:694][597]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BP/BP_Missile_FireBall" FILE="../../../../../../Repos/Unreal/MissileCommandUE5/MissileCommand/Content/BP/BP_Missile_FireBall.uasset" SILENT=true
+[2025.03.24-18.59.20:698][597]LogSavePackage: Moving output files for package: /Game/BP/BP_Missile_FireBall
+[2025.03.24-18.59.20:698][597]LogSavePackage: Moving '../../../../../../Repos/Unreal/MissileCommandUE5/MissileCommand/Saved/BP_Missile_FireBall4AF1662946C4D3E38CC4D8BC97BA1615.tmp' to '../../../../../../Repos/Unreal/MissileCommandUE5/MissileCommand/Content/BP/BP_Missile_FireBall.uasset'
+[2025.03.24-18.59.20:706][597]LogFileHelpers: InternalPromptForCheckoutAndSave took 42.566 ms (total: 3.35 sec)
+[2025.03.24-18.59.20:764][597]LogContentValidation: Display: Starting to validate 1 assets
+[2025.03.24-18.59.20:764][597]LogContentValidation: Enabled validators:
+[2025.03.24-18.59.20:764][597]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.03.24-18.59.20:764][597]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.03.24-18.59.20:764][597]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.03.24-18.59.20:764][597]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.03.24-18.59.20:764][597]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.03.24-18.59.20:764][597]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.03.24-18.59.20:764][597]AssetCheck: /Game/BP/BP_Missile_FireBall Validating asset
+[2025.03.24-18.59.22:897][828]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.03.24-18.59.22:946][828]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/BP/BP_Missile_FireBall] ([2] browsable assets)...
+[2025.03.24-18.59.22:946][828]OBJ SavePackage: Finished generating thumbnails for package [/Game/BP/BP_Missile_FireBall]
+[2025.03.24-18.59.22:946][828]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BP/BP_Missile_FireBall" FILE="../../../../../../Repos/Unreal/MissileCommandUE5/MissileCommand/Content/BP/BP_Missile_FireBall.uasset" SILENT=true
+[2025.03.24-18.59.22:950][828]LogSavePackage: Moving output files for package: /Game/BP/BP_Missile_FireBall
+[2025.03.24-18.59.22:950][828]LogSavePackage: Moving '../../../../../../Repos/Unreal/MissileCommandUE5/MissileCommand/Saved/BP_Missile_FireBallE815CF2942DFC3070F06FB865D9EE589.tmp' to '../../../../../../Repos/Unreal/MissileCommandUE5/MissileCommand/Content/BP/BP_Missile_FireBall.uasset'
+[2025.03.24-18.59.22:958][828]LogFileHelpers: InternalPromptForCheckoutAndSave took 60.805 ms (total: 3.41 sec)
+[2025.03.24-18.59.23:014][828]LogContentValidation: Display: Starting to validate 1 assets
+[2025.03.24-18.59.23:014][828]LogContentValidation: Enabled validators:
+[2025.03.24-18.59.23:014][828]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.03.24-18.59.23:014][828]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.03.24-18.59.23:014][828]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.03.24-18.59.23:014][828]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.03.24-18.59.23:014][828]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.03.24-18.59.23:014][828]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.03.24-18.59.23:014][828]AssetCheck: /Game/BP/BP_Missile_FireBall Validating asset
+[2025.03.24-18.59.24:998][ 44]LogUObjectHash: Compacting FUObjectHashTables data took   0.79ms
+[2025.03.24-18.59.26:802][248]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.03.24-18.59.26:844][248]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/BP/BP_Missile_FireBall] ([2] browsable assets)...
+[2025.03.24-18.59.26:850][248]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/BP/BP_Missile_FireBall.BP_Missile_FireBall]
+[2025.03.24-18.59.26:850][248]OBJ SavePackage: Finished generating thumbnails for package [/Game/BP/BP_Missile_FireBall]
+[2025.03.24-18.59.26:850][248]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BP/BP_Missile_FireBall" FILE="../../../../../../Repos/Unreal/MissileCommandUE5/MissileCommand/Content/BP/BP_Missile_FireBall.uasset" SILENT=true
+[2025.03.24-18.59.26:854][248]LogSavePackage: Moving output files for package: /Game/BP/BP_Missile_FireBall
+[2025.03.24-18.59.26:855][248]LogSavePackage: Moving '../../../../../../Repos/Unreal/MissileCommandUE5/MissileCommand/Saved/BP_Missile_FireBall7BA149714C6AF551C53F97AD0721A5B1.tmp' to '../../../../../../Repos/Unreal/MissileCommandUE5/MissileCommand/Content/BP/BP_Missile_FireBall.uasset'
+[2025.03.24-18.59.26:862][248]LogFileHelpers: InternalPromptForCheckoutAndSave took 59.630 ms (total: 3.47 sec)
+[2025.03.24-18.59.26:913][248]LogContentValidation: Display: Starting to validate 1 assets
+[2025.03.24-18.59.26:913][248]LogContentValidation: Enabled validators:
+[2025.03.24-18.59.26:913][248]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.03.24-18.59.26:913][248]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.03.24-18.59.26:913][248]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.03.24-18.59.26:913][248]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.03.24-18.59.26:913][248]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.03.24-18.59.26:913][248]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.03.24-18.59.26:913][248]AssetCheck: /Game/BP/BP_Missile_FireBall Validating asset
+[2025.03.24-18.59.26:989][256]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.03.24-18.59.27:051][256]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/BP/BP_Missile_FireBall] ([2] browsable assets)...
+[2025.03.24-18.59.27:051][256]OBJ SavePackage: Finished generating thumbnails for package [/Game/BP/BP_Missile_FireBall]
+[2025.03.24-18.59.27:051][256]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BP/BP_Missile_FireBall" FILE="../../../../../../Repos/Unreal/MissileCommandUE5/MissileCommand/Content/BP/BP_Missile_FireBall.uasset" SILENT=true
+[2025.03.24-18.59.27:056][256]LogSavePackage: Moving output files for package: /Game/BP/BP_Missile_FireBall
+[2025.03.24-18.59.27:057][256]LogSavePackage: Moving '../../../../../../Repos/Unreal/MissileCommandUE5/MissileCommand/Saved/BP_Missile_FireBall0320E743428D24E48BF0ACAF849E063A.tmp' to '../../../../../../Repos/Unreal/MissileCommandUE5/MissileCommand/Content/BP/BP_Missile_FireBall.uasset'
+[2025.03.24-18.59.27:065][256]LogFileHelpers: InternalPromptForCheckoutAndSave took 74.341 ms (total: 3.55 sec)
+[2025.03.24-18.59.27:118][256]LogContentValidation: Display: Starting to validate 1 assets
+[2025.03.24-18.59.27:118][256]LogContentValidation: Enabled validators:
+[2025.03.24-18.59.27:118][256]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.03.24-18.59.27:118][256]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.03.24-18.59.27:118][256]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.03.24-18.59.27:118][256]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.03.24-18.59.27:118][256]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.03.24-18.59.27:118][256]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.03.24-18.59.27:119][256]AssetCheck: /Game/BP/BP_Missile_FireBall Validating asset
+[2025.03.24-18.59.33:785][ 31]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.03.24-18.59.33:847][ 31]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/BP/BP_Missile_FireBall] ([2] browsable assets)...
+[2025.03.24-18.59.33:847][ 31]OBJ SavePackage: Finished generating thumbnails for package [/Game/BP/BP_Missile_FireBall]
+[2025.03.24-18.59.33:847][ 31]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BP/BP_Missile_FireBall" FILE="../../../../../../Repos/Unreal/MissileCommandUE5/MissileCommand/Content/BP/BP_Missile_FireBall.uasset" SILENT=true
+[2025.03.24-18.59.33:852][ 31]LogSavePackage: Moving output files for package: /Game/BP/BP_Missile_FireBall
+[2025.03.24-18.59.33:852][ 31]LogSavePackage: Moving '../../../../../../Repos/Unreal/MissileCommandUE5/MissileCommand/Saved/BP_Missile_FireBallCA9C639D4445B56582F88E8290107C15.tmp' to '../../../../../../Repos/Unreal/MissileCommandUE5/MissileCommand/Content/BP/BP_Missile_FireBall.uasset'
+[2025.03.24-18.59.33:860][ 31]LogFileHelpers: InternalPromptForCheckoutAndSave took 74.868 ms (total: 3.62 sec)
+[2025.03.24-18.59.33:912][ 31]LogContentValidation: Display: Starting to validate 1 assets
+[2025.03.24-18.59.33:912][ 31]LogContentValidation: Enabled validators:
+[2025.03.24-18.59.33:912][ 31]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.03.24-18.59.33:912][ 31]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.03.24-18.59.33:912][ 31]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.03.24-18.59.33:912][ 31]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.03.24-18.59.33:912][ 31]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.03.24-18.59.33:912][ 31]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.03.24-18.59.33:912][ 31]AssetCheck: /Game/BP/BP_Missile_FireBall Validating asset
+[2025.03.24-18.59.33:946][ 34]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.03.24-18.59.33:999][ 34]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/BP/BP_Missile_FireBall] ([2] browsable assets)...
+[2025.03.24-18.59.33:999][ 34]OBJ SavePackage: Finished generating thumbnails for package [/Game/BP/BP_Missile_FireBall]
+[2025.03.24-18.59.33:999][ 34]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BP/BP_Missile_FireBall" FILE="../../../../../../Repos/Unreal/MissileCommandUE5/MissileCommand/Content/BP/BP_Missile_FireBall.uasset" SILENT=true
+[2025.03.24-18.59.34:002][ 34]LogSavePackage: Moving output files for package: /Game/BP/BP_Missile_FireBall
+[2025.03.24-18.59.34:004][ 34]LogSavePackage: Moving '../../../../../../Repos/Unreal/MissileCommandUE5/MissileCommand/Saved/BP_Missile_FireBallCF182B904F70BDC17D1A65BF3F5CD18F.tmp' to '../../../../../../Repos/Unreal/MissileCommandUE5/MissileCommand/Content/BP/BP_Missile_FireBall.uasset'
+[2025.03.24-18.59.34:012][ 34]LogFileHelpers: InternalPromptForCheckoutAndSave took 64.767 ms (total: 3.69 sec)
+[2025.03.24-18.59.34:062][ 34]LogContentValidation: Display: Starting to validate 1 assets
+[2025.03.24-18.59.34:064][ 34]LogContentValidation: Enabled validators:
+[2025.03.24-18.59.34:064][ 34]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.03.24-18.59.34:064][ 34]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.03.24-18.59.34:064][ 34]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.03.24-18.59.34:064][ 34]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.03.24-18.59.34:064][ 34]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.03.24-18.59.34:064][ 34]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.03.24-18.59.34:064][ 34]AssetCheck: /Game/BP/BP_Missile_FireBall Validating asset
